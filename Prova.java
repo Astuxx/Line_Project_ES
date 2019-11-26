@@ -28,8 +28,8 @@ public class Prova {
 
             line = br.readLine();
             while (line != null) {
-            if (stringacomplete.charAt(0) == ' ') {
-                stringacomplete = stringacomplete.replaceFirst("^  *", "");
+            if (line.charAt(0) == ' ') {
+                line = line.replaceFirst("^  *", "");
             }
 
               sb.append(line).append("\n");
@@ -63,8 +63,9 @@ public class Prova {
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //still eat \n
         */
         
-        line = stringacomplete.replaceAll("[ \t]+"," ");
-        line = stringacomplete.replaceAll("^[ ]","").trim();
+        stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");
+        stringacomplete = stringacomplete.replaceAll("^[ ]","").trim();
+        stringacomplete = stringacomplete.replaceAll("([a-z0-9]+)(\\n)([a-z0-9]+)", "$1 $3");
         System.out.println(stringacomplete);
 
     }
