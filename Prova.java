@@ -9,7 +9,7 @@ public class Prova {
 
     public static void main(String Args[]) {
         //System.out.println("Ciao");
-        String regexBlankLine = "^[ \\t]$+"; 
+        String regexBlankLine = "^[ \\t]$+";
         String regexMultiSpace = "^[ \\t]+";
 
         // The name of file or path
@@ -50,22 +50,25 @@ public class Prova {
             System.out.println(
                 "Error reading file '" + fileName + "'");
         }
-        
+
         System.out.println("Prova stampa");
         System.out.println(stringacomplete);
-        
+
         /*Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
         System.out.println("FIRST REMOVE \n");
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //ok works
-        
+
         p = Pattern.compile(regexMultiSpace);
         System.out.println("SECOND REMOVE \n");
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //still eat \n
         */
-        
+
         stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");
         stringacomplete = stringacomplete.replaceAll("^[ ]","").trim();
-        stringacomplete = stringacomplete.replaceAll("([a-z0-9]+)(\\n)([a-z0-9]+)", "$1 $3");
+        //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
+        stringacomplete = stringacomplete.replaceAll(" \n","\n");
+        stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
+        //stringacomplete = stringacomplete.replaceAll("\n"," ");
         System.out.println(stringacomplete);
 
     }
