@@ -22,19 +22,24 @@ public class Prova {
         ArrayList<String> arrlist = new ArrayList<String>();
 
         try {
-            // FileReader to read file with the default endline ("\n")
-            FileReader fileReader = new FileReader(fileName);
+            // read file as String in Java SE 6 and lower version
+            BufferedReader br = new BufferedReader(new FileReader(fileName));
+            StringBuilder sb = new StringBuilder();
 
-            // Wrap FileReader in BufferedReader.
-            BufferedReader bufferedReader = new BufferedReader(fileReader);
-            //int i = 0;
-            while((line = bufferedReader.readLine()) != null) {
-                stringacomplete=stringacomplete+line;
-                arrlist.add(line);
+            line = br.readLine();
+            while (line != null) {
+            if (stringacomplete.charAt(0) == ' ') {
+                stringacomplete = stringacomplete.replaceFirst("^  *", "");
             }
 
+              sb.append(line).append("\n");
+              line = br.readLine();
+            }
+            System.out.println(sb);
+            stringacomplete = new String(sb);
+
             // Close file
-            bufferedReader.close();
+            br.close();
         }
         //catch eventually error generate
         catch(FileNotFoundException ex) {
@@ -46,13 +51,21 @@ public class Prova {
                 "Error reading file '" + fileName + "'");
         }
         
-        Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
+        System.out.println("Prova stampa");
+        System.out.println(stringacomplete);
+        
+        /*Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
         System.out.println("FIRST REMOVE \n");
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //ok works
         
         p = Pattern.compile(regexMultiSpace);
         System.out.println("SECOND REMOVE \n");
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //still eat \n
+        */
+        
+        line = stringacomplete.replaceAll("[ \t]+"," ");
+        line = stringacomplete.replaceAll("^[ ]","").trim();
+        System.out.println(stringacomplete);
 
     }
 }
