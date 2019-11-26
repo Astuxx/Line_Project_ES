@@ -14,7 +14,7 @@ public class Prova {
 
         // The name of file or path
         //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
-        String fileName = "Prova.txt";
+        String fileName = "AAMedP-1 EDA V1 E.txt";
         String line = null; //line read
         String stringacomplete = null;
 
@@ -27,13 +27,14 @@ public class Prova {
             StringBuilder sb = new StringBuilder();
 
             line = br.readLine();
-            while (line != null) {
-            if (line.charAt(0) == ' ') {
-                line = line.replaceFirst("^  *", "");
+            //System.out.println(line);
+            while (line == null) {
+                line = br.readLine();
             }
-
-              sb.append(line).append("\n");
-              line = br.readLine();
+            while (line != null) {
+                line = line.replaceFirst("^  *", "");
+                sb.append(line).append("\n");
+                line = br.readLine();
             }
             System.out.println(sb);
             stringacomplete = new String(sb);
@@ -68,6 +69,7 @@ public class Prova {
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
         stringacomplete = stringacomplete.replaceAll(" \n","\n");
         stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
+        stringacomplete = stringacomplete.replaceAll("^\\$(SRART|END)_PAGE_\\d+$","");
         //stringacomplete = stringacomplete.replaceAll("\n"," ");
         System.out.println(stringacomplete);
 

@@ -1,0 +1,469 @@
+
+$START_PAGE_1
+                                                           NATO STANDARD 
+                                                                         AAMedP-1 
+                             AEROSPACE MEDICINE DOCTRINE 
+                                                                       Edition A Version 1 
+                                                                         DECEMBER 2016 
+                                              NORTH ATLANTIC TREATY ORGANIZATION 
+                                                    ALLIED AEROMEDICAL PUBLICATION 
+                                                                              Published by the 
+                                                          NATO STANDARDIZATION OFFICE (NSO) 
+                                                                               © NATO/OTAN 
+
+$END_PAGE_1
+
+$START_PAGE_2
+                                                                     INTENTIONALLY BLANK 
+
+$END_PAGE_2
+
+$START_PAGE_3
+
+$END_PAGE_3
+
+$START_PAGE_4
+                                                                     INTENTIONALLY BLANK 
+
+$END_PAGE_4
+
+$START_PAGE_5
+                                                                                                                                              AAMedP-1 
+                                        RESERVED FOR NATIONAL LETTER OF PROMULGATION 
+                                                                                          I                                  Edition A Version 1 
+
+$END_PAGE_5
+
+$START_PAGE_6
+                                                                                                                                              AAMedP-1 
+                                                                     INTENTIONALLY BLANK 
+                                                                                          II                                 Edition A Version 1 
+
+$END_PAGE_6
+
+$START_PAGE_7
+                                                        RECORD OF RESERVATIONS 
+                           CHAPTER                                  RECORD OF RESERVATION BY NATIONS
+                         Note:      The reservations listed on this page include only those that were recorded at time 
+                         of promulgation and may not be complete. Refer to the NATO Standardization Document 
+                         Database for the complete list of existing reservations. 
+                                                                                         III                                 Edition A Version 1 
+
+$END_PAGE_7
+
+$START_PAGE_8
+                                                                     INTENTIONALLY BLANK 
+                                                                                         IV                                  Edition A Version 1 
+
+$END_PAGE_8
+
+$START_PAGE_9
+                                            RECORD OF SPECIFIC RESERVATIONS
+                             [nation]                                                 [detail of reservation] 
+                         Note:      The reservations listed on this page include only those that were recorded at time 
+                         of promulgation and may not be complete. Refer to the NATO Standardization Document 
+                         Database for the complete list of existing reservations. 
+                                                                                          V                                  Edition A Version 1 
+
+$END_PAGE_9
+
+$START_PAGE_10
+                                                                     INTENTIONALLY BLANK 
+                                                                                         VI                                  Edition A Version 1 
+
+$END_PAGE_10
+
+$START_PAGE_11
+                                                                       TABLE OF CONTENTS 
+                      CHAPTER 1                INTRODUCTION                 ............................................................................   1-1
+                      1.1           SCOPE AND RESPONSIBILITIES                               ...........................................................   1-1
+                      CHAPTER 2                AEROSPACE MEDICINE PERSONNEL                                      ........................................  2-1
+                      2.1           ROLES AND RESPONSIBILITIES                              ............................................................   2-1
+                      CHAPTER 3                SUPPORT TO AIR TRAINING AND OPERATIONS                                              ......................  3-1
+                      3.1           TYPES OF SUPPORT                      ..............................................................................   3-1
+                      CHAPTER 4                ORGANIZATIONAL STRUCTURE                                 .................................................  4-1
+                      4.1           CONSIDERATIONS FOR THE ORGANIZATION OF AN AEROSPACE 
+                                    MEDICINE SERVICE                    ................................................................................   4-1
+                      CHAPTER 5                AEROSPACE MEDICINE PERSONNEL TRAINING                                               ......................  5-1
+                      5.1           OVERVIEW            ...............................................................................................    5-1
+                      5.2           AEROSPACE MEDICINE/FLIGHT SURGEON TRAINING                                                    .......................  5-1
+                      5.3           ADVANCED AEROSPACE MEDICINE/FLIGHT SURGEON TRAINING .. 5-1
+                      5.4           FLIGHT NURSE/MEDIC TRAINING                                .........................................................   5-2
+                      5.5           EXERCISES            ..............................................................................................    5-2
+                      5.6           ADDITIONAL TRAINING                      ...........................................................................   5-2
+                      CHAPTER 6                AIRCREW AEROMEDICAL TRAINING                                    ..........................................  6-1
+                      6.1           COMPONENTS OF AN AIRCREW AEROMEDICAL TRAINING 
+                                    PROGRAMME                 ..........................................................................................   6-1
+                      CHAPTER 7                FLIGHT SAFETY                ............................................................................   7-1
+                      7.1           ROLES OF AEROSPACE MEDICINE PERSONNEL IN A FLIGHT SAFETY 
+                                    PROGRAMME                 ..........................................................................................   7-1
+                      7.2           ACCIDENT/INCIDENT INVESTIGATION                                     .................................................  7-1
+                      CHAPTER 8                AEROMEDICAL EVACUATION                               .....................................................  8-1
+                      8.1           CONCEPTS AND REFERENCES                                 ............................................................   8-1
+                      CHAPTER 9                RESEARCH, TEST AND EVALUATION                                     ........................................  9-1
+                      9.1           ROLE OF RESEARCH, TEST AND EVALUATION IN AEROSPACE 
+                                    MEDICINE          .................................................................................................    9-1
+                                                                                         VII                                 Edition A Version 1 
+
+$END_PAGE_11
+
+$START_PAGE_12
+                                                                     INTENTIONALLY BLANK 
+                                                                                        VIII                                 Edition A Version 1 
+
+$END_PAGE_12
+
+$START_PAGE_13
+                                                                                                                                              AAMedP-1 
+                                                                  CHAPTER 1 INTRODUCTION 
+                      1.1        SCOPE AND RESPONSIBILITIES 
+                      1.         Aerospace medicine is the specialty of medicine concerning the determination 
+                      and maintenance of the health, safety, and performance of those who fly or control 
+                      systems in the air and space environments. It encompasses aspects of occupational, 
+                      preventive, and primary care medicine. Aerospace medicine supports air operations 
+                      and is especially effective when employed in a proactive manner; anticipating, 
+                      recognizing, and controlling factors adversely impacting human health, safety and 
+                      performance; and promoting those opportunities which may sustain and optimize 
+                      performance. 
+                      2.         The military applications of this specialty currently include the support of both 
+                      manned and unmanned aircraft operations. This includes the aeromedical 
+                      requirements for aviation personnel of all armed services, the medical risks for flight 
+                      passengers, the standards for aeromedical evacuation, and the ergonomics and 
+                      human factors applicable to health, fitness and safety in the air and space 
+                      environments. 
+                      3.         Within the context of NATO, member nations provide subject matter experts in 
+                      the field of aerospace medicine to serve as delegates of the Aeromedical Working 
+                      Group (AMDWG).                     This working group reports to the Military Committee Air 
+                      Standardization Board. STANAGs promulgated through the AMDWG promote 
+                      standardization and interoperability of aeromedical evacuation operations and 
+                      equipment, in direct support of the military aviator and air operations. AMDWG 
+                      coordinates and liaises with Committee of Chiefs of Military Medical Services 
+                      (COMEDS) and the medical panels of other NATO medical working groups to ensure 
+                      concordance with and support to the development of general medical standardization 
+                      documents. 
+                      4.         This doctrine is written to lay the foundation for what are considered to be the 
+                      core components of an aerospace medicine capability expected for any NATO nation. 
+                      This will allow for greater ease of interoperability and set the foundation for future 
+                      operational partnerships. In furthering interoperability, NATO nations are working with 
+                      nations involved in other international fora such as the European Air Group (EAG) and 
+                      the Air and Space Interoperability Council (ASIC).                                     This doctrine is subordinate to 
+                      NATO Publication AJP-4.10(B) Allied Joint Medical Support Doctrine and amplifies 
+                      Section 1.3.2 - Air Operations, paragraphs 1-4. 
+                                                                                         1-1                                 Edition A Version 1 
+
+$END_PAGE_13
+
+$START_PAGE_14
+                                                                                                                                              AAMedP-1 
+                      5.         National military medical services are responsible for organizing, training, and 
+                      equipping aeromedical evacuation forces to provide rapid and flexible response in 
+                      support of their operational military aerospace commanders, across a broad range of 
+                      air and space missions, to include expeditionary war-fighting, peacekeeping, and 
+                      humanitarian assistance. 
+                                                                                         1-2                                 Edition A Version 1 
+
+$END_PAGE_14
+
+$START_PAGE_15
+                                                                                                                                              AAMedP-1 
+                                               CHAPTER 2 AEROSPACE MEDICINE PERSONNEL 
+                      2.1        ROLES AND RESPONSIBILITIES 
+                      1.         The National Chiefs of Military Medical Services are responsible for appointing 
+                      a person to assume the role of a military Aerospace Medicine Authority and ensuring 
+                      trained and experienced Aerospace Medicine personnel are available at all levels to 
+                      fulfill the mandate of a national aerospace medicine programme. This designated 
+                      authority will be located in a geographic position appropriate to his/her national military 
+                      structure. 
+                      2.         Aerospace Medicine Authority/Head of Aerospace Medicine - This person is a 
+                      flight surgeon with advanced training in aerospace medicine and is responsible for the 
+                      national aerospace medicine programme, including training of aerospace medicine 
+                      personnel, oversight of support to air operations and the aeromedical evacuation 
+                      system. 
+                      3.         Flight Surgeon - A flight surgeon is a physician who has undergone a recognized 
+                      training programme in aerospace medicine who is authorized to conduct aircrew 
+                      medical examination, provision of day to day medical care of aircrew including 
+                      determination of fitness to fly, and provide aerospace medical support to aircrew and 
+                      their chain of command. In addition to having skills and knowledge in general and 
+                      aerospace medicine, flight surgeons are also required to obtain and maintain 
+                      knowledge and experience in the aviation environment. This should include the 
+                      occupational stressors and hazards of the cockpit/aircraft interior as well as those of 
+                      the missions flown by the aircrew. The flight surgeon should also spend sufficient time 
+                      with the aircrew at the base or squadron level in the non-flying environment in order to 
+                      develop and maintain situational awareness of the other issues affecting them. The 
+                      local flight surgeon is part of the flight safety programme at base level and a flight 
+                      surgeon should also be part of the national military flight safety programme. Flight 
+                      surgeons may be augmented by other health care providers such as physician 
+                      assistants who also have defined training in aerospace medicine. This will vary among 
+                      nations. 
+                      4.         Flight Nurse- A flight nurse is a nurse who is specially qualified to provide safe 
+                      medical care to patients in the aeromedical evacuation environment. 
+                      5.         Flight medic- A flight medic is a medical technician who is utilized in aeromedical 
+                      evacuation teams. In those nations that use them, flight medics have defined roles and 
+                      responsibilities in the aeromedical evacuation environment. 
+                                                                                         2-1                                 Edition A Version 1 
+
+$END_PAGE_15
+
+$START_PAGE_16
+                                                                                                                                              AAMedP-1 
+                      6.         Specialist physicians and nurses (anaesthesiologists, intensivists, critical care 
+                      nurses, pediatricians, etc.)- These specialist personnel augment aeromedical 
+                      evacuation teams when dealing with seriously ill patients during flight. These 
+                      specialists may also be used as augmentees to standing AE teams or may be part of 
+                      a defined Critical Care Air Transport Team/Critical Care Air Support Team 
+                      (CCATT/CCAST). These specialist teams are sometimes augmented by respiratory 
+                      technicians and other personnel as required, depending on national policy and 
+                      resources. 
+                      7.         Physiologists- Physiologists may be military or civilian personnel. They may 
+                      have varying degrees of formal military and flying roles depending on their nation's 
+                      policies. Aerospace physiologists may be involved in research, human factors analysis 
+                      and aeromedical training. In some nations, these roles are conducted by flight 
+                      surgeons. 
+                      8.         Nations may have other personnel, military and civilian, that are involved in the 
+                      support of aerospace medicine. They may work in a variety of areas including but not 
+                      confined to noise and vibration, psychology, physiology, equipment design, test and 
+                      evaluation (e.g., helmet, night vision systems, oxygen systems), anthropometry, bio-
+                      dynamics and CBRN. 
+                                                                                         2-2                                 Edition A Version 1 
+
+$END_PAGE_16
+
+$START_PAGE_17
+                                                                                                                                              AAMedP-1 
+                                      CHAPTER 3 SUPPORT TO AIR TRAINING AND OPERATIONS 
+                      3.1        TYPES OF SUPPORT 
+                      1.         Clinical support: Flight surgeons apply aeromedical risk assessment in 
+                      determining fitness to fly at aircrew selection and throughout service, including follow 
+                      up after illness or injury. An effective aerospace medicine programme ensures a fit and 
+                      healthy force, timely treatment of illness and injury, and management of hazards and 
+                      risks to health in the air and space environments. It should be emphasized that minor 
+                      medical conditions, when exposed to the aviation environment, may have a significant 
+                      impact on flight safety or mission success. 
+                      2.         Medical Advice to the chain of Command: Flight surgeons provide advice to the 
+                      operational chain of command on matters related to health, safety, and well being of 
+                      aircrew. This advice should help identify and mitigate operational risk in areas such as 
+                      fatigue, night operations, life support equipment and special operational environments 
+                      (high altitude, cold, heat, etc). It is essential that the flight surgeon be able to liaise 
+                      closely and authoritatively with both medical and air operations chains of command. 
+                      3.         Planning: Aeromedical input must be provided early in the operations planning 
+                      process on such matters as, provision of healthcare, aeromedical evacuation, aircrew 
+                      performance                 optimization,               clinical           timelines,             CBRN,               multinational 
+                      coordination/interoperability, and emergency support to airfield operations. 
+                                                                                         3-1                                 Edition A Version 1 
+
+$END_PAGE_17
+
+$START_PAGE_18
+                                                                                                                                              AAMedP-1 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         3-2                                 Edition A Version 1 
+
+$END_PAGE_18
+
+$START_PAGE_19
+                                                                                                                                              AAMedP-1 
+                                                    CHAPTER 4 ORGANIZATIONAL STRUCTURE 
+                      4.1        CONSIDERATIONS FOR THE ORGANIZATION OF AN AEROSPACE 
+                      MEDICINE SERVICE 
+                      1.         Each member nation will have its own organizational structure to oversee and 
+                      administer aeromedical policy and standards. Policy and standards development 
+                      should, at a minimum, include, medical aspects of flight safety, aircrew medical 
+                      standards (selection and retention), approved medications, aircrew preventive 
+                      medicine, and aeromedical evacuation. 
+                      2.         Additionally, the organizational structure should provide the following: 
+                                 a.         A system of clinical governance/oversight. This would be included in the 
+                                            wider, national military medical governance and oversight system but 
+                                            should have aerospace medicine specialists overseeing the aerospace 
+                                            medicine programme. 
+                                 b.         Consultation Service - This is a group of specialist physicians, who 
+                                            should have training in aerospace medicine and who have experience in 
+                                            the disposition of aircrew with complex pathology. They may work 
+                                            together in the same geographic location or work as a virtual group. 
+                                 c.         Center     ’s of Aviation Medicine               - Some nations have research institutions 
+                                            to promote and support specialist knowledge, research and development 
+                                            in areas important to aerospace medicine. Additionally, nations may have 
+                                            schools for the training of aeromedical personnel and aircrew. 
+                                                                                         4-1                                 Edition A Version 1 
+
+$END_PAGE_19
+
+$START_PAGE_20
+                                                                                                                                              AAMedP-1 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         4-2                                 Edition A Version 1 
+
+$END_PAGE_20
+
+$START_PAGE_21
+                                                                                                                                              AAMedP-1 
+                                      CHAPTER 5 AEROSPACE MEDICINE PERSONNEL TRAINING 
+                      5.1        OVERVIEW 
+                      Aerospace medicine personnel require specialized training in order to fulfill their duties. 
+                      This training will provide these personnel with the competencies to perform their 
+                      specific duties in the air and space environments. In all cases, appropriate evaluation 
+                      procedures (formal written and/or practical exams, assignments etc) will be utilized to 
+                      confirm personnel have attained the expected standards. Ongoing clinical and practical 
+                      evaluation will continue throughout the individual's service including participation in 
+                      exercises in the operational context. 
+                      5.2        AEROSPACE MEDICINE/FLIGHT SURGEON TRAINING 
+                      1.         Flight surgeons must demonstrate satisfactory completion of a nationally 
+                      recognized aerospace medicine course covering physiological, clinical and 
+                      psychological factors that impact on the ability of aircrew to operate in an air or space 
+                      environment. It should also include familiarity with aircrew life support and safety 
+                      equipment and air operations. 
+                      2.         It should be emphasized that flight surgeons should become more familiar with 
+                      life support and safety systems peculiar to the aircraft types which are at the bases to 
+                      which they are assigned. Any nation that has aircrew CBRN systems should include 
+                      training in the operation and potential problems of these systems for their flight 
+                      surgeons (or military aerospace physiologists for those nations that have them). 
+                      3.         To maintain competency, a system of refresher training should be provided. It 
+                      should emphasize the practical application of basic principles and provide updates on 
+                      the clinical management of conditions relevant to aerospace medicine. It should be 
+                      conducted on a regular basis as per national standards or requirements. 
+                      5.3        ADVANCED AEROSPACE MEDICINE/FLIGHT SURGEON TRAINING 
+                      This training is defined as higher training in aerospace medicine which gives a broader 
+                      and more in-depth education in the academic and practical aspects of aerospace 
+                      medicine. There are various courses worldwide which provide this type of training. This 
+                      training will allow these practitioners to hold more senior and advanced positions in the 
+                      aerospace medicine community providing higher levels of advice and oversight. 
+                      Ideally, this training should include some level of flying exposure including ground 
+                      school and basic hands-on flying training. 
+                                                                                         5-1                                 Edition A Version 1 
+
+$END_PAGE_21
+
+$START_PAGE_22
+                                                                                                                                              AAMedP-1 
+                      5.4        FLIGHT NURSE/MEDIC TRAINING 
+                      This training includes instruction on stressors of flight, theoretical and practical aspects 
+                      of medical care in the air and aircraft safety systems, and safe egress of patients. 
+                      Instruction is in accordance with AAMedP-1.1, Chapter 6. 
+                      5.5        EXERCISES 
+                      In all cases it should be emphasized that part of the ongoing training of aerospace 
+                      medicine personnel should include participation in national and international exercises 
+                      that will allow them to practice their disciplines. Participation in international exercises 
+                      will foster interoperability. 
+                      5.6        ADDITIONAL TRAINING 
+                      When appropriate, aerospace medicine personnel should receive land and sea 
+                      survival, aircraft escape and survival, evasion, resistance and escape (SERE) training 
+                      as per national doctrine. 
+                                                                                         5-2                                 Edition A Version 1 
+
+$END_PAGE_22
+
+$START_PAGE_23
+                                                                                                                                              AAMedP-1 
+                                                CHAPTER 6 AIRCREW AEROMEDICAL TRAINING 
+                      6.1        COMPONENTS OF AN AIRCREW AEROMEDICAL TRAINING 
+                      PROGRAMME 
+                      1.         The goal of aircrew aeromedical training is to protect health, promote flight 
+                      safety and optimize performance. Components of an aircrew aeromedical training 
+                      program should include: 
+                                 a.         Aeromedical training as described in STANAG 3114. It should be noted 
+                                            that there should be medical oversight of aeromedical training, program 
+                                            development and review. Not all nations may have all components of a 
+                                            full aeromedical training program (e.g. centrifuge). 
+                                 b.         Human Factors training - Many nations mandate human factors training 
+                                            for aircrew and ground crew. The thrust of this training is to recognize 
+                                            errors in procedures, policies etc, in order to prevent accidents. 
+                      2.         Special areas such as CBRN and night vision devices, if used by a given nation, 
+                      will necessitate specialized training as required. Such specialized training is defined in 
+                      different STANAGs. It should be emphasized that aerospace medicine personnel 
+                      should be involved in this type of training but are not necessarily overall responsible 
+                      for it. 
+                                                                                         6-1                                 Edition A Version 1 
+
+$END_PAGE_23
+
+$START_PAGE_24
+                                                                                                                                              AAMedP-1 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         6-2                                 Edition A Version 1 
+
+$END_PAGE_24
+
+$START_PAGE_25
+                                                                                                                                              AAMedP-1 
+                                                                  CHAPTER 7 FLIGHT SAFETY 
+                      7.1        ROLES OF AEROSPACE MEDICINE PERSONNEL IN A FLIGHT SAFETY 
+                      PROGRAMME 
+                      Aerospace medicine plays a vital role in achieving and maintaining the highest level of 
+                      military aviation safety. Medical certification and management of aircrew and 
+                      maintenance personnel are key aerospace medicine activities that influence flight 
+                      safety. Further, aerospace medicine should be integrated into formal flight safety 
+                      programs to include accident/incident investigations, flight safety promotion and 
+                      education, and provide independent review/advice on policy, standards and 
+                      procedures. To be most effective, aerospace medicine personnel must be well 
+                      integrated into line unit activities and actively participate in the unit flying mission. 
+                      7.2        ACCIDENT/INCIDENT INVESTIGATION 
+                      The aerospace medicine component of aviation accident/incident investigations 
+                      considers the medical and human factors, survivability, performance of life support 
+                      systems, escape systems, and aircrew equipment assemblies. The primary goal of 
+                      investigations is to develop effective and practical preventive measures that will reduce 
+                      the risk of a reoccurrence or decrease the severity of consequences and injury. All 
+                      flight surgeons must have an understanding of the principles of accident/incident 
+                      investigation and evidence preservation. Investigating flight surgeons must have 
+                      additional formal training and practical experience to develop the required level of 
+                      competency to participate in or provide advice to the flight safety investigation board. 
+                      Flight      surgeon          consultation            with      experts         in    human          factors        (physiologists, 
+                      psychologists), safety equipment, and engineering is essential in gaining an 
+                      understanding of critical factors related to the accident/incident. 
+                                                                                         7-1                                 Edition A Version 1 
+
+$END_PAGE_25
+
+$START_PAGE_26
+                                                                                                                                              AAMedP-1 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         7-2                                 Edition A Version 1 
+
+$END_PAGE_26
+
+$START_PAGE_27
+                                                                                                                                              AAMedP-1 
+                                                      CHAPTER 8 AEROMEDICAL EVACUATION 
+                      8.1        CONCEPTS AND REFERENCES 
+                      1.         Knowledge of the physiological stresses of flight on casualties being transported 
+                      by air and knowledge of aircraft capabilities and air operating procedures enables 
+                      aerospace medicine personnel to plan, support, and deliver a safe aeromedical 
+                      evacuation service. Personnel and equipment interoperability in aeromedical 
+                      evacuation improves efficiency within joint and multinational operations. For further 
+                      information on aeromedical evacuation refer to: 
+                                 a.         AJMed-P-2 (Allied Joint Doctrine for Medical Evacuation), 
+                                 b.         STANAG 3204 (Aeromedical Evacuation), 
+                                 c.         STANAG 2087(Medical Employment of Air Transport in the Forward 
+                                            Area). 
+                                                                                         8-1                                 Edition A Version 1 
+
+$END_PAGE_27
+
+$START_PAGE_28
+                                                                                                                                              AAMedP-1 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         8-2                                 Edition A Version 1 
+
+$END_PAGE_28
+
+$START_PAGE_29
+                                               CHAPTER 9 RESEARCH, TEST AND EVALUATION 
+                      9.1        ROLE OF RESEARCH, TEST AND EVALUATION IN AEROSPACE 
+                      MEDICINE 
+                      Aerospace medicine is underpinned by a strong research capability that advances 
+                      fundamental aerospace medicine knowledge, enabling development and evaluation of 
+                      equipment and development of contemporary evidence-based policy and standards. 
+                      Aerospace medicine personnel should be engaged in all phases of aviation system 
+                      acquisitions to provide consultation and design expertise to optimize the interface 
+                      between the human and the system. Specifically, human systems integration principles 
+                      should be utilized early in the design and acquisition of new aircraft systems including 
+                      unmanned aircraft systems. Aerospace medicine personnel need to keep abreast of 
+                      novel concepts in manned and unmanned aerospace platforms in order to ensure they 
+                      continue to be able to deliver their mandate in this rapidly expanding area of air 
+                      operations. 
+                                                                                         9-1                                 Edition A Version 1 
+
+$END_PAGE_29
+
+$START_PAGE_30
+                                                               AAMedP-1(A)(1) 
+
+$END_PAGE_30
