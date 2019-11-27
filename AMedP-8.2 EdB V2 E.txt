@@ -1,0 +1,446 @@
+
+$START_PAGE_1
+                                                           NATO STANDARD 
+                                                                        AMedP-8.2 
+                           BASIC MILITARY MEDICAL REPORT 
+                                                                       Edition B Version 2 
+                                                                                 MAY 2017 
+                                              NORTH ATLANTIC TREATY ORGANIZATION 
+                                                          ALLIED MEDICAL PUBLICATION 
+                                                                              Published by the 
+                                                          NATO STANDARDIZATION OFFICE (NSO) 
+                                                                               © NATO/OTAN 
+
+$END_PAGE_1
+
+$START_PAGE_2
+                                                                     INTENTIONALLY BLANK 
+
+$END_PAGE_2
+
+$START_PAGE_3
+                                             NORTH ATLANTIC TREATY ORGANIZATION (NATO) 
+                                                      NATO STANDARDIZATION OFFICE (NSO) 
+                                                           NATO LETTER OF PROMULGATION 
+                                                                                                                                             3 May 2017 
+                     1.         The enclosed Allied Medical Publication AMedP-8.2, Edition                                                B,   Version       2, 
+                     BASIC MILITARY MEDICAL REPORT, which has been approved by the nations                                                             in  the 
+                     Military Committee Medical Standardization Board,                                       is   promulgated herewith. The 
+                     agreement          of  nations      to  use this publication            is  recorded       in  STANAG 2348. 
+                     2.         AMedP-8.2, Edition                B,    Version      2,    is   effective upon receipt.                  It  supersedes 
+                     AMedP-8.2, Edition              B,  Version       1,  which shall       be   destroyed        in  accordance with the local 
+                     procedure for the destruction of documents. 
+                     3.         No    part   of  this publication may            be   reproduced, stored              in a retrieval system, used 
+                     commercially, adapted, or transmitted                             in   any form or by any means, electronic, 
+                     mechanical, photo-copying, recording or otherwise, without the prior permission of the 
+                     publisher. With the exception of commercial sales, this does not apply to member or 
+                     partner nations, or NATO commands and bodies. 
+                     4.         This publication shall be handled                     in  accordance with C-M(2002)60. 
+                                                                                               Edvardas MAZEIKIS 
+                                                                                              Major General, L TUAF 
+                                                                                               Director, NATO standardization Office 
+
+$END_PAGE_3
+
+$START_PAGE_4
+                                                                     INTENTIONALLY BLANK 
+
+$END_PAGE_4
+
+$START_PAGE_5
+                                                                                                                                              AMedP-8.2
+                                        RESERVED FOR NATIONAL LETTER OF PROMULGATION 
+                                                                                          I                                  Edition B Version 2 
+
+$END_PAGE_5
+
+$START_PAGE_6
+                                                                                                                                              AMedP-8.2
+                                                                     INTENTIONALLY BLANK 
+                                                                                          II                                 Edition B Version 2 
+
+$END_PAGE_6
+
+$START_PAGE_7
+                                                                                                                                              AMedP-8.2
+                                                        RECORD OF RESERVATIONS 
+                           CHAPTER                                  RECORD OF RESERVATION BY NATIONS
+                         Note:      The reservations listed on this page include only those that were recorded at time 
+                         of promulgation and may not be complete. Refer to the NATO Standardization Document 
+                         Database for the complete list of existing reservations.
+                                                                                         III                                 Edition B Version 2 
+
+$END_PAGE_7
+
+$START_PAGE_8
+                                                                                                                                              AMedP-8.2
+                                                                     INTENTIONALLY BLANK 
+                                                                                         IV                                  Edition B Version 2 
+
+$END_PAGE_8
+
+$START_PAGE_9
+                                                                                                                                              AMedP-8.2
+                                                        RECORD OF SPECIFIC RESERVATIONS 
+                              [nation]            [detail of reservation] 
+                         FRA                      France will not mention the pieces of information below as set out 
+                                                  in Chapter 3 of AMedP 46 in the patient’s personal
+                                                  military hospital record and in the near future : 
+                                                  - § 302.i      –  The (patient’s) full civil status: the marital status will not 
+                                                  be mentioned. 
+                                                  - § 302.k         –  Name and address of patient’s next of kin or other 
+                                                  individual designated by patient to be notified in emergency: this 
+                                                  information is kept for the French commander 
+                         Note:      The reservations listed on this page include only those that were recorded at time 
+                         of promulgation and may not be complete. Refer to the NATO Standardization Document 
+                         Database for the complete list of existing reservations. 
+                                                                                          V                                  Edition B Version 2 
+
+$END_PAGE_9
+
+$START_PAGE_10
+                                                                                                                                              AMedP-8.2
+                                                                     INTENTIONALLY BLANK 
+                                                                                         VI                                  Edition B Version 2 
+
+$END_PAGE_10
+
+$START_PAGE_11
+                                                                                                                                              AMedP-8.2
+                                                                       TABLE OF CONTENTS 
+                      CHAPTER 1                RELATED DOCUMENTS                         ...............................................................   1-1
+                      CHAPTER 2                INTRODUCTION                 ............................................................................   2-1
+                      2.1           GENERAL           .................................................................................................    2-1
+                      2.2           AIM    ............................................................................................................    2-1
+                      2.3           AGREEMENT               ............................................................................................   2-1
+                      CHAPTER 3                MINIMUM INFORMATION TO BE INCLUDED IN THE BASIC 
+                                               MILITARY MEDICAL REPORT                             ......................................................  3-1
+                      3.1           GENERAL           .................................................................................................    3-1
+                      3.2           PERSONAL INFORMATION                           .....................................................................   3-1
+                      3.3           MEDICAL TREATMENT FACILITY INFORMATION                                              .................................  3-1
+                      3.4           MEDICAL (CLINICAL) INFORMATION                                  .....................................................  3-2
+                      3.5           AUTHENTICATION OF THE RECORD                                     ....................................................  3-2
+                      3.6           ENGLISH OR FRENCH SUMMARY OF MEDICAL RECORD, BASIC 
+                                    MILITARY MEDICAL REPORT                            .................................................................   3-2
+                      ANNEX A               LIST OF NATIONAL MILITARY MEDICAL AUTHORITIES.                                                  ..............A-1
+                                                                                         VII                                 Edition B Version 2 
+
+$END_PAGE_11
+
+$START_PAGE_12
+                                                                                                                                              AMedP-8.2
+                                                                     INTENTIONALLY BLANK 
+                                                                                        VIII                                 Edition B Version 2 
+
+$END_PAGE_12
+
+$START_PAGE_13
+                                                                                                                                              AMedP-8.2
+                                                           CHAPTER 1 RELATED DOCUMENTS 
+                      The following documents are of special importance for this AMedP : 
+                      1.         MC 326/3         –  NATO Principles and Policies of Medical Support 
+                      2.         STANAG 1059 INT                 –  Letter Codes for Geographical Entities 
+                      3.         STANAG 2061 MED                   –  Procedures for Disposition of Allied Patients by Medical 
+                      Installations 
+                      4.         STANAG 2132 MED                   –  Documentation Relative to Medical Initial Treatment and 
+                      Evacuation 
+                                                                                        1-1                                  Edition B Version 2 
+
+$END_PAGE_13
+
+$START_PAGE_14
+                                                                                                                                              AMedP-8.2
+                                                                     INTENTIONALLY BLANK 
+                                                                                        1-2                                  Edition B Version 2 
+
+$END_PAGE_14
+
+$START_PAGE_15
+                                                                                                                                              AMedP-8.2
+                                                                  CHAPTER 2 INTRODUCTION 
+                      2.1        GENERAL 
+                      It is important for the further treatment of a wounded service person that the military 
+                      clinical record is following the service person from one hospital to another, no matter if 
+                      it is between allied hospitals or back to a national hospital. This record will contain a 
+                      minimum of information and will be standardized. 
+                      2.2        AIM 
+                      The aim of this Allied Medical Publication is to standardize the minimum information to 
+                      be included in a Basic military medical report when patients from one nation are treated 
+                      in hospitals of other nations and how to handle this information when patient are 
+                      transferred from one MTF to another military or civilian hospital. 
+                      2.3        AGREEMENT 
+                      Participating nations agree to the details herein. 
+                      1.         The information listed in the Basic Military Medical Report, see Chapter 3 below, 
+                      will be valid for both in-patient and out- patient treatments. All personal information 
+                      therein will be treated like all other medical information with respect to confidentiality. 
+                      2.         When a patient of one allied nation is treated in a military hospital of another 
+                      nation, a Basic Military Medical Report will be prepared for her/him. This record will 
+                      accompany the patient upon transfer between Military Medical installations/Hospitals 
+                      or back to parent nation. 
+                      3.         The record will be forwarded to the patient’s national                                 military medical authority 
+                      according to Annex A, when: 
+                                 a.         The treatment of the patient is completed, 
+                                 b.         The patient is discharged from the hospital or dies, 
+                                 c.         The treatment record meets the criteria for retirement. 
+                                                                                        2-1                                  Edition B Version 2 
+
+$END_PAGE_15
+
+$START_PAGE_16
+                                                                                                                                              AMedP-8.2
+                      4.         The Basic Military Medical Report should be issued on a computer medium or 
+                      in an electronic/digital form where practicable or in paper format. 
+                      5.         When a Field Medical Card and/or Patient Evacuation Tag has also been 
+                      prepared, it will accompany the Basic military medical report. 
+                      6.         The minimum information in the Basic Military Medical Report should be 
+                      standard for all the forces concerned and include all items listed in the paragraphs in 
+                      Chapter 3 below. 
+                      7.         Changes to ANNEX A                           –    LIST OF NATIONAL MILITARY MEDICAL 
+                      AUTHORITIES              –   may be performed as editorial changes as appropriate, without any 
+                      need for a new ratification process. Each nation has the responsibility for providing the 
+                      correct data to the Custodian Nation                       –  Norway       –  who will forward the given information 
+                      to NSO for editorial changes ASAP. 
+                                                                                        2-2                                  Edition B Version 2 
+
+$END_PAGE_16
+
+$START_PAGE_17
+                                                                                                                                              AMedP-8.2
+                             CHAPTER 3 MINIMUM INFORMATION TO BE INCLUDED IN THE BASIC 
+                                                                 MILITARY MEDICAL REPORT 
+                      3.1        GENERAL 
+                      It is vital for the further treatment of the patient that the minimum information found in 
+                      the Basic Military Medical Report is correct and standardized between nations in a 
+                      NATO operation. The following information is always to be found in the Patient’s 
+                      Personal Information Record. 
+                      3.2        PERSONAL INFORMATION 
+                      1.         Surname (Family name). 
+                      2.         Forenames. 
+                      3.         Personal service number or identification number, if civilian patient. 
+                      4.         Rank/Grade. 
+                      5.         Military unit or organization to which the patient belongs or is attached (unless 
+                      this is classified for security reasons). 
+                      6.         Home Nation and armed force with which patient is serving. 
+                      7.         Sex. 
+                      8.         Age (Date of birth). 
+                      9.         Branch or Service. 
+                      10.        Name and unit of patient’s commander (unless this is classified for security 
+                      reasons). 
+                      3.3        MEDICAL TREATMENT FACILITY INFORMATION 
+                      1.         Name or number of hospital which prepares the record. 
+                      2.         Nation to which hospital belongs or lead nation, LN. 
+                      3.         Location of hospital (unless location is classified for security reasons) 
+                                                                                        3-1                                  Edition B Version 2 
+
+$END_PAGE_17
+
+$START_PAGE_18
+                                                                                                                                              AMedP-8.2
+                      3.4        MEDICAL (CLINICAL) INFORMATION 
+                      1.         Date patient was admitted to hospital. 
+                      2.         Site of Injury/Injury and Mechanism of injury/illness (if applicable) 
+                      3.         History of patient pertinent to condition for which treatment is given. 
+                      4.         Report of physical examination. 
+                      5.         Report of surgical procedure and findings (if any). 
+                      6.         Diagnostic and therapeutic orders. 
+                      7.         Observations made by professional staff during patient’s stay in hospital.
+                      8.         Reports of actions and findings, including laboratory, X-ray, and other diagnostic 
+                      tests as appropriate. If surgery was performed, a full surgical report will be included 
+                      with detailed summaries of procedures performed and findings during the surgery. 
+                      9.         Conclusions, including final diagnosis. 
+                      10.        Recommendations for further treatment, if necessary. 
+                      11.        Final disposition of patient (date returned to duty, transferred to another hospital 
+                      (indicate which hospital) or died). 
+                      3.5        AUTHENTICATION OF THE RECORD 
+                      The Basic military medical report should be authorized by the attending clinician or 
+                      other authorized health personnel before hospital discharge or transferral to another 
+                      MTF 
+                      1.         Name, rank, position and signature of officer authenticating the record. 
+                      2.         Date the record is signed. 
+                      3.6        ENGLISH OR FRENCH SUMMARY OF MEDICAL RECORD, BASIC 
+                      MILITARY MEDICAL REPORT 
+                      A brief independent summary of the medical history and treatment facilitated in the 
+                      current MTF should be made to follow the patient to next level of treatment, this should 
+                      be written in English or French. § 3.4, 1., 2., 3., 4., 5., 9. and 10. should be prioritized.
+                                                                                        3-2                                  Edition B Version 2 
+
+$END_PAGE_18
+
+$START_PAGE_19
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-8.2 
+                                ANNEX A               LIST OF NATIONAL MILITARY MEDICAL AUTHORITIES. 
+                       ALBANIA :                                  Ministria e Mbrojtjes 
+                                                                  Bulevardi “Dëshmorët e Kombit” 
+                                                                  Tirana 
+                                                                  ALBANIA 
+                       BELGIUM:                                    Defence Staff COMOPSMED 
+                                                                   Quartier Reine Elisabeth 
+                                                                   Rue d’Evere 1
+                                                                   B-1140 Brussel 
+                                                                   BELGIUM 
+                      BULGARIA:                                     Military Medical Academy                  3 
+                                                                    St. Georgi Sofiiski Str 
+                                                                    1606-Sofia 
+                                                                    BULGARIA 
+                       CANADA:                                      CF Health Service Group HQ P.O 
+                                                                    Box 10500 Stn Forces 
+                                                                    1745 Alta Vista Drive 
+                                                                    Ottawa ON K1A OK6 
+                                                                    CANADA 
+                       CZECH REPUBLIC:                            Surgeon General’s               Office 
+                                                                   General Staff of the Czech Armed 
+                                                                   Forces Vitezne namesti 5 
+                                                                   160 01 PRAHA 6 
+                                                                   CZECH REPUBLIC 
+                       CROATIA:                                    Croatian Armed Forces General Staff 
+                                                                   Medical Directorate 
+                                                                   Kresimirov Trg 4 
+                                                                   10000 Zagreb 
+                                                                   CROATIA 
+                       DENMARK:                                    Danish-Armed Forces Health Services
+                                                                   Forsvarets Sundhetstjeneste Skalstrup 
+                                                                   P.O. BOX 240 
+                                                                   DK-4000 Roskilde 
+                                                                   DENMARK 
+                                                                                      A-1                                  Edition B Version 2 
+
+$END_PAGE_19
+
+$START_PAGE_20
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-8.2 
+                      ESTONIA:                                   General Staff EDF 
+                                                                 Jukentali 58 
+                                                                 15007 Tallinn 
+                                                                 ESTONIA 
+                      FRANCE:                                    DCSSA 
+                                                                 Fort Neuf de Vincennes 
+                                                                 Cours des Maréchaux 
+                                                                 75614 Paris Cédex 14 
+                                                                 BP 125 
+                                                                 F-00459 Armées 
+                                                                 FRANCE 
+                      GERMANY:                                   Bundesministerium der Verteidigung
+                                                                 Postfach 1328 
+                                                                 D-53003 Bonn 
+                                                                 GERMANY 
+                      GREECE:                                    Ministry of Defence 
+                                                                 Hellenic National Defence General Staff 
+                                                                 Medical Branche 
+                                                                 Ave Mesogino 227-231 
+                                                                 Papagos Camp 15569 
+                                                                 GR-11510 Athens 
+                                                                 GREECE 
+                      HUNGARY:                                   Military Medical Health Centre
+                                                                 Hungarian Defence Forces 
+                                                                 P.O. BOX 25 HM II 
+                                                                 Budapest 1885 
+                                                                 HUNGARY 
+                      ICELAND:                                   Directorate of Health
+                                                                 Baronsstigur 47 
+                                                                 101 Reykjavik 
+                                                                 ICELAND 
+                      ITALY:                                     Italian Defence General Staff 
+                                                                 Defence Surgeon General Office 
+                                                                 Salita San Nicola da Tolentino 1B 
+                                                                 00187-Roma 
+                                                                 ITALY 
+                                                                                      A-2                                  Edition B Version 2 
+
+$END_PAGE_20
+
+$START_PAGE_21
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-8.2 
+                      LATVIA:                                    Joint HQ of Latvian National Armed Forces
+                                                                 J-4 Department, Medical Division 
+                                                                 9/11 Krustabaznicas street 
+                                                                 Riga LV 1006 
+                                                                 LATVIA 
+                      LITHUANIA:                                 Lithuanian Armed Forces
+                                                                 Military Medical Services 
+                                                                 Vytauto 49 
+                                                                 LT-44331 KAUNAS 
+                                                                 LITHUANIA 
+                      LUXEMBOURG:                                Service de Santé
+                                                                 Centre Militaire 
+                                                                 P. B. 166 
+                                                                 L-9202 Diekirch 
+                                                                 LUXEMBOURG 
+                      NETHERLANDS:                               NLD Ministry of Defense 
+                                                                 Office of the Surgeon General 
+                                                                 Kromhoutkazerne K2 Herculeslaan 1 
+                                                                 3584 AB Utrecht 
+                                                                 P.O. Box 90004 
+                                                                 MPC 55A 
+                                                                 3509 AA Utrecht 
+                                                                 Netherlands 
+                      NORWAY:                                    The Norwegian Armed Forces Medical Services
+                                                                 N-2058 Sessvollmoen 
+                                                                 NORWAY 
+                      POLAND:                                    The Polish Military Medical Services 
+                                                                 218 Niepodleglosci Ave 
+                                                                 00-911 Warsaw 60 
+                                                                 POLAND 
+                      PORTUGAL:                                  Ministerio da Defensa Nacioal 
+                                                                 Direccâo Geralde Pessoal e Recrutamento Militar 
+                                                                 Ave Ilha da Madeira 1-4 
+                                                                 P-1400-204 Lisboa 
+                                                                 PORTUGAL 
+                                                                                      A-3                                  Edition B Version 2 
+
+$END_PAGE_21
+
+$START_PAGE_22
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-8.2 
+                      ROMANIA:                                   Ministry of Defence
+                                                                 Medical Directorate 
+                                                                 3-5 Institutul Medico-Militar St. 
+                                                                 010919 Bucharest-1 
+                                                                 ROMANIA 
+                      SLOVAKIA:                                  Ministry of Defence 
+                                                                 Office of the Surgeon General 
+                                                                 Gen. Milosa Vesela 21 
+                                                                 03426 Ruzomberok 
+                                                                 SLOVAKIA 
+                      SLOVENIA:                                  Ministry of Defence 
+                                                                 Slovenian Armed Forces                   –  Military Medical Unit 
+                                                                 Stula b.s. 
+                                                                 Sl-1210 Ljubljana-Sentvid 
+                                                                 SLOVENIA 
+                      SPAIN:                                     Inspeccion General de Sanidad
+                                                                 Hospital Central de la Defensa 
+                                                                 Glorieta del Ejercito s/m 
+                                                                 28071-Madrid 
+                                                                 SPAIN 
+                      TURKEY:                                    Turkish Armed Forces Medical Command
+                                                                 TSK Saglik Komutanligi 
+                                                                 06100 Bakanliklar 
+                                                                 Ankara 
+                                                                 TURKEY 
+                      UNITED KINGDOM:                            On discharge, return details in clinical records to patient's 
+                                                                 unit; if transferred, the records will accompany the                             patient(s). 
+                      UNITED STATES:                             Joint Staff Surgeon 
+                                                                 Office of the Chairman, JCS 
+                                                                 9999 Joint Staff Pentagon 
+                                                                 Washington D.C. 
+                                                                 20318      –  9999 
+                                                                 U. S. A. 
+                                                                                      A-4                                  Edition B Version 2 
+
+$END_PAGE_22
+
+$START_PAGE_23
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-8.2 
+                                                                     INTENTIONALLY BLANK 
+                                                                                      A-5                                  Edition B Version 2 
+
+$END_PAGE_23
+
+$START_PAGE_24
+                                                               AMedP-8.2(B)(2) 
+
+$END_PAGE_24
