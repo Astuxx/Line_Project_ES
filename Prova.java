@@ -31,7 +31,7 @@ public class Prova {
             while (line == null) {
                 line = br.readLine();
             }
-            
+
             while (line != null) {
                 line = line.replaceFirst("^  *", "");
                 sb.append(line).append("\n");
@@ -64,6 +64,10 @@ public class Prova {
         System.out.println("SECOND REMOVE \n");
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //still eat \n
         */
+
+        System.out.println("");
+        System.out.println("STAMPA DOPO LE MODIFICHE");
+        System.out.println("");
 
         stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");//delete tabulations, \t
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
