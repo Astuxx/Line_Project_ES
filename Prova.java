@@ -64,14 +64,15 @@ public class Prova {
         System.out.println(p.matcher(stringacomplete).replaceAll("")); //still eat \n
         */
 
-        stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");
-        stringacomplete = stringacomplete.replaceAll("^[ ]","").trim();
+        stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");//delete tabulations, \t
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
-        stringacomplete = stringacomplete.replaceAll(" \n","\n");
-        stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
-        stringacomplete = stringacomplete.replaceAll("(\\$)START_PAGE_(\\d+) ","");
-        stringacomplete = stringacomplete.replaceAll("(\\$)END_PAGE_(\\d+)","");
+        stringacomplete = stringacomplete.replaceAll(" \n","\n");//delete space before \n
+        stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
+        stringacomplete = stringacomplete.replaceAll("(\\$)START_PAGE_(\\d+) ","");//delete START_PAGE_n patter
+        stringacomplete = stringacomplete.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
         stringacomplete = stringacomplete.replaceAll("(?m)^\\s", ""); //delete empty line
+        stringacomplete = stringacomplete.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text
+        stringacomplete = stringacomplete.replaceAll("^[ ]","").trim();//delete last empty line
         System.out.println(stringacomplete);
 
     }
