@@ -1,0 +1,1110 @@
+
+$START_PAGE_1
+                                                             NATO STANDARD 
+                                                                ANEP/MNEP-86 
+                                 TECHNICAL AND MEDICAL STANDARDS AND 
+                                               REQUIREMENTS FOR SUBMARINE 
+                                                             SURVIVAL AND ESCAPE 
+                                                                          Edition A Version 1 
+                                                                                   JULY 2014 
+                                                NORTH ATLANTIC TREATY ORGANIZATION 
+                             ALLIED/MULTINATIONAL NAVAL ENGINEERING PUBLICATION
+                                                                                Published by the 
+                                                            NATO STANDARDIZATION OFFICE (NSO) 
+                                                                                  © NATO/OTAN 
+
+$END_PAGE_1
+
+$START_PAGE_2
+                                                                          INTENTIONALLY BLANK 
+
+$END_PAGE_2
+
+$START_PAGE_3
+                                                NORTH ATLANTIC TREATY ORGANIZATION (NATO) 
+                                                         NATO STANDARDIZATION OFFICE (NSO) 
+                                                              NATO LETTER OF PROMULGATION 
+                                                                                                                                                 28 July 2014 
+                      1.         The enclosed Allied/Multinational Naval Engineering Publication ANEP/MNEP-86, 
+                      Edition         A,      Version          1,      TECHNICAL                AND          MEDICAL              STANDARDS                   AND 
+                      REQUIREMENTS FOR SUBMARINE SURVIVAL AND ESCAPE, which has been 
+                      approved by the nations in the Military Committee Maritime Standardization Board 
+                      (MCMSB), is promulgated herewith. The agreement of nations to use this publication is 
+                      recorded in STANAG 1476. 
+                      2.         ANEP/MNEP-86, Edition A, Version 1, is effective upon receipt. 
+                      3.         No part of this publication may be reproduced, stored in a retrieval system, used 
+                      commercially, adapted, or transmitted in any form or by any means, electronic, 
+                      mechanical, photo-copying, recording or otherwise, without the prior permission of the 
+                      publisher. With the exception of commercial sales, this does not apply to member 
+                      nations and Partnership for Peace countries, or NATO commands and bodies. 
+                      4.         This publication shall be handled in accordance with C-M(2002)60. 
+
+$END_PAGE_3
+
+$START_PAGE_4
+                                                                          INTENTIONALLY BLANK 
+
+$END_PAGE_4
+
+$START_PAGE_5
+                                                                                                                                                   A/MNEP-86 
+                                           RESERVED FOR NATIONAL LETTER OF PROMULGATION 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                             I 
+
+$END_PAGE_5
+
+$START_PAGE_6
+                                                                                                                                                   A/MNEP-86 
+                                                                          INTENTIONALLY BLANK 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                             II 
+
+$END_PAGE_6
+
+$START_PAGE_7
+                                                                                                                                                   A/MNEP-86 
+                                                               RECORD OF RESERVATIONS 
+                         CHAPTER                                      RECORD OF RESERVATION BY NATIONS 
+                      Note   : The reservations listed on this page include only those that were recorded at time of 
+                      promulgation and may not be complete. Refer to the NATO Standardization Database for the 
+                      complete list of existing reservations. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            III 
+
+$END_PAGE_7
+
+$START_PAGE_8
+                                                                                                                                                   A/MNEP-86 
+                                                                          INTENTIONALLY BLANK 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            IV 
+
+$END_PAGE_8
+
+$START_PAGE_9
+                                                                                                                                                   A/MNEP-86 
+                                                     RECORD OF SPECIFIC RESERVATIONS 
+                      Nation                   Detail of reservation 
+                      Note   : The reservations listed on this page include only those that were recorded at time of 
+                      promulgation and may not be complete. Refer to the NATO Standardization Database for the 
+                      complete list of existing reservations. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            V 
+
+$END_PAGE_9
+
+$START_PAGE_10
+                                                                                                                                                   A/MNEP-86 
+                                                                          INTENTIONALLY BLANK 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            VI 
+
+$END_PAGE_10
+
+$START_PAGE_11
+                                                                                                                                                   A/MNEP-86 
+                                                                     RECORD OF CHANGES 
+                      Identification of 
+                      change, reg no. (if                Date entered                  NATO Effective              By whom entered 
+                      any) and date                                                    Date                        (signature; rank, grade or 
+                                                                                                                   rate; name of Command) 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           VII 
+
+$END_PAGE_11
+
+$START_PAGE_12
+                                                                                                                                                   A/MNEP-86 
+                                                                     RECORD OF CHANGES 
+                      Identification of 
+                      change, reg no. (if                Date entered                  NATO Effective              By whom entered 
+                      any) and date                                                    Date                        (signature; rank, grade or 
+                                                                                                                   rate; name of Command) 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           VIII 
+
+$END_PAGE_12
+
+$START_PAGE_13
+                                                                                                                                                   A/MNEP-86 
+                                                                       TABLE OF CONTENTS 
+                      TABLE OF CONTENTS                      ................................................................................................     IX
+                      LIST OF TABLES                .........................................................................................................     XI
+                      RELATED PUBLICATIONS                          .........................................................................................    XII
+                      CHAPTER 1 - MINIMUM CONDITIONS FOR SURVIVAL IN A DISTRESSED 
+                                                  SUBMARINE (DISSUB) PRIOR TO ESCAPE OR RESCUE                                                      ........... 1-1
+                      1.1.                    PURPOSE         ..........................................................................................................1-1
+                      1.2.                    DEFINITIONS           ....................................................................................................1-1
+                      1.3.                    GENERAL DETAILS                ..........................................................................................1-1
+                      ANNEX 1.A. CONDITIONS FOR SURVIVAL IN A DISSUB SCENARIO                                                    ..............................1.A-1
+                      1.A.1.                      THE DISSUB INTERNAL PRESSURE                              .....................................................1.A-1
+                      1.A.2.                      THE DISSUB ATMOSPHERE                        ...................................................................1.A-1
+                      1.A.2.1.                    Oxygen      .......................................................................................................1.A-1
+                      1.A.2.2.                    Carbon Dioxide          ..........................................................................................1.A-2
+                      1.A.2.3.                    Carbon Monoxide            .......................................................................................1.A-4
+                      1.A.2.4.                    Chlorine     ......................................................................................................1.A-6
+                      1.A.2.5.                    CONSIDERATION SHOULD BE GIVEN TO MONITOR THE FOLLOWING 
+                                                   GASES      .......................................................................................................1.A-7
+                      1.A.3.                      TEMPERATURE, HYDRATION AND NUTRITION                                       ...................................1.A-7
+                      1.A.4.                      BIBLIOGRAPHY              ........................................................................................1.A-8
+                      CHAPTER 2 - SUBMARINE ESCAPE AND SURFACE SURVIVAL PERSONNEL 
+                                                  EQUIPMENT (SESSPE)                      ..................................................................    2-1
+                      2.1.                    PURPOSE         ..........................................................................................................2-1
+                      2.2.                    GENERAL         ..........................................................................................................2-1
+                      2.3.                    DETAILS        ............................................................................................................2-1
+                      CHAPTER 3 - MEDICAL STANDARD FOR SUBMARINE ESCAPE TRAINING TANK 
+                                                  CANDIDATES               .................................................................................    3-1
+                      3.1.                    PURPOSE         ..........................................................................................................3-1
+                      3.2.                    DETAILS        ............................................................................................................3-1
+                      ANNEX 3.A. MEDICAL EXAMINATION OF SET CANDIDATES                                               ...........................................3.A-1
+                      3.A.1.                      GENERAL          ..................................................................................................3.A-1
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            IX 
+
+$END_PAGE_13
+
+$START_PAGE_14
+                                                                                                                                                   A/MNEP-86 
+                      3.A.2.                      MEDICAL HISTORY                 ..................................................................................3.A-1
+                      3.A.3.                      CLINICAL EXAMINATION                    .........................................................................3.A-1
+                      3.A.4.                      INVESTIGATIONS               .....................................................................................3.A-1
+                      ANNEX 3.B. MEDICAL CERTIFICATE CONTENTS                                       ..............................................................3.B-1
+                      ANNEX 3.C. GUIDELINE FOR ASSESSMENT OF MEDICAL FITNESS FOR SET TRAINING 
+                                          (PASS/FAIL CRITERIA)                  ....................................................................................3.C-1
+                      3.C.1.                      INTRODUCTION              ........................................................................................3.C-1
+                      3.C.2.                      MEDICAL STANDARDS                    ............................................................................3.C-1
+                      3.C.3.                      CONDITIONS INFLUENCING FITNESS FOR SUBMARINE ESCAPE 
+                                                   TRAINING        ..................................................................................................3.C-1
+                      3.C.4.                      GENERAL          ..................................................................................................3.C-1
+                      3.C.5.                      DERMATOLOGICAL CONDITIONS                              .........................................................3.C-2
+                      3.C.6.                      EARS, NOSE AND THROAT CONDITIONS                                  ............................................3.C-2
+                      3.C.7.                      RESPIRATORY DISORDERS                        ...................................................................3.C-2
+                      3.C.8.                      CARDIOVASCULAR CONDITIONS                             ..........................................................3.C-3
+                      3.C.9.                      ALIMENTARY SYSTEM CONDITIONS                               ....................................................3.C-4
+                      3.C.10.                     MUSCULO-SKELETAL CONDITIONS                              ......................................................3.C-4
+                      3.C.11.                     NERVOUS SYSTEM CONDITIONS                              .........................................................3.C-4
+                      3.C.12.                     MENTAL HEALTH                .....................................................................................3.C-5
+                      3.C.13.                     GENITO-URINARY CONDITIONS                           ............................................................3.C-6
+                      3.C.14.                     ENDOCRINE DISORDERS                       .......................................................................3.C-6
+                      3.C.15.                     HAEMATOLOGICAL CONDITIONS                             ..........................................................3.C-6
+                      3.C.16.                     DENTAL STANDARDS                   ..............................................................................3.C-6
+                      3.C.17.                     GENDER         ....................................................................................................3.C-6
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            X 
+
+$END_PAGE_14
+
+$START_PAGE_15
+                                                                                                                                                   A/MNEP-86 
+                                                                             LIST OF TABLES 
+                      Table 1.A-1 The Acute Effects Of Hypoxia                      ...............................................................................1.A-2
+                      Table 1.A-2 Acute Effects Of CO                 2 From Short Term Exposure                  ...............................................1.A-3
+                      Table 1.A-3 Effects Of CO              2 From Chronic Exposure               ...............................................................1.A-3
+                      Table 1.A-4 Acute Effects Of Carbon Monoxide                          .......................................................................1.A-5
+                      Table 1.A-5 Acute effects of chlorine                 ........................................................................................1.A-6
+                      Table 1.A-6 Acute Exposure Guidelines For Chlorine                            ..............................................................1.A-7
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                            XI 
+
+$END_PAGE_15
+
+$START_PAGE_16
+                                                                                                                                                   A/MNEP-86 
+                                                                    RELATED PUBLICATIONS 
+                      ATP/MTP-57                       THE SUBMARINE SEARCH AND RESCUE MANUAL 
+                      ANEP/MNEP-85                     MATERIAL INTEROPERABILITY REQUIREMENTS FOR SUBMARINE 
+                                                       ESCAPE AND RESCUE 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           XII 
+
+$END_PAGE_16
+
+$START_PAGE_17
+                                                                                                                                                   A/MNEP-86 
+                                   CHAPTER 1 - MINIMUM CONDITIONS FOR SURVIVAL IN A 
+                       DISTRESSED SUBMARINE (DISSUB) PRIOR TO ESCAPE OR RESCUE 
+                      1.1. PURPOSE 
+                      a. Identify the important physiological and environmental factors that influence survival in a 
+                          DISSUB pending escape or rescue. 
+                      b. Where possible, quantify these factors (in terms of minimum/maximum acceptable levels) and 
+                          thus ensure that both the physical and mental functions of the survivors remain at a level 
+                          necessary to enable them to effect an escape or rescue. 
+                      1.2. DEFINITIONS 
+                      The following terms and definitions are used for the purpose of this agreement: 
+                      a. 1 bar is approximately equivalent to: 1 ATA; 100 kPa; 10 msw; 33 fsw; 760 mmHg; 760 Torr. 
+                      b. Standard Temperature & Pressure (STP) is 0°C and 760 Torr. 
+                      c. Normal constituent of air: 
+                      (1) Nitrogen: 78% by volume (0.78 bar partial pressure at 1bar) 
+                      (2) Oxygen: 21% by volume (0.21 bar partial pressure at 1bar) 
+                      (3) Carbon Dioxide: 0.04 % by volume (0.0004 bar partial pressure at 1bar) 
+                      d. High concentrations are normally expressed in volume percent (Vol.%). i.e. 1 part of a 
+                      substance in 100 parts of air. Air consists of 21 Vol.% oxygen. (i.e. 100 parts of air contain 21 
+                      parts of oxygen). 
+                      e. In smaller concentrations the engineering unit 'parts per million' is used (ppm). The 
+                      concentration ppm means 1 part of a substance in 1 million parts of air. 1 Vol.% = 10,000 ppm. 
+                      f. Partial Pressure: the pressure a gas would exert if it alone occupied the same volume as the 
+                      whole gas mixture. 
+                      1.3. GENERAL DETAILS 
+                      Survivors in a DISSUB are faced with determining the best method of returning to the surface. 
+                      The safest way may be to await rescue and be transferred to the surface in a rescue vehicle. 
+                      Alternatively, escape may be the best option, particularly if conditions within the DISSUB are 
+                      deteriorating or the sinking is in a remote area. Escape necessitates the survivors exposing 
+                      themselves to the external environment in what is essentially a bounce dive, possibly 
+                      superimposed over a saturation decompression obligation. 
+                      The longer the survivors spend in the DISSUB the more likely the environmental conditions will 
+                      deteriorate and result in adverse affects on the physical and mental wellbeing of the survivors. 
+                      These in turn affect the capability of undertaking an escape or continuing to await rescue. Many 
+                      of the DISSUB environmental factors are inter-related and time dependant. The way in which 
+                      these factors interrelate is largely unknown. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           1-1 
+
+$END_PAGE_17
+
+$START_PAGE_18
+                                                                                                                                                   A/MNEP-86 
+                      This chapter identifies the important physiological and environmental factors that affect survival 
+                      in the DISSUB. The technical information is located in the Annex. There are 3 major sections: 
+                                THE DISSUB INTERNAL PRESSURE 
+                                THE DISSUB ATMOSPHERE 
+                                TEMPERATURE, HYDRATION AND NUTRITION 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           1-2 
+
+$END_PAGE_18
+
+$START_PAGE_19
+                                                                                                                                                   A/MNEP-86 
+                                        ANNEX 1.A. CONDITIONS FOR SURVIVAL IN A DISSUB SCENARIO 
+                      1.A.1. THE DISSUB INTERNAL PRESSURE 
+                      1. Rescue considerations. Past experience has demonstrated that a DISSUB is invariably 
+                      pressurised to a certain degree. If exposed to a pressure of 1.7 bar or above for a period of time 
+                      the DISSUB survivors have a decompression obligation once rescued. Survival for up to 1 week 
+                      at an internal pressure of around 5 bar is considered possible, however it should be noted that 
+                      this has never been proven scientifically. This magnitude of exposure will result in a deterioration 
+                      of lung function due to pulmonary oxygen toxicity that gets progressively worse above an oxygen 
+                      partial pressure of 0.5 bar. Above 5 bar mental ability rapidly deteriorates due to nitrogen 
+                      narcosis and cerebral oxygen toxicity (above an oxygen partial pressure of 1.6 bar). 
+                      2. Escape considerations. The safety of escape is dependant on the type of escape system 
+                      being used (national variation), the depth of the DISSUB and the internal pressure within the 
+                      DISSUB. Laboratory experiments have demonstrated that return to surface pressure from a 
+                      DISSUB internal pressure of 1.7 bar or less results in a low incidence of decompression illness                                              (i). 
+                      Further and more detailed information is provided in A/MTP 57. 
+                      1.A.2. THE DISSUB ATMOSPHERE 
+                      1.A.2.1.       OXYGEN 
+                      3. Oxygen is a colourless, odourless gas that supports combustion and life. It is a major factor to 
+                      be considered during survival in the DISSUB. Oxygen sources in the DISSUB include ambient 
+                      air, compressed oxygen cylinders, oxygen-generating chemicals and for some systems even 
+                      LOX (liquid oxygen). 
+                      a. Oxygen Consumption. In a DISSUB, it is expected that the survivors will be at a minimal 
+                      activity level, since complete rest minimises oxygen consumption (and CO                                       2 production). Oxygen 
+                      consumption in a DISSUB has been shown to range from 20 to 40 litres/man/hour at STP                                                (ii). 
+                      b. The following value should be used in the calculation of life support stores requirements and 
+                      stay times prior to submarine escape or rescue: 
+                      Oxygen usage: 27 litres/man/hour at STP                      (iii)
+                      c. Physiological Constraints. It is the partial pressure of oxygen that is important physiologically. 
+                      The partial pressure of O            2 in the tissues is 0.07 bar and the normal partial pressure of oxygen in 
+                      air at STP is 0.2 bar. If this gradient is reduced too much, the tissues become deficient in oxygen 
+                      and ill health effects ensue (the effects of hypoxia). Table 1.A-1 illustrates the acute affects of 
+                      hypoxia caused by a sudden reduction in the partial pressure of oxygen. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-1 
+
+$END_PAGE_19
+
+$START_PAGE_20
+                                                                                                                                                   A/MNEP-86 
+                                                             Table 1.A-1 The acute effects of hypoxia 
+                      P.Pressure of Oxygen in inspired air (bar)                        Health Effects 
+                                                   0.2                                  Normal 
+                                                  0.18                                  Lowest acceptable limit for normal submarine 
+                                                  0.17                                  Earliest signs: loss of night vision; dilated pupils 
+                                                  0.15                                  Concentration on and reliability of tasks slightly 
+                                                                                        impaired     (iv)
+                                                  0.13                                  Co-ordination              affected;          respiratory          effects 
+                                                                                        stimulated by hypoxia 
+                                                  0.11                                  Unconsciousness 
+                                                  0.06                                  Death 
+                      d. It is important to note that a gradual reduction in the partial pressure of oxygen will result in 
+                      some acclimatisation to the effects of hypoxia (in the 0.18 - 0.13 bar range). Thus, the survivors 
+                      may remain sufficiently alert to enable them to assist during the rescue procedures down to 
+                      partial pressure of around 0.13 bar (however note para. 4.b. regarding escape). 
+                      e. A raised partial pressure of oxygen can also be harmful. The signs and symptoms of 
+                      pulmonary oxygen toxicity become progressively worse above an O                                      2  partial pressure of 0.5 bar. 
+                      Pulmonary oxygen toxicity increases the risks involved during escape and rescue. Cerebral 
+                      oxygen toxicity may occur if the partial pressure of O                               2  exceeds 1.6 bar; the most obvious 
+                      manifestation of this is convulsions. 
+                      f. Above a fractional concentration of 23% oxygen becomes a significant fire hazard within the 
+                      DISSUB and Rescue Submersible. 
+                      Advice on Oxygen 
+                      4. Onboard the DISSUB: 
+                      a. Whenever possible both following parameters should be maintained                                       for as long as possible 
+                      -    oxygen partial pressure between 0.15 bar and 0.5 bar (physiological matters); 
+                      -    oxygen concentration lower than 23% volume (fire hazard matters). 
+                      b. When oxygen regeneration sources have been exhausted, the oxygen partial pressure will 
+                      fall. In the absence of instructions from the surface, escape should be planned such that the 
+                      partial pressure of oxygen does not fall below 0.13 bar at the end of the escape procedure. 
+                      c. It is acceptable to await rescue down to a partial pressure of 0.13 bar. 
+                      1.A.2.2.       CARBON DIOXIDE 
+                      5. Carbon dioxide is a colourless and odourless gas at normal temperatures and pressures. 
+                      Denser than air, it may accumulate in low areas. It is a dangerous product of combustion. It is 
+                      also a product of respiration and is directly related to the amount of oxygen consumed by the 
+                      body. Carbon dioxide production is minimised by complete rest, but can readily double with 
+                      physical activity: 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-2 
+
+$END_PAGE_20
+
+$START_PAGE_21
+                                                                                                                                                   A/MNEP-86 
+                      a. CO    2 production. In a DISSUB, it is expected that the crew will be at a minimal activity level. 
+                      The following minimum value should be used in the calculation of life support stores 
+                      requirements and stay times prior to submarine escape or rescue. 
+                      Carbon Dioxide production: 23 litres/man/hour at STP                           (iii)
+                      b. Physiological Constraints. As with oxygen it is the partial pressure of CO                                       2  that is important 
+                      physiologically. The partial pressure of CO
+                      pressure of CO                                                    2 in the tissues is 0.07 bar and the normal partial 
+                      retain excessive amounts of CO2  in air at 1 bar is 0.0003 bar. If this gradient is sufficiently reduced the tissues 
+                                                                     2 (hypercapnoea) and ill health effects ensue. 
+                      c. In the DISSUB scenario a rising CO                            2   partial pressure is likely to become a limiting 
+                      physiological factor well in advance of any problems with falling oxygen. The partial pressure of 
+                      CO   2 may rise suddenly due to rapid pressurisation or a fire. Alternatively the survivors may be 
+                      subjected to a gradual increase in the partial pressure as they await rescue. The physiological 
+                      response to the two scenarios is different as there is some adaptation to chronic exposure. 
+                      Table 1.A-2 and Table 1.A-3 illustrate the differences. 
+                                               Table 1.A-2 Acute effects of CO                   2 from short term exposure 
+                      Partial Pressure of CO           2 (bar)       Health Effects 
+                                    0.01 - 0.02                      Slight increase in depth of respiration; headache & fatigue after 
+                                                                     several hours 
+                                        0.03                         Severe headache; diffuse sweating; laboured or difficult 
+                                                                     respiration 
+                                        0.04                         Flushing of face; palpitations 
+                                        0.05                         Mental impairment 
+                                        0.06                         Hard work impossible; visual disturbance 
+                                        0.08                         Tremors; convulsions 
+                                        0.12                         Unconsciousness 
+                                                      Table 1.A-3 Effects of CO               2 from chronic exposure 
+                      Partial Pressure of CO           2 (bar)       Health Effects 
+                                        0.03                         Threshold for dyspnoea at rest 
+                                    0.03 - 0.04                      Headaches but likely to subside 
+                                    0.03 - 0.06                      Increasing incidence of dyspnea 
+                                        0.05                         Lower limit for reduced intellectual and cognitive capacity 
+                                        0.06                         Dyspnoea at rest 
+                                       > 0.08                        Expect tremors/convulsions/loss of consciousness 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-3 
+
+$END_PAGE_21
+
+$START_PAGE_22
+                                                                                                                                                   A/MNEP-86 
+                      When CO
+                      the escape procedure more hazardous. A CO2 removal resources have been exhausted, the CO
+                                                                                                partial pressure of 0.05 bar is the maximum 2 partial pressure will rise making 
+                      acceptable for escape. There is some evidence that hypercapnoea increases carbon 2
+                      monoxide(CO) toxicity (see CO section) and central nervous system oxygen toxicity. 
+                      Advice on Carbon Dioxide 
+                      6. Onboard the DISSUB the carbon dioxide partial pressure should be kept below the following 
+                      limit for as long as possible: 
+                      a. Less than or equal to 0.03 bar 
+                      b. In the absence of instructions from the surface, escape should be planned such that the 
+                      partial pressure of carbon dioxide does not exceed 0.05 bar at the end of the escape. 
+                      1.A.2.3.       CARBON MONOXIDE 
+                      7. Carbon Monoxide (CO) is a dangerous product of incomplete combustion. It is a colourless, 
+                      tasteless, odourless gas with a density almost equal to that of air. CO competes with oxygen for 
+                      the haemoglobin molecules within the blood stream (the haemoglobin molecule transports 
+                      oxygen to the body tissues). Carbon Monoxide's affinity for haemoglobin is some 200 times 
+                      greater than that of oxygen. Consequently, carbon monoxide attaches to the haemoglobin in 
+                      preference to the oxygen and produces an insidious hypoxia (lack of oxygen) within the body 
+                      tissues. There is a dose dependant reaction. 
+                      8. CO poisoning not only reduces the oxygen carrying capacity of blood but also exerts toxic 
+                      effects directly on the cell by blocking a critical enzyme (cytochrome a3 oxidase). Victims 
+                      surviving the immediate intoxication may experience long term health effects (e.g. memory and 
+                      mood disturbances, headache) due to damage of cells in the nervous system. Little is known of 
+                      low concentration/long duration exposure to CO. Table 1.A-4 demonstrates the consequences of 
+                      inhaling CO when breathing contaminated air (partial pressure of oxygen 0.2 bar) at 1 bar. 
+                      9. Table 1.A-4 indicates expected levels of toxicity based on normoxia and it is important to note 
+                      that any reduction in the oxygen partial pressure will worsen and hasten symptoms of CO 
+                      toxicity. Conversely, a raised oxygen partial pressure (greater the 0.2 bar) will lessen the 
+                      production of carboxyhaemoglobin and thus delay development of CO toxicity. An increased 
+                      partial pressure of CO           2 is believed to facilitate the toxic effects of CO. 
+                      10. Therefore, within the DISSUB the ambient pressure (assumed boundaries of 1 - 5 bar), the 
+                      partial pressure of oxygen, CO and CO                     2 will all act as independent but interrelated variables with 
+                      the body tissues. As a consequence of this complexity, the provision of advice as to what 
+                      constitutes a safe level of exposure to CO whilst considering escape or rescue is difficult. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-4 
+
+$END_PAGE_22
+
+$START_PAGE_23
+                                                                                                                                                   A/MNEP-86 
+                                                         Table 1.A-4 Acute effects of carbon monoxide 
+                      Conc. in inhaled              CO % saturation of                 Symptoms 
+                      air (ppm) at 1 bar            the haemoglobin 
+                                 25                             0  –  5                Safe for all individuals 
+                                 50                            0  –  10                None 
+                                100                           10   –  20               Tightness across forehead, slight headache. Approx. 
+                                                                                       upper limit of continuous exposure with minor 
+                                                                                       symptoms only 
+                                200                           20   –  30               Headache and throbbing in temples. Mild symptoms 
+                                                                                       for 8 hour exposure; moderate symptoms for 
+                                                                                       continuous exposure 
+                                300                           30   –  40               Severe         headache,            weakness,            disorientation, 
+                                                                                       confusion and collapse 
+                                500                           40   –  50               Same as above but earlier - after 3 - 4 hours 
+                                                                                       exposure. 
+                                1000                          60   –  70               Immediately dangerous - severe symptoms after 
+                                                                                       minutes exposure: coma, intermittent convulsions; 
+                                                                                       depressed heart action; possible death 
+                                2000                          80   –  90               Death in less than 1 hour 
+                                4000                         90   –  100               Death in few minutes 
+                      Advice on Carbon Monoxide 
+                      11. Advice on escape and rescue must be extrapolated from the known effects produced by 
+                      short term exposures. As such the advice is, at best, very rudimentary. 
+                      a. Advice on Escape. Escaping from a submarine with moderate or severe symptoms would 
+                      impose a significant risk due to the decreased physical and mental capacity. Thus symptoms 
+                      may be used as a crude measure of toxicity. However, it should be noted that similar symptoms 
+                      due to CO      2 intoxication and other contaminants might further confuse the picture. 
+                      (1) Mild Symptoms: headache; dizziness; exertion dyspnoea; decreased visual acuity; some 
+                      impairment of higher cerebral function. 
+                      (2) Moderate Symptoms: severe headache; irritability; reduced judgement; nausea; worsening 
+                      dizziness. 
+                      (3) Severe Symptoms: fainting; convulsions; paralysis; coma; respiratory and cardiac arrest. 
+                      b. Advice on Rescue. A continuous exposure of up to 200 ppm may still allow survivors to 
+                      undertake the required DISSUB tasks to effect a rescue within 7 days. Above this level the acute 
+                      effects will severely reduce physical and mental abilities. Some long-term health complications 
+                      are to be expected. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-5 
+
+$END_PAGE_23
+
+$START_PAGE_24
+                                                                                                                                                   A/MNEP-86 
+                      1.A.2.4.       CHLORINE 
+                      12. Chlorine      (vi)is produced as a result of electrolysis of sodium chloride containing solutions. Any 
+                      uninsulated voltage underwater, like flooding above the submarine batteries, may produce Cl
+                      gas. Chlorine gas is heavier than air therefore it may be confined to the lower levels of the                                                 2
+                      escape compartment. 
+                      13. Chlorine is a simple irritant and has no metabolic effect within the body. The main danger is 
+                      damage to the lower respiratory tract due to the irritant action. This will ultimately result in life 
+                      threatening pulmonary oedema. The effects on the human body are well understood. Table 
+                      1.A-5 summarizes the results from numerous experimental and industrial studies. 
+                                                                Table 1.A-5 Acute effects of chlorine 
+                      Chlorine concentration at 1 bar (ppm)                       Health Effects 
+                                            0.2 - 0.4                             The odour threshold. 
+                                                0.5                               No change in pulmonary function after 8 hr. exposure. 
+                                                1.0                               Tolerable for 8 hrs but some significant changes in 
+                                                                                  pulmonary function. 
+                                                2.0                               A 2 hr. exposure produced no statistically significant 
+                                                                                  changes in pulmonary function. 
+                                              3  –  6                             Severe irritant to eyes, nose, throat and upper 
+                                                                                  respiratory tract. 
+                                                15                                Lowest conc. causing respiratory distress. 
+                                            14   –  20                            Exposure for 1 hour reported as dangerous. 
+                                               100                                Tolerable for a maximum of 1 minute. 
+                                               430                                Lowest lethal conc. for a 30 min. exposure. 
+                                              1000                                Usually lethal after a few good breaths. 
+                      14. If the presence of chlorine is suspected it should be measured for on a regular basis. The 
+                      survivors must balance the risk of chlorine exposure against the risks of escape (depth, 
+                      pressure, surface conditions) and awaiting rescue. Some chlorine induced lung damage may be 
+                      acceptable in the knowledge that the rescue vehicle is expected. Conversely, lung damage may 
+                      reduce the survivor's ability to escape and survive on the surface. 
+                      Advice on Chlorine 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-6 
+
+$END_PAGE_24
+
+$START_PAGE_25
+                                                                                                                                                   A/MNEP-86 
+                      15. 
+                      Table 1.A-6       provides a guideline for exposure management within the DISSUB: 
+                                                     Table 1.A-6 Acute exposure guidelines for chlorine 
+                      Chlorine concentration at 1 bar (ppm)                       Effects when breathed 
+                                                0.5                               Safe to breathe and await rescue. Above this level don 
+                                                                                  coveralls to protect skin 
+                                                 1                                Safe to breathe for 6 hours Above this level wear hood 
+                                                                                  if available to protect face and eyes 
+                                                 2                                Safe to breathe for 3 hours 
+                                                 5                                Dangerous after approximately 1 hour 
+                                                10                                Dangerous - do not breathe 
+                      1.A.2.5.        CONSIDERATION SHOULD BE GIVEN TO MONITOR THE FOLLOWING GASES 
+                                    a.                                          Hydrogen chloride                        HCl 
+                                    b.                                          Hydrogen sulfide                         H 2 S 
+                                    c.                                          Ammonia                                  NH
+                                    d.                                          Oxides of Nitrogen                       NO   3
+                                    e.                                          Hydrogen cyanide                         HCN  x
+                                    f.                                          Hydrocarbons                             C x H x(X) 
+                                    g.                                          Hydrogen                                 H
+                                    h.                                          Humidity                                 H 2
+                                    i.                                          Refrigerant gases.                         2 O 
+                      1.A.3. TEMPERATURE, HYDRATION AND NUTRITION 
+                      16. Traditionally it was considered that over a period of days the DISSUB internal temperature 
+                      will tend to approach the surrounding sea water temperature                                     (vii)(viii)(ix). However a number of 
+                      recent SURVIVEXs have cast doubt on this view and have shown that either the fall in DISSUB 
+                      temperature is significantly slower                (x) or indeed there may actually be a rise in temperature as 
+                      result of metabolic heat production by the crew and heat produced as a result of the exothermic 
+                      reaction when lithium hydroxide or soda-lime (both widely used as CO
+                      and O                                                                                                    2 absorbents) absorb CO              2
+                               2 candles. Thus there is some doubt as to what might actually happen and this will also be 
+                      dependent on ambient sea temperatures. 
+                      17. Low temperatures may cause hypothermia (core temperature of 35°C or below) and non-
+                      freezing cold injury to the skin. Wet clothing will exacerbate the problem. Shivering will increase 
+                      oxygen consumption, carbon dioxide production and consequently decrease DISSUB survival 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-7 
+
+$END_PAGE_25
+
+$START_PAGE_26
+                                                                                                                                                   A/MNEP-86 
+                      time. Additional thermal protection, extra to the normal working clothing, is required to prevent 
+                      hypothermia and non freezing cold injury in cold conditions                               (xi). Hypothermic patients should be 
+                      placed in upper bunks if facilities and patient monitoring allows, as the vertical atmospheric 
+                      temperature gradient may be significant. 
+                      18. High temperatures will cause hyperthermia. The body will attempt to lower core temperature 
+                      by increased sweating; this mechanism will be impaired if the humidity is also elevated, which is 
+                      considered to be highly likely. Increased sweating will result eventually in dehydration; this can 
+                      be prevented by allowing survivors to drink as much water as is possible. Additionally attempts 
+                      should be made to cool hyperthermic survivors, this can be achieved relatively effectively by 
+                      immersing extremities in cool water, sea water should provide a plentiful supply. 
+                      19. Surviving on meagre rations has been shown to cause hypoglycaemia, starvation diarrhoea, 
+                      headache, backache, low urine output leading to renal failure and exacerbate the effects of 
+                      hypothermia. Furthermore, the ability to perform an escape or rescue procedure is severely 
+                      restricted by the lack of adequate fluid and calorific intake. Consequently, the minimum fluid 
+                      intake should be 1 litre per day per man and the minimum calorific intake should be 1250kcal per 
+                      day per man. In addition, 1000kcal should be available to be eaten just prior to escape                                         (xi). 
+                      20. Attention must be paid to hygiene issues to prevent the spread of infectious disease. If at all 
+                      possible hand washing should be performed prior to eating, handling food and after defaecation. 
+                      Faecal material must be isolated in plastic bags. A gastrointestinal infection, in combination with 
+                      other DISSUB stress factors, may make participation in any rescue procedure impossible due to 
+                      hypovolaemia and hypoglycaemia. Each escape compartment should contain medical stores to 
+                      deal with the conditions envisaged. The provision of antiseptic wipes (non-alcohol based) should 
+                      be considered as a means of improving personal hygiene. 
+                      1.A.4. BIBLIOGRAPHY 
+                      i    Islander 1. An investigation of direct decompression from oxygen/nitrogen saturation to 1 
+                           bar. Bell PY, English MS, Harris DJ et al. Environmental Science Division, ARE Alverstoke, 
+                           Gosport UK 
+                      ii   Personnel communication Jan Risberg SURVIVEX 2002 
+                      iii  House CM et al. Findings from a simulated disabled submarine survival trial. Undersea and 
+                           Hyperbaric Medicine 27:4 pp175 - 183 (survivors at rest with minimal or no activity) 
+                      iv   Gustafsson C, Gennser M, Ornhagen H, Derefeldt G. Aviat Space Environ Med. 1997 Nov; 
+                           68(11): 985-92. 
+                      v    Wong, KL.B3 Carbon Dioxide. In: Subcommittee on Spacecraft Maximum Allowable 
+                           Concentration, National Research Council: Spacecraft Maximum Allowable Concentrations 
+                           for Selected Airborne Contaminants: Volume 2, 105-188, National academy press, 
+                           Washington DC, 1996 
+                      vi   Dean M R Surgeon Commander. Chlorine levels in submarines. Review for the UK Standing 
+                           Committee on Submarine Escape and Rescue. Institute of Naval Medicine's 253/103 dated 
+                           24 October 1994 
+                      vii  Wilson J, McGill T and Williams R H (1996) Los Angeles class forward compartment 
+                           disabled submarine ambient temperature final report. Electric Boat Corporation, Groton, 
+                           Connecticut. Report N° 470: JW/600827/1.7 
+                      viii Panet, Bodalis and Radziszewski (1991) Survivex. Survival in refuge compartments of 
+                           submarines. Commission of submarine practical studies N° 183 CEPSM/DR 
+                      ix   Loncar M and Ornhagen H (1996). Environmental parameters in a simulated disabled 
+                           Vastergotland submarine. FOA Naval Medicine Division PM 541:33, 960117 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-8 
+
+$END_PAGE_26
+
+$START_PAGE_27
+                                                                                                                                                   A/MNEP-86 
+                      x    Risberg J, Ostberg C, Svensson T, Norfleet W, Ornhagen H, Mjaavatten O, Juvik T. 
+                           Atmospheric changes and physiological responses during a 6-                                       day “Disabled Submarine” 
+                           exercise. Aviation,Space and Environmental Medicine Vol 75, No2 Feb 2004 138-149. 
+                      xi   CM Windle 1997. Survival in a Disabled Submarine Thermal Considerations. Institute of 
+                           Naval Medicine Report N° 97012 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         1.A-9 
+
+$END_PAGE_27
+
+$START_PAGE_28
+                                                                                                                                                   A/MNEP-86 
+                              CHAPTER 2 -  SUBMARINE ESCAPE AND SURFACE SURVIVAL 
+                                                        PERSONNEL EQUIPMENT (SESSPE) 
+                      2.1.  PURPOSE 
+                      This chapter defines the minimum requirements for SESSPE to enable a submarine escapee to 
+                      make a safe ascent from a DISSUB and survive on the surface pending rescue. 
+                      2.2. GENERAL 
+                      The primary function of the SESSPE is to enable the user to make a safe ascent from the 
+                      DISSUB to the surface. 
+                      Secondary functions include the provision of: 
+                      a. Adequate buoyancy, stability, self righting and wave-splash protection to prevent 
+                      drowning. 
+                      b. Adequate design to enable the user to vomit without aspiration, if seasick on the surface. 
+                      c. Seals at wrists and face/neck to minimize ingress of seawater. 
+                      d. Sufficient insulation to minimize the incidence of hypothermia and cold injury in cold sea 
+                      and weather conditions. 
+                      e. Suitable location aids to enable detection by surface ships and aircraft. 
+                      f. To reduce the incidence of hypothermia, the suit shall have means of minimizing fluid 
+                      accumulation within the SESSPE due to urine production, both for men and women. 
+                      2.3. DETAILS 
+                      The SESSPE should be: 
+                      a. of universal size to fit all users, 
+                      b. worn in conjunction with additional clothing to slow the onset of general hypothermia, 
+                      c. The suit or its associated life raft should be fitted with a battery operated SOLAS 
+                      approved light to aid in the detection of survivors, 
+                      d. packaged to prevent degradation during storage in as small a presentation as possible, 
+                      e. fully usable within 5 minutes of withdrawal from storage and must not immobilize the 
+                      wearer, 
+                      f. functionally safe to the maximum escape depth that a human body can handle. 
+                      The SESSPE must be conspicuous and brightly coloured to aid visual detection. During ascent: 
+                      a. the wearer must be able to breath air normally, 
+                      b. the SESSPE must be provided with a reliable system for venting excess air from the suit 
+                      and from the built-in buoyancy, 
+                      c. stability should not be compromised by design features.
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           2-1 
+
+$END_PAGE_28
+
+$START_PAGE_29
+                                                                                                                                                   A/MNEP-86 
+                      There should be a means of: 
+                      a. minimizing fluid accumulation within the SESSPE due to urine production, 
+                      b. grasping the survivor to facilitate removing him from the water.
+                      If the SESSPE is fitted with a life raft, the life raft should have the following requirements: 
+                      a. adequate buoyancy, stability and wave-splash protection, 
+                      b. sufficient insulation to minimise the incidence of hypothermia and cold injury in cold sea and 
+                      weather conditions, 
+                      c. suitable location aids to enable detection by surface ships and aircraft. 
+                      The life raft should be: 
+                      a. of universal size to fit all users, 
+                      b. fitted with a battery operated SOLAS approved luminous beacon to aid in the detection of 
+                      survivors, 
+                      c. packaged to prevent degradation during storage and must not immobilize the wearer to allow 
+                      easy access into the escape tower, 
+                      d. maximum inflation time to be no longer than 90 seconds and fitted with a manual secondary 
+                      inflation system. Manual water removal system is also to be fitted, 
+                      e. equipped with a drogue, 
+                      f. the life raft must be conspicuous and brightly coloured to aid visual detection, 
+                      g. life rafts fitted with protective canopies must provide a ventilation system to avoid CO2 build 
+                      up, 
+                      h . life raft must be capable of being manually “re                    - righted”.
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           2-2 
+
+$END_PAGE_29
+
+$START_PAGE_30
+                                                                                                                                                   A/MNEP-86 
+                              CHAPTER 3 - MEDICAL STANDARD FOR SUBMARINE ESCAPE 
+                                                               TRAINING TANK CANDIDATES 
+                      3.1. PURPOSE 
+                      This chapter defines the minimum requirements to ensure that foreign students being trained in 
+                      a submarine escape training tank are medically fit for such training. 
+                      3.2. DETAILS 
+                      a. The requirements cover training in submarine escape training tank (SET), but not escape 
+                           training from a submerged submarine. 
+                      b. Definitions: The host nation is the nation providing SET training. The client nation is the 
+                           nation requesting SET training. 
+                      c.   The host nation holds overall responsibility for the safety of the SET training. 
+                      d. The client nation has the responsibility for assessment of medical fitness according to the 
+                           host nation  standards. However, the medical authority of the host nation has the privilege to 
+                           re- assess the candidate’s medical fitness and may disqualify the candidate for training if 
+                           he/she is found medically unfit. 
+                      e. The decision of medical fitness should be based on the assumption that no underlying 
+                           disorder exists which may represent a risk for the candidate during SET training. The 
+                           objective of this chapter is not to define examination applicable for submarine service in 
+                           general. 
+                      f.   The decision of medical fitness should be based on a thorough medical investigation and 
+                           subsequent assessment. The minimum extent of such investigation is detailed in ANNEX 
+                           3.A, but this should be expanded as considered necessary by the client nation medical 
+                           authority. Dependent on the nature of the SET training, national military or civilian 
+                           regulations applicable for the host nation or development of medical knowledge, the host 
+                           nation may require extension of the examinations beyond what is identified in ANNEX 3.A. 
+                      g. The decision of medical fitness for SET training should be signed by a service physician 
+                           trained in diving medicine. The physician should be authorized by an appropriate national 
+                           medical authorisation agency for such responsibility. Host nation may request copy of such 
+                           letter of approval. Details of the content of the medical certificate are given in ANNEX 3.B. 
+                      h. A certificate of medical fitness for SET training has a maximum validity of three months 
+                           following the examination unless otherwise agreed between host and client nation. 
+                      i.   Pass/fail criteria for the medical examination is detailed in ANNEX 3.C. As described in 
+                           Serial e above         this should be decided on the candidate’s ability to perf                          orm training in a safe 
+                           manner. If the examining physician considers the candidate fit for SET training, in spite of the 
+                           guidance provided in ANNEX 3.C, this should be detailed on the medical certificate. The 
+                           client nation has the responsibility to bring details of such a decision to the attention and final 
+                           approval of the host nation at the earliest opportunity. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                           3-1 
+
+$END_PAGE_30
+
+$START_PAGE_31
+                                                                                                                                                   A/MNEP-86 
+                                              ANNEX 3.A. MEDICAL EXAMINATION OF SET CANDIDATES 
+                      3.A.1. GENERAL 
+                      1. The examination should include assessment of the medical history, a clinical examination 
+                           and additional examinations as detailed in this document. The examining physician has the 
+                           responsibility to investigate the candidate on an individual basis, extending the examinations 
+                           listed below as considered necessary. 
+                      2. The medical information should be filed in writing or electronic format in agreement with 
+                           national regulations. The host nation may request a copy of the results. 
+                      3.A.2. MEDICAL HISTORY 
+                      3.   The medical history should be addressed by a questionnaire as well as a personal interview 
+                           by the examining physician. The questionnaire and interview shall address the social 
+                           relationships and service history, family medical history, malformations, previous illnesses 
+                           and injuries, present complaints, use of recreational drugs, alcohol and tobacco as well as 
+                           medication and allergies. In specific any problems related with previous diving and SET 
+                           training should be addressed. 
+                      4. The medical history is considered the most important part of the medical examination and 
+                           should be investigated and documented in detail. 
+                      3.A.3. CLINICAL EXAMINATION 
+                      5.   As a minimum these clinical examinations should be completed: 
+                           -     Height, weight. 
+                           -     Blood pressure, Pulse. 
+                           -     Examination of ear, nose and throat. Assessment of air flow through both nostrils, intact 
+                                 eardrums and normal movement of the eardrum by insufflation of air and active 
+                                 equilibration (Valsalva). 
+                           -     Examination of lungs and heart (auscultation). 
+                           -     Thorough neurological exam. 
+                      3.A.4. INVESTIGATIONS 
+                      6. These investigations should be included: 
+                           -     Haemoglobin concentration and urine chemistry (as a minimum including examination for 
+                                 protein, glucose, blood           –  e.g. dipstix). 
+                           -     Dynamic spirometry as a minimum including FVC, FEV1 and PEF completed with 
+                                 instrumentation and procedures complying with accepted international clinical standards 
+                                 for spirometric examinations. 
+                           -     Pure tone audiometry with threshold assessment for each ear as a minimum including 
+                                 frequencies 500, 1000, 2000, 4000 and 6000 Hz. 
+                           -     Dental examination not older than 12 months. 
+                           -     Chest X-ray, inspiration, PA not older than 12 months. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.A-1 
+
+$END_PAGE_31
+
+$START_PAGE_32
+                                                                                                                                                   A/MNEP-86 
+                                                       ANNEX 3.B. MEDICAL CERTIFICATE CONTENTS 
+                      1.   The medical certificate should be written in English (other additional language may be used 
+                           as needed). 
+                      2. The form should be signed in person by the examining physician (signature stamp not 
+                           accepted). 
+                      3.   The medical certificate should contain at least these elements 
+                           -     Name, rank and DOB of person examined 
+                           -     Standard to which the subject has been examined (present standard and any other 
+                                 relevant national or international standard) 
+                           -     Date of examination 
+                           -     Result of examination (fit, unfit or fit with restriction) 
+                           -     Comment (a person considered fit in spite of non-compliance with guidelines attached as 
+                                 Annex C should have details of the condition/disorder detailed here) 
+                           -     Period of validity (3 months maximum) 
+                      4.   A sample form is attached at the next page. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.B-1 
+
+$END_PAGE_32
+
+$START_PAGE_33
+                                                                                                                                                   A/MNEP-86 
+                                                      MEDICAL CERTIFICATE FOR SET CANDIDATES 
+                      Name: 
+                      Rank: 
+                      DOB: 
+                      has been examined by me in compliance with ANEP/MNEP-86 Chapter 3. 
+                      In addition he/she has been examined according to: 
+                                    Not applicable                  Other (please detail): 
+                      I confirm that I am authorized by my national head of submarine medicine to issue certificate 
+                      of medical fitness for SET candidates. 
+                      Based on my examination I consider the subject: 
+                                Fit for SET training, no restriction 
+                                Fit for SET training, but a condition considered a contraindication for SET training as 
+                                 per Annex C has been identified and is detailed in “Comments” field below.
+                                Unfit for SET training 
+                                Fit for SET training with these limitations: 
+                      Comment: 
+                      Period of validity: 3 months after date of issuing 
+                      Place/Date 
+                      Examining physicians name, signature and official stamp 
+                      Address, telephone and e-mail address of examining physician 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.B-2 
+
+$END_PAGE_33
+
+$START_PAGE_34
+                                                                                                                                                   A/MNEP-86 
+                        ANNEX 3.C. GUIDELINE FOR ASSESSMENT OF MEDICAL FITNESS FOR SET TRAINING 
+                                                                           (PASS/FAIL CRITERIA) 
+                      3.C.1. INTRODUCTION 
+                      1.   The investigation of candidates with conditions which might make them unfit is to be initiated 
+                           by the examining physician of the client nation, with specialist opinions sought as 
+                           appropriate. The candidate is to be considered temporarily medically unfit until a definitive 
+                           decision is made. 
+                      2. If investigation fails to resolve the issue of fitness, the examining physician of the client 
+                           nation should send all relevant information to the medical authority of the host nation for 
+                           review. The medical authority of the host nation may overrule a decision of medical fitness 
+                           issued by the client nation. 
+                      3. It is important to consider fitness for SET training whenever these personnel attend for a 
+                           medical consultation, whether in a primary or secondary care setting. A relevant medical 
+                           condition will have an immediate effect on the fitness for pressure exposure - and, although 
+                           prospective submarine escape candidates might not be due to attend for pressurised training 
+                           for some considerable time, they can face unnecessary delay if assessment is not initiated at 
+                           the earliest possible opportunity. 
+                      3.C.2. MEDICAL STANDARDS 
+                      4.   A decision of medical fitness for SET training should be based on the candidate’s ability to 
+                           perform the training in a safe manner, not exposing him/herself or instructors to risk due to 
+                           pre-existing medical disorder. 
+                      5. Candidates must be physically and mentally fit and be without evidence of emotional 
+                           instability. There is no upper age limit, but the discretion of the examining physician should 
+                           be exercised when assessing the level of general fitness. 
+                      3.C.3. CONDITIONS INFLUENCING FITNESS FOR SUBMARINE ESCAPE TRAINING 
+                      6.   It is not possible to provide a comprehensive list of conditions which permanently exclude a 
+                           candidate. Frequently, a decision is based on the extent of the abnormality or the severity of 
+                           disease and the individual response to treatment. Conditions which have a bearing on fitness 
+                           for diving and submarine escape are listed below. By scrutiny of medical documents, direct 
+                           questioning and physical examination, the following conditions must be excluded. Where 
+                           positively elicited or identified, these conditions are normally grounds for rejection. However, 
+                           in cases of doubt, the condition should be discussed with the medical authority of the host 
+                           nation. 
+                      3.C.4. GENERAL 
+                      7. Candidates         ’ age   must be consistent with host nation regulations. 
+                      8.   Hearing and eyesight must be to the General Service standard of the appropriate branch. 
+                      9. There are no specific height or weight restrictions to submarine escape training. The 
+                           trainee's size must not be so extreme as to prevent donning a Submarine Escape Immersion 
+                           Suit or from negotiating the escape tower without risk of becoming stuck. Potential 
+                           candidates taller than 2 metres should have the opportunity of trying a suit for size at the 
+                           earliest opportunity in order to avoid nugatory training. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.C-1 
+
+$END_PAGE_34
+
+$START_PAGE_35
+                                                                                                                                                   A/MNEP-86 
+                      3.C.5. DERMATOLOGICAL CONDITIONS 
+                      10. Chronic or acute skin disorder, including the cutaneous manifestations of systemic disease, 
+                           other than mild, localised conditions, may disqualify a candidate. A decision of fitness or 
+                           unfitness should be based on the risk of skin infections and whether water exposure may 
+                           worsen the disorder. 
+                      3.C.6. EARS, NOSE AND THROAT CONDITIONS 
+                      11. The following conditions render a candidate unfit for pressure exposures: 
+                           a. Chronic or recurrent sinusitis. 
+                           b.    Chronic or recurrent outer or middle ear discharge. 
+                           c.    Severe allergic conditions of the upper respiratory tract. 
+                           d.    Meniere’s Disease
+                           e. Previous stapes surgery. 
+                           f.    Perforation of the tympanic membrane, unless adequately healed or surgically corrected. 
+                      12. The following conditions render a candidate, or qualified diver, temporarily unfit for pressure 
+                           exposures and should be referred to an ENT Specialist: 
+                           a. Viral labyrinthitis. 
+                           b. A history of ENT surgery. 
+                      13. Hearing should be examined by pure tone audiometry to a standard acceptable to the host 
+                           nations. The tympanic membrane must be clearly seen on examination with evidence of 
+                           satisfactory Eustachian tube function and adequate ear-clearing by observing the ear drum 
+                           to be mobile while a Valsalva manoeuvre is performed. Where doubt exists and in the 
+                           absence of an upper respiratory infection or inflammation, a cautious exposure to pressure 
+                           should be carried out in a compression chamber. Continued failure to clear ears should be 
+                           cause for referral to an ENT consultant for formal assessment of Eustachian tube function. 
+                      14. Exostoses are acceptable provided they do not occlude the external auditory canal. 
+                      3.C.7. RESPIRATORY DISORDERS 
+                      15. Pulmonary function test (PFT), as a minimum dynamic spirometry measuring FVC, FEV1 
+                           and PEF, should be completed with an accuracy and methodology meeting current standard 
+                           of the European Respiratory Society or other recognized international professional society 
+                           for pulmonary medicine. 
+                      16. FVC and FEV1 should not be less than the threshold limit. The threshold limit is defined as 
+                           two standard deviations (SD) lower than the expected value based on applicable population 
+                           reference values. If the estimation the exact threshold value (Ref.value                                                –   2 SD) is 
+                           impractical, 80% of reference value may be used. FEV1/FVC should exceed 75%. If these 
+                           values are not reached, the candidate should be reassessed, and if the values continue to 
+                           remain less than threshold values, the patient should be referred to a chest physician. 
+                      17. The following conditions will render a candidate unfit for pressurised SET training: 
+                           a.    Symptomatic asthma or other form of recurring bronchospasm. 
+                           b.    Chronic obstructive airways disease or areas of potential air trapping such as lung cysts, 
+                                 bullae and blebs; pleural effusion; lung fistula; bronchiectasis; pulmonary fibrosis; 
+                                 neoplasm and unresolved pneumothorax; moderate or severe lung emphysema. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.C-2 
+
+$END_PAGE_35
+
+$START_PAGE_36
+                                                                                                                                                   A/MNEP-86 
+                           c. Pulmonary tuberculosis - unless limited to an isolated healed and calcified peripheral 
+                                 primary focus (Ghon focus). Such lesions are not necessarily an automatic bar to 
+                                 submarine escape training. 
+                           d.    Active sarcoidosis or other restrictive pulmonary condition. 
+                           e. Any lung disease, abnormality or penetrating chest injury likely to result in areas of 
+                                 altered lung compliance and / or pleural adhesions. Candidates with a history of 
+                                 pneumonia with x-ray changes should be presented to and discussed with the medical 
+                                 authority of the host nation. 
+                      18. Candidates with a past history of reversible, obstructive airways disease are judged on an 
+                           individual basis. Isolated attacks of bronchospasm in association with frank chest infections 
+                           should be discussed with the medical authority of the host nation. It is very important to 
+                           identify any tendency to recurring obstructive airways disease. A current history consistent 
+                           with bronchoconstriction on exercise or in a cold environment is an absolute contra-
+                           indication to pressure exposure - the candidate should be made unfit for SET training. 
+                      19. Candidates with the following histories should be investigated by a chest physician or as a 
+                           minimum asked to keep a PEF diary: 
+                           a.    past history consistent with reversible bronchoconstriction, 
+                           b. current history of questionable significance, 
+                           c. allergen-mediated bronchoconstriction. 
+                      20. The PEF diary should be kept for 28 days, recording best of 3 efforts: 
+                           a.    on waking and at 1800 each day, 
+                           b.    pre- and post-exercise, making a note of this on the diary, 
+                           c.    if the candidate feels wheezy or short of breath, making a note of this on the diary. 
+                      21. If an occupational exposure is suspected then readings should be taken every 4 hours while 
+                           awake and every 2 hours while at work, with careful notes of circumstances at each reading. 
+                           If variability that is not attributable to occupational exposure is 15 % or greater then the 
+                           candidate should be made unfit for SET training. 
+                      22. If the specialist laboratory shows no evidence of abnormal bronchial lability in response to a 
+                           challenge or bronchodilator then the candidate may be found fit for pressure exposures. 
+                      23. A history of perforating chest injury or open chest surgery may disqualify if there is evidence 
+                           of residual pulmonary or pleural scarring. The reason for the surgery is to be established. All 
+                           such cases should be discussed with the medical authority of the host nation. 
+                      24. Pneumothorax, other than spontaneous, may be acceptable providing at least three months 
+                           have elapsed since resolution and it has been determined by detailed pulmonary function 
+                           assessment that no residual impairment remains. All such cases should be discussed with 
+                           the medical authority of the host nation. 
+                      25. A history of spontaneous pneumothorax usually precludes pressure exposures. Individuals 
+                           who have been recurrence-free for at least five years and in whom it has been determined 
+                           by detailed pulmonary function assessment that no residual impairment remains may, in 
+                           exceptional circumstances, be permitted to undergo SET training. All such cases should be 
+                           reviewed by the medical authority of the host nation. 
+                      3.C.8. CARDIOVASCULAR CONDITIONS 
+                      26. The following conditions will render a candidate unfit: 
+                           a. Any organic heart disease. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.C-3 
+
+$END_PAGE_36
+
+$START_PAGE_37
+                                                                                                                                                   A/MNEP-86 
+                           b. Coarctation of the aorta. 
+                      27. The following conditions must be referred for specialist cardiological opinion prior to review 
+                           by the host nation medical authority. 
+                           a.    Significant atrial or ventricular septal defects, or other potential right to left shunts. These 
+                                 conditions are usually incompatible with pressure exposure unless surgically corrected. 
+                                 Primary screening for right to left shunts, however, is not currently considered justifiable. 
+                           b.    Cases of valvular stenosis or regurgitation. 
+                           c.    Any history of coronary insufficiency or myocardial ischaemia, even if treated by coronary 
+                                 bypass grafting. 
+                           d. Cardiomegaly unless it is established by specialist investigation to be the consequence 
+                                 of athletic training. 
+                           e. All arrhythmias except sinus arrhythmias and ventricular extrasystoles which disappear 
+                                 with increasing heart rate. 
+                           f.    Conduction defects. Right bundle branch block may not require specialist referral if 
+                                 considered an isolated finding. 
+                      28. Abnormalities found on cardiovascular examination, such as murmurs, and on ECG must be 
+                           investigated to an appropriate extent before a decision on fitness is made. 
+                      3.C.9. ALIMENTARY SYSTEM CONDITIONS 
+                      29. The following condition will render the candidate unfit: 
+                           a.    Abdominal wall herniation unless adequately repaired. 
+                      30. The following conditions must be referred for specialist opinion prior to review by the host 
+                           nation medical authority. 
+                           a. Chronic inflammatory bowel disease. 
+                           b.    Acute or chronic active hepatic disease. 
+                           c. History of pancreatitis. 
+                      3.C.10. MUSCULO-SKELETAL CONDITIONS 
+                      31. Candidates must have unimpeded mobility and dexterity. Any limitation should be assessed 
+                           on the basis of the candidate’s ability to perform his work or undertake training and, 
+                           particularly, its possible impact on safety. 
+                      32. The presence of juxta-               articular (‘A’) lesions of dysbaric osteonecrosis precludes further 
+                           pressure exposures. 
+                      33. Successful surgery for prolapsed intervertebral disc may be acceptable provided 
+                           neurological examination is normal and there is no functional impairment. 
+                      34. Musculoskeletal, or referred, pain that might mimic decompression illness must be assessed 
+                           carefully. If any doubt exists, the case should be discussed with the medical authority of the 
+                           host nation. 
+                      3.C.11. NERVOUS SYSTEM CONDITIONS 
+                      35. Neurological abnormalities should merit specialist referral. 
+                      36. Conditions with the potential to preclude pressure exposure are as follows: 
+                           a. Epilepsy, including petit mal and partial seizures, and irrespective of any treatment. 
+                                 Febrile convulsions up to the age of five years should not be considered a bar to 
+                                 pressure exposure. Individuals who have suffered an isolated seizure but who are not 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.C-4 
+
+$END_PAGE_37
+
+$START_PAGE_38
+                                                                                                                                                   A/MNEP-86 
+                                 considered to be suffering from epilepsy, should be reviewed by the medical authority of 
+                                 the host nation. 
+                           b. Intracranial surgery. 
+                           c. Severe speech impediment. 
+                           d. Severe motion sickness. 
+                           e. Migraine unless mild and unaccompanied by visual, speech, motor or sensory 
+                                 disturbance. 
+                      37. Head injury accompanied by skull fracture or resulting in loss of consciousness or post-
+                           traumatic amnesia may result in increased risk of convulsion. This may be further increased 
+                           by high inspired partial pressures of oxygen. A history of severe head injury is a permanent 
+                           bar. Candidates with a history of a moderate head injury may be considered fit for pressure 
+                           exposure after a period of 1 year without sequelae but will require referral to a Diving 
+                           Medicine Specialist and will be assessed on an individual basis . Candidates with a history of 
+                           mild head injury may be considered fit for pressure exposure after a period of 1 month 
+                           without sequelae but will require referral a Diving Medicine Specialist and will be assessed 
+                           on an individual basis. 
+                           a.    Severe head injuries have one or more of the following features: 
+                                        -   brain contusion (diagnosed on the basis of observation during surgery or focal 
+                                              neurological symptoms), 
+                                        - intracranial haematoma, 
+                                        -   loss of consciousness or post-traumatic amnesia for more than 24 hours. 
+                           b.    Moderate head injuries have one or more of the following features: 
+                                        -   loss of consciousness or post-traumatic amnesia lasting 30 minutes to 24 hours. 
+                                        - skull fracture. 
+                           c. Mild head injuries have 
+                                        -  an absence of fracture, 
+                                        -    loss of consciousness or post-traumatic amnesia for less than 30 minutes. 
+                           d. Candidates whose severe head injury occurred more than 10 years prior to the medical 
+                                 and in whom there is no evidence of neurological sequelae may, in exceptional 
+                                 circumstances, be permitted to undertake SET, but all such cases must be referred to a 
+                                 Diving Medicine Specialist. 
+                      38. A history of bacterial or viral meningitis or encephalitis is compatible with pressure exposure 
+                           provided that the candidate has been asymptomatic for 12 months and there is no evidence 
+                           of neurological sequelae. 
+                      3.C.12. MENTAL HEALTH 
+                      39. Psychiatric illness other than minor reactive or transient non-recurring conditions. A history of 
+                           past or present psychiatric or psychological disorder, including abuse of alcohol or drugs, 
+                           should be considered a contraindication to pressure exposures unless the examining 
+                           physician is content, having taken specialist advice if indicated, that it is of a minor nature 
+                           and unlikely to recur. Past or present evidence of alcohol or drug abuse is not suitable for 
+                           SET training unless a consultant psychiatric opinion is favourable. These latter cases should 
+                           be reviewed by the medical authority of the host nation. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.C-5 
+
+$END_PAGE_38
+
+$START_PAGE_39
+                                                                                                                                                   A/MNEP-86 
+                      3.C.13. GENITO-URINARY CONDITIONS 
+                      40. Renal calculi and malformations of the urinary system will be cause for rejection unless 
+                           adequately treated. 
+                      41. Sexually transmitted diseases will disqualify until successfully treated. Although specific 
+                           testing does not form part of a routine medical examination, HIV positive candidates should 
+                           be dealt with in accordance with host and client nations policies. 
+                      3.C.14. ENDOCRINE DISORDERS 
+                      42. Detailed specialist investigation of endocrine conditions is not normally required. However, 
+                           where abnormalities are detected clinically, these should be investigated. 
+                      43. Diabetes mellitus requiring insulin and/or oral hypoglycaemic agents is an absolute 
+                           contraindication. Subjects with diabetes mellitus controlled by diet alone are usually 
+                           considered fit for SET training unless end-organ injury or a history of other complication 
+                           exists. 
+                      3.C.15. HAEMATOLOGICAL CONDITIONS 
+                      44. Abnormalities revealed should be referred for specialist assessment. 
+                      45. Asymptomatic sickle cell trait is not a contraindication to pressure exposure and individuals 
+                           with frank sickle cell disease will be unfit for entry into military service. Routine testing for 
+                           sickle cell disease is thus not required. Haemoglobin electrophoresis may be carried out if 
+                           required at the initial medical. 
+                      3.C.16. DENTAL STANDARDS 
+                      46. Candidates require a high standard of dental fitness. Teeth should be sound or adequately 
+                           restored (no caries) and the gum and supporting bones should be healthy. 
+                      47.  Crowns and fixed bridgework must be scrutinised annually. If in doubt as to a candidate’s 
+                           dental fitness, the examining physician should seek the opinion of a dental officer. 
+                      3.C.17. GENDER 
+                      48. These standards apply to both genders. Pregnancy is a contraindication for SET training. 
+                           Post-partum candidates should be evaluated against host and client nations regulations. 
+                                                                                                                                    Edition (A) Version (1) 
+                                                                                         3.C-6 
+
+$END_PAGE_39
