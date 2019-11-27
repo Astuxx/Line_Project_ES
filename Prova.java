@@ -71,8 +71,7 @@ public class Prova {
         stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
         stringacomplete = stringacomplete.replaceAll("(\\$)START_PAGE_(\\d+) ","");
         stringacomplete = stringacomplete.replaceAll("(\\$)END_PAGE_(\\d+)","");
-
-        //stringacomplete = stringacomplete.replaceAll("\n"," ");
+        stringacomplete = stringacomplete.replaceAll("(?m)^\\s", ""); //delete empty line
         System.out.println(stringacomplete);
 
     }
