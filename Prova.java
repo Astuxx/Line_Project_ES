@@ -9,8 +9,8 @@ public class Prova {
 
     public static void main(String Args[]) {
         //System.out.println("Ciao");
-        String regexBlankLine = "^[ \\t]$+";
-        String regexMultiSpace = "^[ \\t]+";
+        //String regexBlankLine = "^[ \\t]$+";
+        //String regexMultiSpace = "^[ \\t]+";
 
         // The name of file or path
         //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
