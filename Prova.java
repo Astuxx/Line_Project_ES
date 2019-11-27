@@ -14,7 +14,7 @@ public class Prova {
 
         // The name of file or path
         //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
-        String fileName = "AAMedP-1 EDA V1 E.txt";
+        String fileName = "ANEP-MNEP-86 EDA V1.txt";
         String line = null; //line read
         String stringacomplete = null;
 
@@ -31,6 +31,7 @@ public class Prova {
             while (line == null) {
                 line = br.readLine();
             }
+            
             while (line != null) {
                 line = line.replaceFirst("^  *", "");
                 sb.append(line).append("\n");
