@@ -1,0 +1,1148 @@
+
+$START_PAGE_1
+                                                                    NATO STANDARD 
+                                                                               AAMedP-1.1 
+                                               AEROMEDICAL EVACUATION 
+                                                                                Edition A Version 1 
+                                                                                  NOVEMBER 2014 
+                                                       NORTH ATLANTIC TREATY ORGANIZATION 
+                                                             ALLIED AEROMEDICAL PUBLICATION 
+                                                                                     Published by the 
+                                                                NATO STANDARDIZATION OFFICE (NSO) 
+                                                                                       © NATO/OTAN
+
+$END_PAGE_1
+
+$START_PAGE_2
+                                                                              INTENTIONALLY BLANK 
+
+$END_PAGE_2
+
+$START_PAGE_3
+                                                        NORTH ATLANTIC TREATY ORGANIZATION (NATO) 
+                                                                 NATO STANDARDIZATION OFFICE (NSO) 
+                                                                      NATO LETTER OF PROMULGATION 
+                                                                                                                                         17 November 2014 
+                                     1.         The enclosed Allied Aeromedical Publication AAMedP-1.1, Edition                                  A,  Version      1, 
+                                     AEROMEDICAL EVACUATION, which                                 has been approved by the nations                        in   the 
+                                     Aeromedical Working Group                 and    is promulgated herewith. The agreement of nations to 
+                                     use this publication         is recorded      in ST  ANAG 3204. 
+                                     2.         AAMedP-1.1, Edition            A,  Version     1,  is effective upon receipt. 
+                                     3.         No part of this publication may              be  reproduced, stored           in  a retrieval system, used 
+                                     commercially, adapted, or transmitted                        in  any form or           by   any means, electronic, 
+                                     mechanical, photo-copying, recording or otherwise, without the prior permission of the 
+                                     publisher.       With the exception of commercial sales, this does not apply to member 
+                                     nations and Partnership for Peace countries, or NATO commands and bodies. 
+                                     4.         This publication shall         be   handled     in  accordance with C-M(2002)60. 
+                                                                                                     Edvardas MAZEIKIS 
+                                                                                                     Major General, L TUAF 
+                                                                                                     Director, NATO Standardization Office 
+
+$END_PAGE_3
+
+$START_PAGE_4
+                                                                              INTENTIONALLY BLANK 
+
+$END_PAGE_4
+
+$START_PAGE_5
+                                                                                                                                           AAMedP-1.1 
+                                             RESERVED FOR NATIONAL LETTER OF PROMULGATION 
+                                                                                              I                                Edition A Version 1 
+
+$END_PAGE_5
+
+$START_PAGE_6
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                             II                                Edition A Version 1 
+
+$END_PAGE_6
+
+$START_PAGE_7
+                                                                                                                                           AAMedP-1.1 
+                                                             RECORD OF RESERVATIONS
+                                CHAPTER                                 RECORD OF RESERVATION BY NATIONS 
+                              Note: The reservations listed on this page include only those that were recorded at 
+                              time of promulgation and may not be complete. Refer to the NATO Standardization 
+                              Document Database for the complete list of existing reservations.
+                                                                                             III                               Edition A Version 1 
+
+$END_PAGE_7
+
+$START_PAGE_8
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                             IV                                Edition A Version 1 
+
+$END_PAGE_8
+
+$START_PAGE_9
+                                                                                                                                           AAMedP-1.1 
+                                                 RECORD OF SPECIFIC RESERVATIONS
+                              [nation]                  [detail of reservation] 
+                              Note: The reservations listed on this page include only those that were recorded at 
+                              time of promulgation and may not be complete. Refer to the NATO Standardization 
+                              Document Database for the complete list of existing reservations.
+                                                                                              V                                Edition A Version 1 
+
+$END_PAGE_9
+
+$START_PAGE_10
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                             VI                                Edition A Version 1 
+
+$END_PAGE_10
+
+$START_PAGE_11
+                                                                                                                                           AAMedP-1.1 
+                                                                           TABLE OF CONTENTS
+                              CHAPTER 1                 INTRODUCTION                                                                                 1.1 
+                              1.1.           Aim                                                                                                     1.1 
+                              1.2.           Terms and Definitions                                                                                   1.1 
+                              CHAPTER 2                 SELECTION OF PATIENTS FOR AEROMEDICAL 
+                                                        EVACUATION                                                                                   2.1 
+                              2.1.           Fitness for Air Travel                                                                                  2.1 
+                              2.2.           Forward Aeromedical Evacuation                                                                          2.1 
+                              2.3.           Tactical and Strategic Aeromedical Evacuation                                                           2.1 
+                              2.4.           Clinical Selection Criteria                                                                             2.2 
+                              CHAPTER 3                 CLASSIFICATION OF PATIENTS FOR AEROMEDICAL 
+                                                        EVACUATION                                                                                   3.1 
+                              3.1.           Categorisation of Patients                                                                              3.1 
+                              3.2.           Priority                                                                                                3.1 
+                              3.3.           Dependency                                                                                              3.1 
+                              3.4.           Classification                                                                                          3.2 
+                              3.5.           Documentation                                                                                           3.3 
+                              CHAPTER 4                 AEROMEDICAL AIRCREW PROCEDURES                                                               4.1 
+                              4.1.           Composition of Aeromedical Crews                                                                        4.1 
+                              4.2.           Aeromedical Crew Training                                                                               4.2 
+                              4.3            Aeromedical Crew Equipment                                                                              4.2 
+                              4.4            Briefing of Patients                                                                                    4.2 
+                              4.5.           Emergency Procedures in Flight                                                                          4.3 
+                              4.6.           In-Flight Feeding of Patients                                                                           4.3 
+                              4.7.           Personal Property and Valuables                                                                         4.3 
+                              CHAPTER 5                 EQUIPMENT AND GENERAL PROCEDURES USED IN 
+                                                        AEROMEDICAL EVACUATION                                                                       5.1 
+                              5.1.           Aircraft Equipment                                                                                      5.1 
+                              5.2.           Aeromedical Electrical Equipment                                                                        5.2 
+                              5.3.           Pre-Flight Inspection of Aeromedical Equipment                                                           5.2 
+                              5.4.           Disinfection of Aircraft and Medical Equipment                                                           5.2 
+                              5.5.           Disinsection of Aircraft                                                                                 5.3 
+                              5.6.            Ground Equipment                                                                                        5.3 
+                              5.7.            Property Exchange                                                                                       5.4 
+                              5.8.            Signals Procedure                                                                                       5.4 
+                              CHAPTER 6                 AEROMEDICAL EVACUATION TRAINING                                                              6.1 
+                              6.1.            Content                                                                                                 6.1 
+                              CHAPTER 7                 MANAGEMENT OF CHEMICALLY CONTAMINATED OR 
+                                                        HIGHLY INFECTIOUS CASUALTIES                                                                  7.1 
+                              7.1.            Chemically Contaminated Casualties                                                                      7.1 
+                              7.2.            Patients with Highly Communicable Infectious Diseases                                                  7.1 
+                                                                                            VII                                Edition A Version 1 
+
+$END_PAGE_11
+
+$START_PAGE_12
+                                                                                                                                           AAMedP-1.1 
+                              CHAPTER 8                 AEROMEDICAL EVACUATION USING CIVILIAN OR MIXED 
+                                                        (CIVILIAN/MILITARY) ASSETS IN MILITARY MASS 
+                                                        CASUALTY SCENARIOS                                                                           8.1 
+                              8.1.           Aim                                                                                                     8.1 
+                              8.2.           Considerations                                                                                          8.1 
+                              ANNEX A                   RECOMMENDED SPECIFICATIONS FOR 
+                                                        ELECTROMEDICAL EQUIPMENT                                                                     A-1 
+                              A.1            Alarms                                                                                                  A-1 
+                              A.2            Visual Displays                                                                                         A-1 
+                              A.3            Power Supply                                                                                            A-1 
+                              A.4            Temperature                                                                                             A-1 
+                              A.5            Humidity                                                                                                A-1 
+                              A.6            RS232 / USB Interface                                                                                   A-1 
+                              A.7            Vibration and Shock                                                                                     A-2 
+                              ANNEX B                   Clinical Signs Suggestive of a Highly Communicable 
+                                                        Infectious Disease                                                                           B-1 
+                              ANNEX C                   High-Level Containment Care                                                                  C-1 
+                                                                                            VIII                               Edition A Version 1 
+
+$END_PAGE_12
+
+$START_PAGE_13
+                                                                                                                                           AAMedP-1.1 
+                                                                     CHAPTER 1                   INTRODUCTION 
+                              1.1.       AIM 
+                              The aim of this publication is to standardize the terminology, procedures, 
+                              training and equipment used in the aeromedical evacuation of sick and 
+                              wounded personnel, in order to facilitate safe and timely transport of patients of 
+                              one NATO nation by aeromedical services of any other NATO nation. 
+                              1.2        TERMS AND DEFINITIONS 
+                              The following terms relating to aeromedical evacuation are defined as follows: 
+                                         a.         Aeromedical Crew Member                           - A medical officer, nurse, nursing 
+                                                    attendant or other ancillary medical person who forms part of a 
+                                                    constituted aeromedical in-flight team. 
+                                         b.         Aeromedical Evacuation (AE)                           - Aeromedical evacuation is the 
+                                                    movement of patients under medical supervision by air transport to 
+                                                    and between medical treatment facilities as an integral part of the 
+                                                    treatment continuum. 
+                                         c.         Aeromedical Evacuation Control Centre (AECC)                                           - The control 
+                                                    facility established by the commander of an air transport division, 
+                                                    air force, or air command.                       It operates in conjunction with the 
+                                                    command movement control centre and coordinates overall 
+                                                    medical requirements with airlift capability.                          It also assigns medical 
+                                                    missions to the appropriate aeromedical evacuation elements in 
+                                                    the system and monitors patient movement activities. 
+                                         d.         Aeromedical Evacuation Coordinating Officer (AECO)                                                  - An 
+                                                    officer       of    an      originating,          in-transit       or     destination           medical 
+                                                    facility/establishment who coordinates aeromedical evacuation 
+                                                    activities of the facility/establishment. 
+                                         e.         Aeromedical Evacuation Operations Officer (AEOO)                                                    - An 
+                                                    officer of the airlift force or command who is responsible for 
+                                                    activities relating to planning and directing aeromedical evacuation 
+                                                    operations, maintaining liaison with medical airlift activities 
+                                                    concerned, operating an Aeromedical Evacuation Control Centre, 
+                                                    and otherwise coordinating aircraft and patient movements. 
+                                                                                           1-1                               Edition A Version 1 
+
+$END_PAGE_13
+
+$START_PAGE_14
+                                                                                                                                           AAMedP-1.1 
+                                         f.         Casualty Staging Unit (CSU)                        - A medical unit caring for in-transit 
+                                                    patients under medical personnel supervision. 
+                                         g.         Forward Aeromedical Evacuation                                  - The phase of medical 
+                                                    evacuation that provides airlift for patients between point of injury 
+                                                    or illness and the initial point of treatment within the area of 
+                                                    operations. 
+                                         h.         In-Transit Evacuation Facility (IEF)                          - A medical facility, that has 
+                                                    all the functions of a CSU, but with an expandable holding 
+                                                    capacity for national medical evacuation(s). 
+                                         i.         Medical Officer              - An officer, of a nation's medical service or 
+                                                    branch, who possesses a nationally recognised qualification in 
+                                                    medicine.           A medical officer may also be specially trained in 
+                                                    aerospace medicine and may then be referred to as a 'Flight 
+                                                    Medical Officer' or 'Flight Surgeon'. 
+                                         j.         Nurse       - A member of a nation's medical service or branch, who 
+                                                    possesses a nationally recognised general nursing qualification.                                          A 
+                                                    nurse may also be specially trained for aeromedical duties and 
+                                                    then be referred to as a 'Flight Nurse'. 
+                                         k.         Nursing Attendant/Physician Assistant/Medical Technician                                                   - 
+                                                    An enlisted member in the ranks of a nation's medical service or 
+                                                    branch who, although not possessing a nationally recognised 
+                                                    general nursing qualification, has been trained in military 
+                                                    aeromedical duties.                Following this training they will be entitled to 
+                                                    the designation, 'Flight Nursing Attendant' or similar title. 
+                                         l.         Originating Medical Facility                         - A medical facility that initially 
+                                                    transfers a patient to another medical facility. 
+                                         m.         Strategic Aeromedical Evacuation                                 - The phase of medical 
+                                                    evacuation that provides air transport for patients from medical 
+                                                    treatment facilities within the area of operations to medical 
+                                                    treatment facilities outside the area of operations, or between 
+                                                    medical treatment facilities outside the area of operations. 
+                                         n.         Stretcher/Litter           - Throughout this document the word 'stretcher' is 
+                                                    synonymous with 'litter'. 
+                                         o.         Stretcher Patient              - A patient requiring stretcher accommodation 
+                                                    while in transit. 
+                                                                                           1-2                               Edition A Version 1 
+
+$END_PAGE_14
+
+$START_PAGE_15
+                                                                                                                                           AAMedP-1.1 
+                                         p.         Tactical Aeromedical Evacuation                                 - The phase of medical 
+                                                    evacuation that provides air transport for patients between medical 
+                                                    treatment facilities within the area of operations. 
+                                         q.         Walking Patient               - A patient not requiring a stretcher while in 
+                                                    transit. 
+                                                                                           1-3                               Edition A Version 1 
+
+$END_PAGE_15
+
+$START_PAGE_16
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                           1-4                               Edition A Version 1 
+
+$END_PAGE_16
+
+$START_PAGE_17
+                                                                                                                                           AAMedP-1.1 
+                                          CHAPTER 2                   SELECTION OF PATIENTS FOR AEROMEDICAL 
+                                                                                   EVACUATION 
+                              2.1.       FITNESS FOR AIR TRAVEL
+                              Patients selected for transportation by air must be cleared for the proposed 
+                              flight by an aeromedically trained medical officer either at the originating facility, 
+                              a casualty staging unit, or an in-transit evacuation facility, or, in his absence, by 
+                              another competent medical authority.                                  The medical officer must balance 
+                              casualty fitness considerations against the availability of suitable in-flight 
+                              medical attention; the capacity for treatment in the reception area; the 
+                              operational situation; and the operational capabilities of the available airlift 
+                              aircraft. 
+                              2.2.       FORWARD AEROMEDICAL EVACUATION 
+                              1.         In forward aeromedical evacuation, the paramount need is to transport 
+                              the patient to the initial point of treatment as quickly as possible. Helicopters 
+                              and V/STOL aircraft will be used for airlift. 
+                              2.         The principle for the conduct of aeromedical evacuation in forward areas, 
+                              including priority of movement, scheduling, decisions as to whom should be 
+                              evacuated and the provision of medical escorts, is outlined in STANAG 2087 – 
+                              Medical Employment of Air Transport in the Forward Area. 
+                              2.3.       TACTICAL AND STRATEGIC AEROMEDICAL EVACUATION 
+                              1.         In these types of operation, the benefit to the patient of transfer to an 
+                              area where appropriate medical facilities are available must be balanced 
+                              against the ability of the patient to withstand the anticipated environment 
+                              conditions of the flight.              Account must be taken of the effects on the prospective 
+                              passenger of significant changes in atmospheric pressure and cabin 
+                              temperature, turbulence, the work load on a hard-pressed in-flight medical team 
+                              with restricted facilities and due regard paid to the aircraft type, flight plan and 
+                              mode of flight. 
+                              2.         When aeromedical evacuation is carried out with helicopters, vibration 
+                              (causing resonance of damaged body structures), turbulence (causing motion 
+                              sickness), noise (making communication difficult), poor temperature control and 
+                              a cramped and ill-lit interior (making in-flight care less available) are all 
+                              problematic.          In unpressurised fixed-wing aircraft, hypoxia and expansion of gas 
+                              in bodily cavities may worsen the condition of a casualty; these problems are 
+                              lessened in pressurised aircraft but not totally eliminated. 
+                                                                                           2-1                                 Edition A Version 1 
+
+$END_PAGE_17
+
+$START_PAGE_18
+                                                                                                                                           AAMedP-1.1 
+                              2.4.       CLINICAL SELECTION CRITERIA 
+                              1.         There are no absolute contra-indications to aeromedical evacuation. 
+                              Each case must be judged on its merits, weighing the advantage to the patient 
+                              of transfer against the possible harmful effects of the flight.                                             Sometimes a 
+                              calculated risk must be taken.                             Patients with critical medical or surgical 
+                              conditions (e.g. penetrating wounds or injuries of the chest or abdomen) should 
+                              be stabilised wherever possible before evacuation.                                            Unstable, or recently 
+                              stabilised patients, must be provided with the highest level of care available and 
+                              wherever possible should be accompanied by an anaesthetist or an intensive 
+                              care physician.             As a guide it would be wise to accept the following types of 
+                              patients only when there is no other acceptable means of transport: 
+                                         a.         Patients in the infective stage of serious communicable diseases 
+                                                    are generally not acceptable for AE.                                      If any are carried, 
+                                                    appropriate precautions must be taken for the protection of other 
+                                                    occupants (ref. Chapter 7). 
+                                         b.         Sick and wounded whose general condition is such that they may 
+                                                    not survive the flight. 
+                                         c.         Patients whose upper and lower jaws are immobilised.                                                Such 
+                                                    patients require constant supervision by persons who are 
+                                                    competent and equipped to remove the tie materials immediately 
+                                                    should the patient become airsick or vomit.                                             Fixation by 
+                                                    intermaxillary elastics is preferable to wire because of ease of 
+                                                    cutting. 
+                                         d.         Pregnant patients who are beyond the 250                              th day of pregnancy are 
+                                                    not routinely acceptable for aeromedical evacuation, but may be 
+                                                    moved if determined necessary to the patient's mental and/or 
+                                                    physical health by competent medical authority. 
+                              2.         Patients with any of the following conditions require special consideration 
+                              in selection for aeromedical evacuation, particularly in unpressurised aircraft: 
+                                         a.         Respiratory embarrassment.                             Patients whose unaided vital 
+                                                    capacity is less than 900 ml should not normally be moved by air 
+                                                    without a mechanical respirator. 
+                                         b.         Cardiac failure or early (less than 6 weeks) post-myocardial 
+                                                    infarction. 
+                                                                                           2-2                                 Edition A Version 1 
+
+$END_PAGE_18
+
+$START_PAGE_19
+                                                                                                                                           AAMedP-1.1 
+                                         c.         Severe anaemia, i.e. less that 2.5 million red blood cells per cubic 
+                                                    millimetre or less than 7 grams haemoglobin per 100 millilitre 
+                                                    estimated as near as possible to the proposed flight and/not more 
+                                                    than 72 hours beforehand. 
+                                         d.         Trapped gas within any of the body cavities, e.g. pneumothorax, 
+                                                    bowel obstruction or acute sinusitis.                       Patients with gas introduction 
+                                                    into the skull by trauma or other means.                                    Post-laparotomy or 
+                                                    thoracotomy patients should not normally be moved within 10 days 
+                                                    of operations except in pressurised aircraft. 
+                                         e.         Patients with neurological or psychiatric conditions require special 
+                                                    consideration before being allowed to emplane.                                 Any condition that 
+                                                    might prove suddenly incapacitating or acutely progressive, or that 
+                                                    may involve dangerous or disruptive behavioural manifestations. 
+                                                    Past psychiatric disease, excessive nervousness, flight phobias 
+                                                    etc. must all be borne in mind.                    Prior to flight these patients should 
+                                                    have been kept under observation for a period dependant on their 
+                                                    condition to assess their suitability for nursing care during flight. 
+                                         f.         Patients         diagnosed            with       Decompression                Illness       shall       be 
+                                                    transported at sea level cabin altitude or as near sea level as 
+                                                    possible. 
+                                                                                           2-3                                 Edition A Version 1 
+
+$END_PAGE_19
+
+$START_PAGE_20
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                           2-4                                 Edition A Version 1 
+
+$END_PAGE_20
+
+$START_PAGE_21
+                                                                                                                                           AAMedP-1.1 
+                                     CHAPTER 3                   CLASSIFICATION OF PATIENTS FOR AEROMEDICAL 
+                                                                                   EVACUATION 
+                              3.1.       CATEGORISATION OF PATIENTS
+                              The system of categorising patients that is used for aeromedical evacuation 
+                              provides the medical and movements staff responsible for coordinating the 
+                              movement of patients with a simple means of assessing the urgency, medical 
+                              support needs and space requirement of each casualty without a need to refer 
+                              to detailed clinical information which may not be readily available.                                          Indeed such 
+                              medical information should be treated in strict confidence and a classification 
+                              system can aid in this.                Codes are allocated to patients for Priority, Dependency 
+                              and Classification. 
+                              3.2.       PRIORITY 
+                              Patients for aeromedical evacuation will be given appropriate degrees of priority 
+                              so that, if aircraft space is limited, the more urgent patients may be evacuated 
+                              before those whose conditions are less serious.                                 The degrees of priority are: 
+                                         a.         Priority 1/URGENT                 .     Emergency patients for whom speedy 
+                                                    evacuation is necessary to save life, to prevent complications, or 
+                                                    to avoid serious permanent disability. (NTM for TacAE <3 hrs, for 
+                                                    StratAE <12 hrs) 
+                                         b.         Priority 2/PRIORITY               .   Patients who require specialised treatment 
+                                                    not available locally and who are liable to deteriorate unless 
+                                                    evacuated with the least possible delay. (NTM for TacAE <12 hrs, 
+                                                    for StratAE 12-24 hrs) 
+                                         c.         Priority 3/ROUTINE                 .    Patients whose immediate treatment is 
+                                                    available locally but whose prognosis would benefit from air 
+                                                    evacuation on routine scheduled flights. (NTM for TacAE >12 hrs, 
+                                                    for StratAE >24 hrs) 
+                              3.3.       DEPENDENCY 
+                              The assessment of dependency recognises the need to move patients who 
+                              have been stabilised but whose condition remains unstable, possibly requiring 
+                              intensive support in flight.                The degrees of dependency are: 
+                                                                                           3-1                                 Edition A Version 1 
+
+$END_PAGE_21
+
+$START_PAGE_22
+                                                                                                                                           AAMedP-1.1 
+                                         a.         Dependency 1 – High Dependency                                    .     Patients who require 
+                                                    intensive support during flight.                       For example, patients requiring 
+                                                    ventilation, monitoring of central venous pressure and cardiac 
+                                                    monitoring.             They may be unconscious or under general 
+                                                    anaesthesia. 
+                                         b.         Dependency 2 – Medium Dependency                                   .  Patients who, although 
+                                                    not      requiring         intensive          support,         require        regular,         frequent 
+                                                    monitoring and whose condition may deteriorate in flight.                                              For 
+                                                    example,           patients         who        have        a     combination             of     oxygen 
+                                                    administration, one or more intravenous infusions and multiple 
+                                                    drains or catheters. 
+                                         c.         Dependency 3 – Low Dependency                               .  Patients whose condition is 
+                                                    not expected to deteriorate during flight but who require nursing 
+                                                    care of, for example, simple oxygen therapy, an intravenous 
+                                                    infusion or a urinary catheter. 
+                                         d.         Dependency 4 - Minimal Dependency                                   .    Patients who do not 
+                                                    require nursing attention in flight but who might need assistance 
+                                                    with mobility or bodily functions. 
+                              3.4.       CLASSIFICATION 
+                              The classification defines the patient's requirement for space in the aircraft and 
+                              for physical assistance.                In addition it describes any requirement for the physical 
+                              restraint or supervision of psychiatric patients. 
+                                         a.         Class 1 – Neuropsychiatric Patients                           : 
+                                                    (1)        Class 1A – Severe Psychiatric Patients                                 .    Patients who 
+                                                               are frankly disturbed and inaccessible and require restraint, 
+                                                               sedation and close supervision. 
+                                                    (2)        Class        1B       –    Psychiatric            Patients          of     Intermediate 
+                                                               Severity      .  Patients who do not require restraint and are not, 
+                                                               at the moment, mentally disturbed, but may react badly to 
+                                                               air travel, or commit acts likely to endanger themselves or 
+                                                               the safety of the aircraft and its occupants.                            These patients 
+                                                               need close supervision in flight and may need sedation. 
+                                                    (3)        Class 1C – Mild Psychiatric Patients                             .   Patients who are 
+                                                               cooperative and have proved reliable under pre-flight 
+                                                               observation. 
+                                                                                           3-2                                 Edition A Version 1 
+
+$END_PAGE_22
+
+$START_PAGE_23
+                                                                                                                                           AAMedP-1.1 
+                                         b.         Class 2 – Stretcher Patients (other than Psychiatric)                                     : 
+                                                    (1)        Class 2A – Immobile Stretcher Patients                               .  Patients unable 
+                                                               to     move         about        of     their       own       volition        under        any 
+                                                               circumstances. 
+                                                    (2)        Class 2B – Mobile Stretcher Patients                              .    Patients able to 
+                                                               move about of their own volition in an emergency. 
+                                         c.         Class 3 – Sitting Patients (other than Psychiatric)                                  : 
+                                                    (1)        Class 3A        – Sitting patients, including handicapped persons, 
+                                                               who in an emergency would require assistance to escape. 
+                                                    (2)        Class 3B         – Sitting patients who would be able to escape 
+                                                               unassisted in an emergency. 
+                                         d.         Class 4 – Walking Patients                          .     Walking patients, other than 
+                                                    psychiatric, who are physically able to travel unattended. 
+                              3.5.       DOCUMENTATION 
+                              1.         Each patient will be tagged with a medical record in accordance with 
+                              STANAG 2132 – Documentation Relative To Initial Medical Treatment and 
+                              Evacuation. 
+                              2.         All appropriate medical documents pertaining to the patient will be placed 
+                              in an envelope and accompany the patient to the medical facility at the final 
+                              destination.          The envelope will be marked with the patient's name, rank, serial 
+                              number, nationality, organisation, date of departure and destination. 
+                              3.         Manifests of patients carried on each aircraft engaged in tactical or 
+                              strategic aeromedical evacuation will be prepared in accordance with 
+                              STANAG 3345 - Data/Forms For Planning Air Movements; copies will be 
+                              prepared for base operation, the originating aeromedical evacuation facility, 
+                              each intermediate stop, the destination terminal and the medical facility at the 
+                              final destination. 
+                              4.         Whenever the operational situation permits, clinical information shall be 
+                              forwarded to the AECC as far in advance of the evacuation as is practicable. 
+                                                                                           3-3                                 Edition A Version 1 
+
+$END_PAGE_23
+
+$START_PAGE_24
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                           3-4                                 Edition A Version 1 
+
+$END_PAGE_24
+
+$START_PAGE_25
+                                                                                                                                           AAMedP-1.1 
+                                               CHAPTER 4                   AEROMEDICAL AIRCREW PROCEDURES 
+                              4.1.       COMPOSITION OF AEROMEDICAL CREWS 
+                              1.         Aeromedical crews will consist of flight surgeons, flight nurses and/or 
+                              nursing attendants specially trained in aeromedical evacuation duties, 
+                              supplemented where necessary by medical officers and other ancillary medical 
+                              personnel.            Aeromedical Crew Members are, whenever possible, to fly as 
+                              constituted crews and are to be trained on all medically relevant aspects of the 
+                              aircraft type on which they are to operate. 
+                              2.         The recommended minimum scale for staffing aeromedical crews for 
+                              Dependency 4 patients and excluding Class 4 patients who require no escorts 
+                              is: 
+                                         a.         1-10 patients               –      1 aeromedical crew member. 
+                                         b.         11-20 patients              –      2 aeromedical crew members (if possible 
+                                                                                       one should be a nurse). 
+                                         c.         21-40 patients              –      3 aeromedical crew members (if possible at 
+                                                                                       least one should be a nurse). 
+                                         d.         41-60 patients              –      4 aeromedical crew members (if possible at 
+                                                                                       least two should be nurses). 
+                              3.         Additional requirements are as follows: 
+                                         a.         For Dependency 1 patients, the aeromedical crew shall include: 
+                                                    (1)        For 1 or 2 patients: a physician trained in intensive care 
+                                                               medicine and aviation medicine. 
+                                                    (2)        For 3 or 4 patients: a physician trained in intensive care 
+                                                               medicine and an additional physician, at least one of whom 
+                                                               has received training in aviation medicine. 
+                                                    (3)        For each patient: a nurse trained in intensive care nursing. 
+                                                    (4)        A technician competent to maintain aeromedical life support 
+                                                               equipment. 
+                                                                                           4-1                                 Edition A Version 1 
+
+$END_PAGE_25
+
+$START_PAGE_26
+                                                                                                                                           AAMedP-1.1 
+                                         b.         For Dependency 2 patients, the aeromedical crew shall include: 
+                                                    (1)        A physician trained in aviation medicine. 
+                                                    (2)        For up to 10 patients and for each additional 10 patients: a 
+                                                               flight nurse and a nursing attendant. 
+                                         c.         For Dependency 3 patients the aeromedical crew shall include a 
+                                                    flight nurse. 
+                              4.         Additional trained medical personnel may be assigned when, in the 
+                              opinion of the dispatching medical officer, the condition of any of the patients 
+                              warrants this. 
+                              4.2.       AEROMEDICAL CREW TRAINING 
+                              Ground instructions required on the special problems associated with in-flight 
+                              clinical care and treatment; loading and unloading of patients; emergency 
+                              procedures; and methods of documentation, etc.                                                In addition, practical 
+                              experience in the air is essential (see Chapter 6). 
+                              4.3.       AEROMEDICAL CREW EQUIPMENT 
+                              Appropriate medical and general equipment and supplies adequate for the care 
+                              of the number and types of patients transported will be available.                                              In planning 
+                              aeromedical equipment needs, provision should be made for the unexpected, 
+                              e.g. delays, diversion or in-flight emergencies. 
+                              4.4.       BRIEFING OF PATIENTS 
+                              A member of the aeromedical crew or an aircrew member must brief all 
+                              patients, paying special attention to the following points: 
+                                         a.         A number of walking patients will be detailed to assist with the 
+                                                    evacuation of stretcher patients in any emergency. 
+                                         b.         Safety belts and stretcher harnesses are to be properly fastened in 
+                                                    accordance with orders in any emergency. 
+                                         c.         Safety belts and harnesses are also to be correctly re-fastened 
+                                                    immediately in any emergency. 
+                                         d.         Smoking is to be restricted to the places and times authorised by 
+                                                    the aircraft captain. 
+                                                                                           4-2                                 Edition A Version 1 
+
+$END_PAGE_26
+
+$START_PAGE_27
+                                                                                                                                           AAMedP-1.1 
+                                         e.         The direct or indirect orders of the aircraft captain and the medical 
+                                                    team are to be obeyed immediately at all times. 
+                              4.5.       EMERGENCY PROCEDURES IN FLIGHT 
+                              All aeromedical crew members involved in the AE of patients will be thoroughly 
+                              trained and experienced in the measures necessary for evacuating the aircraft 
+                              in an emergency.                    These measures will include the following procedures 
+                              appropriate to each type of aircraft: 
+                                         a.         Consideration should be given to moving stretcher patients into 
+                                                    passenger seats if the circumstances permit.                                  All other stretcher 
+                                                    patients should be properly secured and remain on their stretcher 
+                                                    until after the aircraft comes to a complete halt. 
+                                         b.         Instruct the patients on the proper position to assume in preparing 
+                                                    for an emergency.                  Flight crews/aeromedical teams will ensure 
+                                                    that seat safety harnesses have been tightened. 
+                                         c.         After the aircraft has come to a complete halt, walking patients, 
+                                                    with the exception of those designated to assist stretcher patients, 
+                                                    will be the first to leave the aircraft. 
+                                         d.         Free immobile stretcher patients from stretcher and assist them to 
+                                                    leave the aircraft.             Stretchers will not normally be removed from 
+                                                    their fastenings in view of the limited time available to evacuate 
+                                                    the aircraft. 
+                              4.6.       IN-FLIGHT FEEDING OF PATIENTS 
+                              Provision will be made for supplying both normal and modified diets to patients 
+                              during flight.           The medical facility delivering the patient to the aircraft is to 
+                              ensure that adequate food (including special diets where necessary) is available 
+                              for all aeromedical flights to meet the needs of patients and which can be 
+                              prepared within the cooking capabilities on board the aircraft. 
+                              4.7.       PERSONAL PROPERTY AND VALUABLES 
+                              Personal property and valuables will be safeguarded as far as possible. 
+                              Patients will not generally be permitted to transport firearms, ammunition, 
+                              weapons, or any other article (e.g. aerosol containers or portable electronic 
+                              equipment containing batteries) that could become a hazard during flight. 
+                              These should be controlled in accordance with national procedures. 
+                                                                                           4-3                                 Edition A Version 1 
+
+$END_PAGE_27
+
+$START_PAGE_28
+                                                                                                                                           AAMedP-1.1 
+                                                                          INTENTIONALLY BLANK 
+                                                                                           4-4                                 Edition A Version 1 
+
+$END_PAGE_28
+
+$START_PAGE_29
+                                                                                                                                           AAMedP-1.1 
+                                     CHAPTER 5                   EQUIPMENT AND GENERAL PROCEDURES USED IN 
+                                                                     AEROMEDICAL EVACUATION 
+                              5.1.       AIRCRAFT EQUIPMENT 
+                              1.         Aeromedical aircraft stretchers and stretcher support systems shall meet 
+                              the following requirements: 
+                                         a.         Suitable stretcher supports will be provided, for example rigid 
+                                                    posts or webbing straps, that are light in weight and which may be 
+                                                    easily stowed in the aircraft when it is used for other purposes. 
+                                         b.         The dimensions of stretchers and stretcher supports will be as 
+                                                    detailed in STANAG 2040 – Stretchers, Bearing Brackets and 
+                                                    Attachment Supports, except that stretchers in aeromedical use 
+                                                    may be supported other than by their feet. 
+                                         c.         A satisfactory stretcher safety harness should be provided that will 
+                                                    protect each stretcher patient against the accelerations likely to be 
+                                                    encountered in flight; and those induced by turbulence, heavy 
+                                                    landing or ditching. 
+                                         d.         The stretcher installation shall provide sufficient space to allow 
+                                                    aeromedical personnel to care for each patient.                                              Stretcher 
+                                                    supports shall allow sufficient vertical tracking distance between 
+                                                    stretchers to prevent injury to patients by overhead structures. 
+                                                    Stretchers shall be as nearly horizontal as possible in flight. 
+                                         e.         The stretcher itself, the stretcher support and the stretcher 
+                                                    harness system should be capable, while loaded with a 114kg 
+                                                    human dummy, of supporting and restraining the dummy when 
+                                                    exposed to short duration accelerations of up to +9Gz, –6Gz, –
+                                                    9Gx and        ± 6Gy. 
+                              2.         The aircraft shall be provided with: 
+                                         a.         Adequate passenger compartment lighting and power outlets for 
+                                                    the operation of electrical medical equipment. 
+                                         b.         A supply of oxygen of sufficient quantity to satisfy therapeutic and 
+                                                    emergency requirements, either through the aircraft oxygen 
+                                                    system or by suitable portable oxygen supplies. 
+                                                                                           5-1                                 Edition A Version 1 
+
+$END_PAGE_29
+
+$START_PAGE_30
+                                                                                                                                           AAMedP-1.1 
+                              5.2.       AEROMEDICAL ELECTRICAL EQUIPMENT 
+                              All electro-medical equipment used in aeromedical evacuation should have 
+                              been tested for electromagnetic compatibility and is to be cleared by the 
+                              relevant national authority for the aircraft on which it is to be used. 
+                              Recommended minimum specifications of such equipment are at Annex A. 
+                              5.3.       PRE-FLIGHT INSPECTION OF AEROMEDICAL EQUIPMENT 
+                              For aircraft operating in the aeromedical evacuation role, the following 
+                              equipment checks appropriate to the aircraft type will be carried out: 
+                                         a.         Stretcher suspension straps, stanchions and clamps will be 
+                                                    checked to ensure serviceability and proper security. 
+                                         b.         All aeromedical evacuation equipment will be checked in order to 
+                                                    ensure proper functioning.                      The equipment should be properly 
+                                                    secured to withstand turbulent air conditions. 
+                                         c.         The loading off patients, survival equipment, etc. will be carried out 
+                                                    in accordance with safety precautions and existing instructions for 
+                                                    the particular aircraft. 
+                                         d.         Stretcher patients will be secured by means of safety harnesses. 
+                                         e.         All other medical equipment in the aircraft will be checked and 
+                                                    made secure. 
+                                         f.         Immediately prior to take-off, the proper functioning of the cabin 
+                                                    telephone and other communication devices will be checked. 
+                                         g.         Oxygen outlets will be checked including their adaptability to 
+                                                    therapeutic oxygen kits.                 The adequacy of oxygen supply will also 
+                                                    be checked. 
+                              5.4.       DISINFECTION OF AIRCRAFT AND MEDICAL EQUIPMENT 
+                              The interior of the aircraft and such articles as cutlery, crockery, stretchers, 
+                              blankets, sheets, medical equipment etc. will require disinfection after the 
+                              carriage of patients with infectious conditions, including open pulmonary 
+                              tuberculosis.          Appropriate procedures are: 
+                                         a.         General Aircraft Disinfection                      .   When considered necessary by 
+                                                    the competent medical authority in order to prevent dangerous 
+                                                    exposure to other persons, aircraft interiors should be sprayed 
+                                                                                           5-2                                 Edition A Version 1 
+
+$END_PAGE_30
+
+$START_PAGE_31
+                                                                                                                                           AAMedP-1.1 
+                                                    with an approved disinfectant, closed for at least an hour and then 
+                                                    well ventilated. 
+                                         b.         Cutlery and Crockery Disinfection                             .    This should be done by 
+                                                    immersing the articles in a suitable dilute disinfectant for 20 
+                                                    minutes prior to washing in the normal manner. 
+                                         c.         Disinfection of Medical Equipment                            .   Medical equipment should 
+                                                    be sterilised. 
+                                         d.         Disinfection of Stretchers and Bedding                                .   This should be done 
+                                                    by normal washing and, where appropriate, by steam or hot air 
+                                                    disinfection. 
+                                         NOTE      :           Other nationally approved disinfecting procedures may be 
+                                         used to supplement or replace any of the above procedures. 
+                              5.5.       DISINSECTION OF AIRCRAFT 
+                              Attention is drawn to the fact that disinsection of aircraft may also be a 
+                              requirement under certain conditions.                            Guidance on disinsection is provided in 
+                              AGARD-AG-340. In addition WHO International Health Regulations describe 
+                              the methods and procedures recommended by the WHO. 
+                              5.6.       GROUND EQUIPMENT 
+                              1.         Unloading and Loading Apparatus                                 .    Ramps or mechanised lifting 
+                              platforms will be required to permit loading and unloading of patients from 
+                              aircraft where a high clearance exists between the ground and the aircraft 
+                              fuselage door and there is no built-in aircraft loading lift.                                       Ramps should be 
+                              covered as a weather protection for patients where loading or unloading cannot 
+                              be done under cover (e.g. in a hangar). 
+                              2.         Cooling Apparatus                 .   Whenever possible, in areas where high shade 
+                              temperatures are commonly encountered, cooling apparatus should be 
+                              provided for controlling temperatures within the aircraft during the period when 
+                              patients are inside and during loading and unloading. 
+                              3.         Heating Apparatus                 .     Whenever possible, in areas where very low 
+                              temperatures are commonly encountered, heating apparatus should be 
+                              provided for warming the interior of the aircraft during the period when patients 
+                              are inside with the aircraft engines cut off and during loading and unloading. 
+                                                                                           5-3                                 Edition A Version 1 
+
+$END_PAGE_31
+
+$START_PAGE_32
+                                                                                                                                           AAMedP-1.1 
+                              5.7.       PROPERTY EXCHANGE 
+                              Property exchange will be carried out where possible in accordance with 
+                              STANAG 2128 – Medical and Dental Supply Procedures.                                            Equipment expended 
+                              in the care and treatment of patients will be replenished using normal resupply 
+                              procedure. 
+                              5.8.       SIGNALS PROCEDURE 
+                              In an operational scenario routine signals procedures will be heavily used and 
+                              may become overloaded.                          It is impossible to dictate the use of a specific 
+                              system, but alternative methods of message transfer for aeromedical 
+                              evacuation information must be considered.                               Whatever system is chosen, it may 
+                              only be possible to send limited information; however, the minimum information 
+                              required will be: 
+                                         a.         Flight plans for aircraft will indicate: 
+                                                    (1)        that the aircraft is on an aeromedical evacuation mission, or 
+                                                               is carrying evacuation patients and the total number of 
+                                                               patients; 
+                                                    (2)        the highest medical priority of any patient aboard. 
+                                         b.         The following additional information is essential and should be 
+                                         included in the flight plan and/or transmitted by the aeromedical 
+                                         evacuation facility at the point of departure to the AECC and the 
+                                         receiving medical facility when the military situation permits: 
+                                                    (1)        Number of patients in the various classes (see Chapter 3). 
+                                                    (2)        Number of female patients. 
+                                                    (3)        Essential clinical information on seriously and very seriously 
+                                                               ill patients. 
+                                                    (4)        Essential clinical information on patients requiring treatment 
+                                                               at special centres, e.g. burns, maxillofacial or thoracic 
+                                                               injuries. 
+                                                                                           5-4                                 Edition A Version 1 
+
+$END_PAGE_32
+
+$START_PAGE_33
+                                                                                                                                           AAMedP-1.1 
+                                                CHAPTER 6                   AEROMEDICAL EVACUATION TRAINING 
+                              6.1.       CONTENT 
+                              The following sequence of lectures, films and demonstrations is given as a 
+                              guide for the aeromedical evacuation training of nursing and medical personnel 
+                              as required: 
+                                         a.         Lecture on history of aeromedical evacuation, the scope of current 
+                                                    air routes and the advantages and disadvantages of aeromedical 
+                                                    evacuation. 
+                                         b.         Lecture on the effects of flight on health and diseases (to include 
+                                                    stresses of flight, clinical criteria and decisions on fitness to fly). 
+                                         c.         Lecture on Priorities, Dependencies and Classification. 
+                                         d.         Demonstration of oxygen equipment and ancillary equipment. 
+                                         e.         Lecture on the organisation of aeromedical evacuation in peace 
+                                                    and in war. 
+                                         f.         Demonstration of types of aircraft currently used for aeromedical 
+                                                    evacuation – to include aircraft configuration, methods of loading 
+                                                    and unloading, oxygen points, harnesses and emergency 
+                                                    equipment. 
+                                         g.         Lecture on the forms in current use e.g. medical, movements, 
+                                                    customs and health control. 
+                                         h.         Lecture on the duties of the various aeromedical crew members 
+                                                    and the air quarter-master/load master. 
+                                         i.         Lecture on aviation physiology to include a hypobaric chamber run 
+                                                    and a practical demonstration of hypoxia where possible. 
+                                         j.         Film on aeromedical evacuation. 
+                                         k.         Demonstration of types of stretcher and other medical equipment, 
+                                                    documentation               and       tags,       (including          dangerous            air     cargo 
+                                                    procedures and restraining apparatus etc.). 
+                                                                                           6-1                                 Edition A Version 1 
+
+$END_PAGE_33
+
+$START_PAGE_34
+                                                                                                                                           AAMedP-1.1 
+                                         l.         Demonstration of and participation in drills for ditching, crash 
+                                                    landing and survival (to include wet dinghy drills if possible). 
+                                         m.         Lecture on medical as well as aircraft emergency procedures in 
+                                                    flight, including briefing of patients (as detailed in Chapter 4). 
+                                         n.         Lecture by aeromedical crew member, including demonstration of 
+                                                    in-flight medical documentation. 
+                                         o.         Lecture on aeromedical evacuation of special patients such as 
+                                                    cases of infectious disease, spinal injury etc. 
+                                         p.         Patient interview and assessment. 
+                                         q.         Flight familiarisation. 
+                                         r.         Demonstration of loading, unloading and reception of patients (if 
+                                                    possible, actual patients). 
+                                         s.         Further training, to include practical experience on aeromedical 
+                                                    evacuation flights, under the supervision of an aeromedical 
+                                                    attendant, or experienced nursing attendant, until such time as the 
+                                                    trainee is proficient. 
+                                         t.         Medical and Nursing Officers should be trained in Intermediate 
+                                                    Cardiac Life Support skills (Advanced Cardiac and Advanced 
+                                                    Trauma Life Support for personnel responsible for aeromedical 
+                                                    evacuation of critical care patients).                      Paediatric life support training 
+                                                    should be undertaken by those responsible for aeromedical 
+                                                    evacuation of children. 
+                                         u.         Lecture on safety procedures: safety on the flight line and during 
+                                                    flight, crew resource management and in-flight procedures, anti-
+                                                    terrorism measures and aircrew restrictions (crew duty times, 
+                                                    alcohol, medication etc). 
+                                                                                           6-2                                 Edition A Version 1 
+
+$END_PAGE_34
+
+$START_PAGE_35
+                                                                                                                                           AAMedP-1.1 
+                                   CHAPTER 7                   MANAGEMENT OF CHEMICALLY CONTAIMINATED OR 
+                                                                HIGHLY INFECTIOUS CASUALTIES 
+                              7.1.       CHEMICALLY CONTAMINATED CASUALTIES 
+                              1.         Patients will normally not be evacuated by air in a chemically 
+                              contaminated state.                Decontamination is accomplished at the first point of care 
+                              and not expected as part of aeromedical evacuation crew duties. 
+                              2.         If contamination status cannot be fully ascertained or there is a fear of 
+                              the patient 'off gassing' in flight, a risk assessment should be undertaken to 
+                              determine the necessity of evacuating the patient by air; potential hazards to 
+                              other passengers or patients, to aircrew and to medical personnel and the 
+                              impact of potentially removing an airframe from service to be decontaminated, 
+                              should all be taken into account. 
+                              3.         Once the risks have been assessed and a decision has been made to 
+                              evacuate a potentially contaminated casualty by air, the risk must then be 
+                              mitigated to the greatest extent possible. Such protective measures could 
+                              include individual protective equipment and casualty barrier devices (bags or 
+                              wraps). 
+                              7.2.       PATIENTS WITH HIGHLY COMMUNICABLE INFECTIOUS DISEASES 
+                              1.         Every patient being considered for evacuation by air should be assessed 
+                              for infectious potential and handled in accordance with standard infectious 
+                              disease precautions (such as: body waste cleanup, containment and disposal; 
+                              hand-washing; barriers and protective clothing).                                   However, depending on the 
+                              threat situation, there are special circumstances that require more extraordinary 
+                              measures to ensure not only patient and medical crew welfare and protection, 
+                              but also force protection and population health. 
+                              2.         To assist those responsible for aeromedical evacuation of casualties in 
+                              the assessment of highly communicable infectious diseases that may present 
+                              special considerations for aeromedical evacuation, Annexes B and C may be 
+                              helpful in determining the level of containment required when evacuating highly 
+                              infectious patients. 
+                              3.         When, by whatever method, suspicion is high that the patient(s) being 
+                              considered for aeromedical evacuation might have a highly communicable 
+                              infectious disease, there are extraordinary issues to be considered and, if 
+                              evacuated by air, special measures to be taken.                                            If it is determined that 
+                                                                                           7-1                                 Edition A Version 1 
+
+$END_PAGE_35
+
+$START_PAGE_36
+                                                                                                                                           AAMedP-1.1 
+                              aeromedical evacuation is desirable to provide care for the patient, other issues 
+                              to be considered are as follows: 
+                                         a.         Risk to other patients, aircrew and medical crew (consider immune 
+                                                    status and suitability of chemoprophylaxis for the tasked crew). 
+                                         b.         Capability to properly isolate and safely provide care. 
+                                         c.         Risk to population at destination, along planned flight legs and 
+                                                    possible emergency diversions (disease suspected vs. population 
+                                                    immunity; will require infectious disease and preventive medicine 
+                                                    consultation). 
+                                         d.         International health regulations. 
+                                         e.         Impact on mission (dedication of significant resources which 
+                                                    detract from other medical mission considerations). 
+                                         f.         Command/control and reporting procedures. 
+                                         g.         Attendance or accompaniment by infectious disease experts. 
+                                         h.         Notification and suitability of the receiving facility to treat highly 
+                                                    communicable infectious diseases. 
+                                         i.         Numbers of patients suspected of being infected. 
+                                         j.         Contact tracing should a highly communicable disease emerge 
+                                                    after evacuation. 
+                              4.         Decision to evacuate patient(s) suspicious for or confirmed to have a 
+                              highly communicable infectious disease may be made on other than medical 
+                              reasons.          The issues mentioned here allow the responsible medical team to 
+                              provide more complete advice to commanders. 
+                              5.         The use of a special air transportable isolator for highly infectious 
+                              disease patients could be considered for nations possessing such equipment. 
+                              However, the use of such equipment requires a large number of personnel and 
+                              this form of aeromedical evacuation can only be used infrequently and for the 
+                              occasional patient.                 It cannot be seen as a routine means of aeromedical 
+                              evacuation. 
+                                                                                           7-2                                 Edition A Version 1 
+
+$END_PAGE_36
+
+$START_PAGE_37
+                                                                                                                                           AAMedP-1.1 
+                                       CHAPTER 8                   AEROMEDICAL EVACUATION USING CIVILIAN OR 
+                                   MIXED (CIVILIAN/MILITARY) ASSETS IN MILITARY MASS CASUALTY 
+                                                                                    SCENARIOS 
+                              8.1.       AIM 
+                              The aim of this Chapter is to explain and describe how a military-civilian AE 
+                              system may be used within an ongoing NATO operation to handle military mass 
+                              casualty situations. 
+                              8.2.       CONSIDERATIONS 
+                              1.         Aeromedical evacuation is crucial during many types of NATO 
+                              operations.           Strategic AE function is a national responsibility for each troop-
+                              contributing nation (TCN), therefore, each TCN has to secure capacity and 
+                              capability of AE, civilian or military, for mass casualty incidents.                                            TCNs may 
+                              cooperate to establish this function on a bi- or multi-lateral level. 
+                              2.         Civil assets may be used to augment military AE capability in five ways: 
+                                         a.         Civil aircraft assets with military medical crew. 
+                                         b.         Civil aircraft assets with civilian medical crew. 
+                                         c.         Civil aircraft assets with mixed civilian-military medical crew. 
+                                         d.         Military aircraft assets with civilian medical crew. 
+                                         e.         Military aircraft assets with mixed civilian-military medical crew. 
+                              3.         Chapter 3 describes the various levels of dependency for patients being 
+                              aeromedically evacuated.                     While some civil capability may exist for all patient 
+                              categories, in an effort to decompress military medical capability on the ground, 
+                              and to facilitate patient regulation, the following should be considered: 
+                                         a.         Patients categorized as Dependency 1 or 2 require assets with 
+                                                    intensive care capability.                   This is best met using dedicated and 
+                                                    established AE systems, preferably military. 
+                                         b.         Patients assessed as Dependency 3 or 4 may be aeromedically 
+                                                    evacuated using civil assets with medical crew and equipment 
+                                                    complying with the requirements described in Chapters 4 and 5 
+                                                    and as determined by the needs of the patients. 
+                                                                                           8-1                                 Edition A Version 1 
+
+$END_PAGE_37
+
+$START_PAGE_38
+                                                                                                                                           AAMedP-1.1 
+                              4.         When contracting civil assets for aeromedical evacuation, the following 
+                              operational and medical issues must be considered: 
+                                         a.         The contract must ensure that contracted capabilities meet the 
+                                                    requirements of this publication.                            Specifically, electro-medical 
+                                                    equipment used in AE must be cleared by the relevant national 
+                                                    authority for the aircraft on which it is used. 
+                                         b.         National legal/medico-legal responsibilities and liabilities must be 
+                                                    established.          Specifically, the contractor must be able to verify the 
+                                                    quality and level of training of medical crews. 
+                                         c.         Responsibility for providing the medical crews and aeromedical 
+                                                    equipment. 
+                                         d.         Standard Operating Procedures for initiating, planning and 
+                                                    executing the AE operations. 
+                                         e.         Location of the APOE(s) and APOD(s). 
+                                         f.         Estimated number of AE patients based on population at risk and 
+                                                    available capabilities. 
+                                         g.         Procedures for raising printed documentation in accordance with 
+                                                    STANAG 2132 - Documentation Relative to Initial Medical 
+                                                    Treatment and Evacuation Treatment and Cause of Death of 
+                                                    Patients. 
+                                         h.         Routines for briefing medical crew on patient history and status. 
+                                         i.         Responsibilities of military and civil authorities at points of 
+                                                    embarkation and disembarkation. 
+                              5.         During an AE operation, the treatment of patients should be secured at 
+                              the appropriate level depending on patient history and status.                                                      It is the 
+                              responsibility of the physicians at the sending medical facility in coordination 
+                              with the validating flight surgeon at the Aeromedical Evacuation Coordination 
+                              Centre to identify the required level of medical care during transfer.                                                      The 
+                              medical care during the AE operation is provided by the AE crew – it is, 
+                              therefore, crucial that patients’ medical needs are clearly stated and considered 
+                              when deciding what type of AE assets are to be used. 
+                                                                                           8-2                                 Edition A Version 1 
+
+$END_PAGE_38
+
+$START_PAGE_39
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                           AAMedP-1.1 
+                                ANNEX A               RECOMMENDED SPECIFICATIONS FOR ELECTROMEDICAL 
+                                                                                    EQUIPMENT 
+                              A.1.       Alarms 
+                                         a.         Audio     .    All audio equipment should be capable of generating a 
+                                                    variable sound level up to 110dB. 
+                                         b.         Visual     .   All indications of normal function should be displayed in 
+                                                    GREEN; all abnormal functions and alarms in RED. 
+                                         c.         Commonality            .   When equipment modules are grouped together, 
+                                                    all resultant audio signals should be ultimately generated from a 
+                                                    common outlet to limit confusion and noise levels. 
+                              A.2.       Visual Displays             .    All visual displays should be visible both in bright 
+                              sunlight and total darkness. 
+                              A.3.       Power Supply            . 
+                                         a.         Mains     .    All equipment should be able to work on 220/240 or 
+                                                    110/115 volt AC and 28 volt DC supplies.                                    Current Converters 
+                                                    should be cleared for use on the aircraft carrying the equipment. 
+                                         b.         Battery     .    All equipment should have internal batteries which are 
+                                                    either small enough to be readily transported and exchanged 
+                                                    when necessary, or large enough to provide power for full-
+                                                    specification function for at least 8 hours. 
+                                         c.         Failure     .    All equipment should have automatic battery-powered 
+                                                    function in the events of mains failure.                              Switch over should be 
+                                                    signalled. 
+                              A.4.       Temperature           .      All equipment should be capable of operating in 
+                              temperatures ranging – 10°C to +50°C. 
+                              A.5.       Humidity        .  All equipment should be capable of operating in conditions of 
+                              0-100% humidity. 
+                              A.6.       RS232 / USB Interface                  .   All equipment should have an RS232 or USB 
+                              interface for ultimate automatic data collection. 
+                                                                                          A-1                                  Edition A Version 1 
+                                                                                                                                Ratification Draft 1 
+
+$END_PAGE_39
+
+$START_PAGE_40
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                           AAMedP-1.1 
+                              A.7.       Vibration and Shock                  .   All equipment should pass vibration and shock 
+                              tests to a standard laid down by appropriate authorities. 
+                                                                                          A-2                                  Edition A Version 1 
+                                                                                                                                Ratification Draft 1 
+
+$END_PAGE_40
+
+$START_PAGE_41
+                                                                                                                                          ANNEX B TO 
+                                                                                                                                           AAMedP-1.1 
+                                             ANNEX B               CLINICAL SIGNS SUGGESTIVE OF A HIGHLY 
+                                                            COMMUNICABLE INFECTIOUS DISEASE 
+                              [Note: High-Level Containment Care is addressed in Annex C and would likely 
+                              be warranted in only a small minority of cases of a highly-communicable 
+                              disease.] 
+                              B.1.       Highly-communicable infectious disease may be suspected in patients 
+                              with pyrexia (an oral temperature greater than 38.5°C) and at least one of the 
+                              following: 
+                                         a.         Acute Respiratory Syndrome – rapid progression of symptoms 
+                                                    over a period of less than three days plus two or more of the 
+                                                    following: 
+                                                    (1)        Cough 
+                                                    (2)        Odynophagia/pharyngodynia 
+                                                    (3)        Dyspnea/tachypnea 
+                                                    (4)        Green or rust-coloured sputum 
+                                                    (5)        haemoptysis 
+                                                    (6)        Chest pain 
+                                                    (7)        Pneumonic infiltrates or mediastinal widening 
+                                         b.         Hemorrhagic Syndrome: 
+                                                    (1)        Bleeding from gingiva or other mucous membranes 
+                                                    (2)        Palatal petechiae 
+                                                    (3)        Purpura 
+                                                    (4)        Conjunctival haemorrhage 
+                                                    (5)        Melena, haematemesis, haempotysis, epistaxis 
+                                                                                          B-1                                  Edition A Version 1 
+
+$END_PAGE_41
+
+$START_PAGE_42
+                                                                                                                                          ANNEX B TO 
+                                                                                                                                           AAMedP-1.1 
+                                         c.         Lymphadenopathy Syndrome: 
+                                                    (1)        Tender or painful lymph nodes 
+                                                    (2)        Unusually coloured or draining lymph nodes 
+                                         d.         Dermatologic Syndrome: 
+                                                    (1)        Centrifugal Rash (petechial, purpural, vesicular) 
+                                                    (2)        Necrotic Skin Lesions 
+                                         e.         Neurologic Syndrome - malaise plus at least one of the following: 
+                                                    (1)        Confusion 
+                                                    (2)        Disorientation 
+                                                    (3)        Delirium 
+                                                    (4)        CSF leukocytosis 
+                                                    (5)        Meningoencephalitic signs or symptoms 
+                                         f.         Jaundice 
+                                         g.         Sepsis Syndrome: 
+                                                    (1)        Hypotension 
+                                                    (2)        Organ failure 
+                              B.2.       Other factors which might lend support to a diagnosis of a highly-
+                              communicable infectious disease include the following: 
+                                         a.         History of contact with an Individual known to have a highly-
+                                                    communicable infectious disease 
+                                         b.         History of insect bites 
+                                         c.         History of exposure to animals, sewage, or body fluids 
+                                         d.         Other contextual factors such as country visited and the time of 
+                                                    the year. 
+                                                                                          B-2                                  Edition A Version 1 
+
+$END_PAGE_42
+
+$START_PAGE_43
+                                                                                                                                          ANNEX C TO 
+                                                                                                                                           AAMedP-1.1 
+                                                     ANNEX C               HIGH-LEVEL CONTAINMENT CARE 
+                              C.1        Confirmed or suspected communicable diseases for which high-level 
+                              containment          may     be warranted include: 
+                                         a.         Apparently-contagious diseases of unknown etiology with a 
+                                                    potential for high morbidity and mortality. 
+                                         b.         Those highly-contagious diseases which WHO has determined 
+                                                    constitute a “Public Health Emergency of International Concern                                        1 ”: 
+                                                    (1)        Smallpox 
+                                                    (2)        Wild-type Polio 
+                                                    (3)        Human Influenza caused by a novel serotype 
+                                                    (4)        SARS 
+                                         c.         Those contagious diseases whose etiologic agents require 
+                                                    handling under BSL-4 conditions in the laboratory                                  2. In addition to 
+                                                    Smallpox, these include: 
+                                                    (1)        Lassa 
+                                                    (2)        New World arenaviral VHFs (Guanarito, Junin, Machupo, 
+                                                               Sabia) 
+                                                    (3)        Filoviral VHFs (Ebola, Marburg) 
+                                                    (4)        Certain flaviviral diseases with a haemorrhagic diathesis 
+                                                    (5)        Omsk VHF 
+                                                    (6)        Kyasanur Forest Disease 
+                                                    (7)        Congo-Crimean Haemorrhagic Fever 
+                              1
+                              2 World Health Organization. International Health Regulations, 2005. Annex 2. 
+                                U.S. Department of Health and Human Services. Biosafety in Microbiological and Biomedical 
+                              Laboratories, 5      thEdition, 2009. 
+                                                                                          C-1                                  Edition A Version 1 
+
+$END_PAGE_43
+
+$START_PAGE_44
+                                                                                                                                          ANNEX C TO 
+                                                                                                                                           AAMedP-1.1 
+                              C.2.       It is acknowledged that extraordinary measures may occasionally need to 
+                              be employed for political reasons rather than for strictly medical considerations. 
+                              In this regard, some nations may choose to utilize high-level containment 
+                              transport for the movement of patients with other conditions that typically would 
+                              not require high-level containment constituting a WHO public health crisis of 
+                              international concern (PHEIC), specifically: 
+                                         a.         Cholera 
+                                         b.         Pneumonic Plague 
+                                         c.         Yellow Fever 
+                                         d.         Dengue 
+                                         e.         West Nile Fever 
+                                         f.         Rift Valley Fever 
+                                         g.         Meningococcal disease 
+                                         h.         Others (e.g. XDR-TB) 
+                                                                                          C-2                                  Edition A Version 1 
+
+$END_PAGE_44
+
+$START_PAGE_45
+                                                                          INTENTIONALLY BLANK 
+
+$END_PAGE_45
+
+$START_PAGE_46
+                                                                   AAMedP-1.1(A)(1) 
+
+$END_PAGE_46
