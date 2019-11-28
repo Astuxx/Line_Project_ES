@@ -16,7 +16,7 @@ public class Prova {
         //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
         String fileName = "ANEP-MNEP-86 EDA V1.txt";
         String line = null; //line read
-        String stringacomplete = null;
+        String CompleteString = null;
 
         //create array list to save all string readed
         ArrayList<String> arrlist = new ArrayList<String>();
@@ -33,17 +33,15 @@ public class Prova {
             }
 
             while (line != null) {
-                line = line.replaceFirst("^  *", "");
-                // line = line.trim(); //da aggiugnere
-                //if (line.lenght()!=0) {
-                    //faccio append a sb
+                //line = line.replaceFirst("^  *", "");
+                line = line.trim(); //da aggiugnere
+                if (line.length()!=0) { //check if the line is empty
+                    sb.append(line).append("\n"); //append the line
                 }
-                //altrimenti si salta l'aggiunta
-                sb.append(line).append("\n");
-                line = br.readLine();
+                line = br.readLine(); //read new line prof file
             }
             System.out.println(sb);
-            stringacomplete = new String(sb);
+            CompleteString = new String(sb);
 
             // Close file
             br.close();
@@ -58,34 +56,43 @@ public class Prova {
                 "Error reading file '" + fileName + "'");
         }
 
-        System.out.println("Prova stampa");
-        System.out.println(stringacomplete);
+        System.out.println("PROVA STAMPA");
+        System.out.println(CompleteString);
 
         /*Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
         System.out.println("FIRST REMOVE \n");
-        System.out.println(p.matcher(stringacomplete).replaceAll("")); //ok works
+        System.out.println(p.matcher(CompleteString).replaceAll("")); //ok works
 
         p = Pattern.compile(regexMultiSpace);
         System.out.println("SECOND REMOVE \n");
-        System.out.println(p.matcher(stringacomplete).replaceAll("")); //still eat \n
+        System.out.println(p.matcher(CompleteString).replaceAll("")); //still eat \n
         */
 
         System.out.println("");
         System.out.println("STAMPA DOPO LE MODIFICHE");
         System.out.println("");
 
-        stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");//delete tabulations, \t
+        
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
-        stringacomplete = stringacomplete.replaceAll(" \n","\n");//delete space before \n
-        //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
-        stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
-        stringacomplete = stringacomplete.replaceAll("(\\$)START_PAGE_(\\d+) ","");//delete START_PAGE_n patter
-        stringacomplete = stringacomplete.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
-        stringacomplete = stringacomplete.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-
-        //line)
-        stringacomplete = stringacomplete.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
-        stringacomplete = stringacomplete.replaceAll("^[ ]","").trim();//delete last empty line
-        System.out.println(stringacomplete);
 
+        CompleteString = TextCleaning(CompleteString);
+       
+        //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
+        CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
+        CompleteString = CompleteString.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
+        System.out.println(CompleteString);
+
+    }
+
+    public static String TextCleaning (String x ) {
+        x = x.replaceAll("[ \t]+"," ");//delete tabulations, \t
+        x = x.replaceAll(" \n","\n");//delete space before \n
+        x = x.replaceAll("(\\$)START_PAGE_(\\d+) ","");//delete START_PAGE_n patter
+        x = x.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
+        x = x.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-
+        //line)
+        x = x.replaceAll("^[ ]","").trim();//delete last empty line
+
+        return x;
     }
 }
