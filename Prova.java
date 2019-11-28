@@ -95,4 +95,9 @@ public class Prova {
 
         return x;
     }
+
+    public static String UnionOfStrign (String x) {
+
+        return x;
+    }
 }
