@@ -34,6 +34,11 @@ public class Prova {
 
             while (line != null) {
                 line = line.replaceFirst("^  *", "");
+                // line = line.trim(); //da aggiugnere
+                //if (line.lenght()!=0) {
+                    //faccio append a sb
+                }
+                //altrimenti si salta l'aggiunta
                 sb.append(line).append("\n");
                 line = br.readLine();
             }
@@ -72,11 +77,13 @@ public class Prova {
         stringacomplete = stringacomplete.replaceAll("[ \t]+"," ");//delete tabulations, \t
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
         stringacomplete = stringacomplete.replaceAll(" \n","\n");//delete space before \n
+        //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
         stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
         stringacomplete = stringacomplete.replaceAll("(\\$)START_PAGE_(\\d+) ","");//delete START_PAGE_n patter
         stringacomplete = stringacomplete.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
-        stringacomplete = stringacomplete.replaceAll("(?m)^\\s", ""); //delete empty line
-        stringacomplete = stringacomplete.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text
+        stringacomplete = stringacomplete.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-
+        //line)
+        stringacomplete = stringacomplete.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
         stringacomplete = stringacomplete.replaceAll("^[ ]","").trim();//delete last empty line
         System.out.println(stringacomplete);
 
