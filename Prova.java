@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 import java.util.*;
 import java.io.File;
 import java.io.IOException;
-//import java.util.regex;
+import java.util.regex.*;
 
 public class Prova {
 
@@ -18,9 +18,6 @@ public class Prova {
         String line = null; //line read
         String CompleteString = null;
 
-        //create array list to save all string readed
-        ArrayList<String> arrlist = new ArrayList<String>();
-
         try {
             // read file as String in Java SE 6 and lower version
             BufferedReader br = new BufferedReader(new FileReader(fileName));
@@ -33,7 +30,7 @@ public class Prova {
             }
 
             while (line != null) {
-                //line = line.replaceFirst("^  *", "");
+                line = line.replaceFirst("^  *", "");
                 line = line.trim(); //da aggiugnere
                 if (line.length()!=0) { //check if the line is empty
                     sb.append(line).append("\n"); //append the line
@@ -71,33 +68,80 @@ public class Prova {
         System.out.println("");
         System.out.println("STAMPA DOPO LE MODIFICHE");
         System.out.println("");
-
         
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
 
         CompleteString = TextCleaning(CompleteString);
+        //System.out.println(CompleteString);
+        CompleteString = UnionOfStrign(CompleteString);
        
         //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
-        CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
-        CompleteString = CompleteString.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
+        //CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
+        //CompleteString = CompleteString.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
         System.out.println(CompleteString);
 
     }
 
     public static String TextCleaning (String x ) {
+
         x = x.replaceAll("[ \t]+"," ");//delete tabulations, \t
         x = x.replaceAll(" \n","\n");//delete space before \n
-        x = x.replaceAll("(\\$)START_PAGE_(\\d+) ","");//delete START_PAGE_n patter
+        x = x.replaceAll("(\\$)START_PAGE_(\\d+)","");//delete START_PAGE_n patter
         x = x.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
-        x = x.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-
-        //line)
+        x = x.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-line)
         x = x.replaceAll("^[ ]","").trim();//delete last empty line
 
+        //System.out.println("Sono qua");
+        //System.out.println(x);
         return x;
     }
 
     public static String UnionOfStrign (String x) {
 
-        return x;
+        //create String vector to split string of text
+        String lines[] = x.split("\\r?\\n"); //split line and save the single string without '\n'
+        int size = lines.length;
+        //array of boolean to define if a line can be pulled up
+        Boolean[] check = new Boolean[size];
+        for (int i=0; i<size; i++) { //set a false all position
+            check[i] = false;
+            //System.out.println(check[i]);
+        }
+
+        for (String a : lines) {
+           // System.out.println(a);
+        }
+
+        //analyze all string
+        for (int i = 0; i<size-1; i++) {
+            String a = lines[i] + "\n" + lines[i+1]; //create a string to find the pattern
+            //cases with a lower case word or ')' at the end of line, \n and after a lower case word
+            Pattern p = Pattern.compile( "(([[:lower:])?,?])[\r\n]+([[:lower:]1-9][^.)]))"); 
+            Matcher m = p.matcher(a);
+
+            Pattern q = Pattern.compile("((^[\\w \t[:punct:]]{50,}\b[[:lower:]]+)[\r\n]+([A-Z][[:lower:]]+\b))"); 
+            Matcher n = q.matcher(a);
+            
+            Pattern r = Pattern.compile("((\b\\w+),[\r\n]+(\\w+\b))"); 
+            Matcher o = r.matcher(a);
+
+            if ( m.find() || n.find() || o.find() ) {
+                //System.out.println("Entro");
+                check[i+1] = true;
+            }
+        }//fine for
+
+        String ret = lines[0]; //String output
+
+        for (int i = 1; i<size; i++) {
+            if(check[i]==true) {
+                ret = ret + " " +  lines[i];
+            }
+            else {
+                ret = ret + "\n" + lines[i];
+            }
+        }
+        
+        return ret;
     }
 }
