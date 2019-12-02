@@ -11,7 +11,7 @@ public class Prova {
 
         // The name of file or path
         //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
-        String fileName = "ANEP-MNEP-86 EDA V1.txt";
+        String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
 
@@ -70,8 +70,8 @@ public class Prova {
 
         CompleteString = TextCleaning(CompleteString);
         //System.out.println(CompleteString);
-        CompleteString = UnionOfString(CompleteString);
-        //System.out.println(CompleteString);
+        CompleteString = matchString(CompleteString);
+        System.out.println(CompleteString);
        
         //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
         //CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
@@ -94,7 +94,7 @@ public class Prova {
         return x;
     }
 
-    public static String UnionOfString (String x) {
+    /*public static String UnionOfString (String x) {
 
         //create String vector to split string of text
         String lines[] = x.split("\\r?\\n"); //split line and save the single string without '\n'
@@ -146,6 +146,50 @@ public class Prova {
         }
         
         System.out.println(ret);
+        return ret;
+    }*/
+
+    public static String matchString (String x) {
+        //regex for a good end line
+        String R1 = "([:lower:])$";
+        String R2 = "^([:lower:])";
+        int count = 0;
+        
+
+        String lines[] = x.split("\\n"); //split line and save the single string without '\n'
+        int size = lines.length;
+
+        Boolean[] check = new Boolean[size];
+        for (int i=0; i<size; i++) { //set a false all position
+            check[i] = false;
+        }
+
+        for (int i = 0; i<size-1; i++) {
+            String a = lines[i]; //+ "\n" + lines[i+1]; //create a string to find the pattern
+            String b = lines[i+1];
+            
+            Pattern p = Pattern.compile(R1);
+            Matcher n = p.matcher(a); 
+            
+            Pattern q = Pattern.compile(R2);
+            Matcher o = q.matcher(b);
+            
+            if ( n.find() && o.find() ) {
+                count+=1;
+                check[i+1] = true;
+            }
+        }    
+
+        String ret = lines[0]; 
+
+        for (int i = 1; i<size; i++) {
+            if(check[i]==true) {
+                ret = ret + " " +  lines[i];
+            }
+            else {
+                ret = ret + "\n" + lines[i];
+            }
+        }
         return ret;
     }
 }
