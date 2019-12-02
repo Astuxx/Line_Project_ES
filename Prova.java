@@ -165,17 +165,17 @@ public class Prova {
         }
 
         for (int i = 0; i<size-1; i++) {
-            String a = lines[i]; //+ "\n" + lines[i+1]; //create a string to find the pattern
-            String b = lines[i+1];
+            //+ "\n" + lines[i+1]; //create a string to find the pattern
             
             Pattern p = Pattern.compile(R1);
-            Matcher n = p.matcher(a); 
+            Matcher n = p.matcher(lines[i]); 
             
             Pattern q = Pattern.compile(R2);
-            Matcher o = q.matcher(b);
+            Matcher o = q.matcher(lines[i+1]);
             
             if ( n.find() && o.find() ) {
                 count+=1;
+                System.out.println(i);
                 check[i+1] = true;
             }
         }    
