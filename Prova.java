@@ -151,7 +151,7 @@ public class Prova {
 
     public static String matchString (String x) {
         //regex for a good end line
-        String R1 = "([:lower:])$";
+        String R1 = "([:lower:])([ \\t]+)?$";
         String R2 = "^([:lower:])";
         int count = 0;
         
@@ -165,17 +165,17 @@ public class Prova {
         }
 
         for (int i = 0; i<size-1; i++) {
-            //+ "\n" + lines[i+1]; //create a string to find the pattern
+            String a = lines[i]; //+ "\n" + lines[i+1]; //create a string to find the pattern
+            String b = lines[i+1];
             
             Pattern p = Pattern.compile(R1);
-            Matcher n = p.matcher(lines[i]); 
+            Matcher n = p.matcher(a); 
             
             Pattern q = Pattern.compile(R2);
-            Matcher o = q.matcher(lines[i+1]);
+            Matcher o = q.matcher(b);
             
-            if ( n.find() && o.find() ) {
+            if ( n.find() || o.find() ) {
                 count+=1;
-                System.out.println(i);
                 check[i+1] = true;
             }
         }    
