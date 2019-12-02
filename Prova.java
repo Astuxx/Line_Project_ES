@@ -8,9 +8,6 @@ import java.util.regex.*;
 public class Prova {
 
     public static void main(String Args[]) {
-        //System.out.println("Ciao");
-        //String regexBlankLine = "^[ \\t]$+";
-        //String regexMultiSpace = "^[ \\t]+";
 
         // The name of file or path
         //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
@@ -30,14 +27,14 @@ public class Prova {
             }
 
             while (line != null) {
-                line = line.replaceFirst("^  *", "");
+                //line = line.replaceFirst("^  *", "");
                 line = line.trim(); //da aggiugnere
                 if (line.length()!=0) { //check if the line is empty
                     sb.append(line).append("\n"); //append the line
                 }
                 line = br.readLine(); //read new line prof file
             }
-            System.out.println(sb);
+            //System.out.println(sb);
             CompleteString = new String(sb);
 
             // Close file
@@ -54,7 +51,7 @@ public class Prova {
         }
 
         System.out.println("PROVA STAMPA");
-        System.out.println(CompleteString);
+        //System.out.println(CompleteString);
 
         /*Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
         System.out.println("FIRST REMOVE \n");
@@ -72,13 +69,13 @@ public class Prova {
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
 
         CompleteString = TextCleaning(CompleteString);
-        //System.out.println(CompleteString);
-        CompleteString = UnionOfStrign(CompleteString);
+        System.out.println(CompleteString);
+        CompleteString = UnionOfString(CompleteString);
        
         //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
         //CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
         //CompleteString = CompleteString.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
-        System.out.println(CompleteString);
+        //System.out.println(CompleteString);
 
     }
 
@@ -96,22 +93,20 @@ public class Prova {
         return x;
     }
 
-    public static String UnionOfStrign (String x) {
+    public static String UnionOfString (String x) {
 
         //create String vector to split string of text
         String lines[] = x.split("\\r?\\n"); //split line and save the single string without '\n'
         int size = lines.length;
+        //System.out.println("N° string: " + size);
         //array of boolean to define if a line can be pulled up
         Boolean[] check = new Boolean[size];
         for (int i=0; i<size; i++) { //set a false all position
             check[i] = false;
             //System.out.println(check[i]);
         }
-
-        for (String a : lines) {
-           // System.out.println(a);
-        }
-
+        int count = 0;
+        int count2 = 0;
         //analyze all string
         for (int i = 0; i<size-1; i++) {
             String a = lines[i] + "\n" + lines[i+1]; //create a string to find the pattern
@@ -124,12 +119,17 @@ public class Prova {
             
             Pattern r = Pattern.compile("((\b\\w+),[\r\n]+(\\w+\b))"); 
             Matcher o = r.matcher(a);
-
+            count2 += 1 ;
             if ( m.find() || n.find() || o.find() ) {
                 //System.out.println("Entro");
+                count+=1;
                 check[i+1] = true;
             }
         }//fine for
+
+        //System.out.println("count2 "+count2); 953
+
+        //System.out.println("Entro " + count + " volte");
 
         String ret = lines[0]; //String output
 
