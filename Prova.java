@@ -27,7 +27,7 @@ public class Prova {
             }
 
             while (line != null) {
-                //line = line.replaceFirst("^  *", "");
+                line = line.replaceFirst("^  *", "");
                 line = line.trim(); //da aggiugnere
                 if (line.length()!=0) { //check if the line is empty
                     sb.append(line).append("\n"); //append the line
@@ -69,8 +69,9 @@ public class Prova {
         //stringacomplete = stringacomplete.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");
 
         CompleteString = TextCleaning(CompleteString);
-        System.out.println(CompleteString);
+        //System.out.println(CompleteString);
         CompleteString = UnionOfString(CompleteString);
+        //System.out.println(CompleteString);
        
         //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
         //CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
@@ -86,7 +87,7 @@ public class Prova {
         x = x.replaceAll("(\\$)START_PAGE_(\\d+)","");//delete START_PAGE_n patter
         x = x.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
         x = x.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-line)
-        x = x.replaceAll("^[ ]","").trim();//delete last empty line
+        x = x.replaceAll("^[ ]","");//delete last empty line
 
         //System.out.println("Sono qua");
         //System.out.println(x);
@@ -110,8 +111,8 @@ public class Prova {
         //analyze all string
         for (int i = 0; i<size-1; i++) {
             String a = lines[i] + "\n" + lines[i+1]; //create a string to find the pattern
-            //cases with a lower case word or ')' at the end of line, \n and after a lower case word
-            Pattern p = Pattern.compile( "(([[:lower:])?,?])[\r\n]+([[:lower:]1-9][^.)]))"); 
+            //cases with a lower case word or ')' or ',' at the end of line, \n and after a lower case word
+            Pattern p = Pattern.compile("(([[:lower:])?,?])[\r\n]+([[:lower:]1-9][^.)]))"); 
             Matcher m = p.matcher(a);
 
             Pattern q = Pattern.compile("((^[\\w \t[:punct:]]{50,}\b[[:lower:]]+)[\r\n]+([A-Z][[:lower:]]+\b))"); 
@@ -119,7 +120,9 @@ public class Prova {
             
             Pattern r = Pattern.compile("((\b\\w+),[\r\n]+(\\w+\b))"); 
             Matcher o = r.matcher(a);
+
             count2 += 1 ;
+
             if ( m.find() || n.find() || o.find() ) {
                 //System.out.println("Entro");
                 count+=1;
@@ -127,13 +130,13 @@ public class Prova {
             }
         }//fine for
 
-        //System.out.println("count2 "+count2); 953
+        //System.out.println("count2 "+count2); //953
 
-        //System.out.println("Entro " + count + " volte");
+        System.out.println("Entro " + count + " volte");
 
         String ret = lines[0]; //String output
 
-        for (int i = 1; i<size; i++) {
+        for (int i = 0; i<size; i++) {
             if(check[i]==true) {
                 ret = ret + " " +  lines[i];
             }
@@ -142,6 +145,7 @@ public class Prova {
             }
         }
         
+        System.out.println(ret);
         return ret;
     }
 }
