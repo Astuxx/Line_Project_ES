@@ -153,7 +153,7 @@ public class Prova {
         //regex for a good end line
         String R1 = "([a-z]+)([\\t]+)?$";//con cambia nulla senza lo \\t
         String R2 = "^([a-z]+)";
-        String R3 = "[,?)?-?]$";
+        String R3 = "[\\,?\\)?\\-?]$";
 
         int count = 0;
 
