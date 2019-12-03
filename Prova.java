@@ -10,8 +10,8 @@ public class Prova {
     public static void main(String Args[]) {
 
         // The name of file or path
-        //String fileName = "nato_documents/txts/AAMedP-1 EDA V1 E.txt";
-        String fileName = "Prova.txt";
+        String fileName = "AAMedP-1 EDA V1 E.txt";
+        //String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
 
@@ -151,10 +151,9 @@ public class Prova {
 
     public static String matchString (String x) {
         //regex for a good end line
-        String R1 = "([:lower:])([ \\t]+)?$";
-        String R2 = "^([:lower:])";
+        String R1 = "([a-z]+)([\\t]+)?$";//con cambia nulla senza lo \\t
+        String R2 = "^([a-z]+)";
         int count = 0;
-        
 
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
         int size = lines.length;
@@ -162,25 +161,28 @@ public class Prova {
         Boolean[] check = new Boolean[size];
         for (int i=0; i<size; i++) { //set a false all position
             check[i] = false;
+            System.out.println(lines[i]);
         }
 
         for (int i = 0; i<size-1; i++) {
-            String a = lines[i]; //+ "\n" + lines[i+1]; //create a string to find the pattern
-            String b = lines[i+1];
+            //String a = lines[i]; //+ "\n" + lines[i+1]; //create a string to find the pattern
+            //String b = lines[i+1];
             
             Pattern p = Pattern.compile(R1);
-            Matcher n = p.matcher(a); 
+            Matcher n = p.matcher(lines[i]); 
             
             Pattern q = Pattern.compile(R2);
-            Matcher o = q.matcher(b);
+            Matcher o = q.matcher(lines[i+1]);
             
             if ( n.find() || o.find() ) {
                 count+=1;
+                System.out.println(i+1);
                 check[i+1] = true;
             }
         }    
+        //System.out.println(count); //anche senza \\t stampa sempre quel valore
 
-        String ret = lines[0]; 
+        String ret = lines[0];
 
         for (int i = 1; i<size; i++) {
             if(check[i]==true) {
