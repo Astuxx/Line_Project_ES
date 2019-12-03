@@ -153,6 +153,7 @@ public class Prova {
         //regex for a good end line
         String R1 = "([a-z]+)([\\t]+)?$";//con cambia nulla senza lo \\t
         String R2 = "^([a-z]+)";
+
         int count = 0;
 
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
