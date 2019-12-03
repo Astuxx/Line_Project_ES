@@ -153,6 +153,7 @@ public class Prova {
         //regex for a good end line
         String R1 = "([a-z]+)([\\t]+)?$";//con cambia nulla senza lo \\t
         String R2 = "^([a-z]+)";
+        String R3 = "[,?)?-?]$";
 
         int count = 0;
 
@@ -174,8 +175,11 @@ public class Prova {
             
             Pattern q = Pattern.compile(R2);
             Matcher o = q.matcher(lines[i+1]);
+
+            Pattern y = Pattern.compile(R3);
+            Matcher z = y.matcher(lines[i]);
             
-            if ( n.find() && o.find() ) {
+            if ( n.find() && o.find() || (z.find())) {
                 count+=1;
                 //sSystem.out.println(i+1);
                 check[i+1] = true;
