@@ -10,7 +10,7 @@ public class Prova {
     public static void main(String Args[]) {
 
         // The name of file or path
-        String fileName = "AAMedP-1 EDA V1 E.txt";
+        String fileName = "ANEP-MNEP-86 EDA V1.txt";
         //String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
@@ -49,9 +49,6 @@ public class Prova {
             System.out.println(
                 "Error reading file '" + fileName + "'");
         }
-
-        System.out.println("PROVA STAMPA");
-        //System.out.println(CompleteString);
 
         /*Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
         System.out.println("FIRST REMOVE \n");
@@ -151,9 +148,13 @@ public class Prova {
 
     public static String matchString (String x) {
         //regex for a good end line
-        String R1 = "([a-z]+)([\\t]+)?$";//con cambia nulla senza lo \\t
-        String R2 = "^([a-z]+)";
+        String R1 = "([a-z])$";//con cambia nulla senza lo \\t
+        String R2 = "^([a-z])";
         String R3 = "[\\,?\\)?\\-?]$";
+        String R4 = "\\b$";
+        String R5 = "^[a-z]";
+        String R6 = "[a-z]$";
+        String R7 = "^\\b";
 
         int count = 0;
 
@@ -163,7 +164,7 @@ public class Prova {
         Boolean[] check = new Boolean[size];
         for (int i=0; i<size; i++) { //set a false all position
             check[i] = false;
-            System.out.println(lines[i]);
+            //System.out.println(lines[i]);
         }
 
         for (int i = 0; i<size-1; i++) {
@@ -178,10 +179,22 @@ public class Prova {
 
             Pattern y = Pattern.compile(R3);
             Matcher z = y.matcher(lines[i]);
+
+            Pattern w = Pattern.compile(R4);
+            Matcher l = w.matcher(lines[i]);
+
+            Pattern k = Pattern.compile(R5);
+            Matcher h = k.matcher(lines[i]);
+
+            Pattern f = Pattern.compile(R6);
+            Matcher g = f.matcher(lines[i]);
+
+            Pattern t = Pattern.compile(R7);
+            Matcher r = t.matcher(lines[i]);
+
             
-            if ( n.find() && o.find() || (z.find())) {
+            if ( n.find() && o.find() || (z.find()) || (l.find() && h.find()) || (g.find() && r.find())) {
                 count+=1;
-                //sSystem.out.println(i+1);
                 check[i+1] = true;
             }
         }    
