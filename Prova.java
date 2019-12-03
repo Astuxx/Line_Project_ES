@@ -174,9 +174,9 @@ public class Prova {
             Pattern q = Pattern.compile(R2);
             Matcher o = q.matcher(lines[i+1]);
             
-            if ( n.find() || o.find() ) {
+            if ( n.find() && o.find() ) {
                 count+=1;
-                System.out.println(i+1);
+                //sSystem.out.println(i+1);
                 check[i+1] = true;
             }
         }    
