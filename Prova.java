@@ -93,61 +93,6 @@ public class Prova {
         return x;
     }
 
-    /*public static String UnionOfString (String x) {
-
-        //create String vector to split string of text
-        String lines[] = x.split("\\r?\\n"); //split line and save the single string without '\n'
-        int size = lines.length;
-        //System.out.println("N° string: " + size);
-        //array of boolean to define if a line can be pulled up
-        Boolean[] check = new Boolean[size];
-        for (int i=0; i<size; i++) { //set a false all position
-            check[i] = false;
-            //System.out.println(check[i]);
-        }
-        int count = 0;
-        int count2 = 0;
-        //analyze all string
-        for (int i = 0; i<size-1; i++) {
-            String a = lines[i] + "\n" + lines[i+1]; //create a string to find the pattern
-            //cases with a lower case word or ')' or ',' at the end of line, \n and after a lower case word
-            Pattern p = Pattern.compile("(([[:lower:])?,?])[\r\n]+([[:lower:]1-9][^.)]))"); 
-            Matcher m = p.matcher(a);
-
-            Pattern q = Pattern.compile("((^[\\w \t[:punct:]]{50,}\b[[:lower:]]+)[\r\n]+([A-Z][[:lower:]]+\b))"); 
-            Matcher n = q.matcher(a);
-            
-            Pattern r = Pattern.compile("((\b\\w+),[\r\n]+(\\w+\b))"); 
-            Matcher o = r.matcher(a);
-
-            count2 += 1 ;
-
-            if ( m.find() || n.find() || o.find() ) {
-                //System.out.println("Entro");
-                count+=1;
-                check[i+1] = true;
-            }
-        }//fine for
-
-        //System.out.println("count2 "+count2); //953
-
-        System.out.println("Entro " + count + " volte");
-
-        String ret = lines[0]; //String output
-
-        for (int i = 0; i<size; i++) {
-            if(check[i]==true) {
-                ret = ret + " " +  lines[i];
-            }
-            else {
-                ret = ret + "\n" + lines[i];
-            }
-        }
-        
-        System.out.println(ret);
-        return ret;
-    }*/
-
     public static String matchString (String x) {
         //regex for a good end line
         String R1 = "([a-z])$";//R1 AND R2
