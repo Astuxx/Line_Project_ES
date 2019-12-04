@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.regex.Pattern;
 
-import jdk.nashorn.internal.runtime.regexp.joni.Regex;
+//import jdk.nashorn.internal.runtime.regexp.joni.Regex;
 
 import java.util.*;
 import java.io.File;
@@ -13,7 +13,7 @@ public class Prova {
     public static void main(String Args[]) {
 
         // The name of file or path
-        String fileName = "AAMedP-1.1 EdA v1 E.txt";
+        String fileName = Args[0];//"AAMedP-1.1 EdA v1 E.txt";
         //String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
@@ -116,7 +116,7 @@ public class Prova {
         RegexSingle.add(Pattern.compile(R7));
         RegexSingle.add(Pattern.compile(R8));
   
-        int count = 0;
+        //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
         int size = lines.length;
 
