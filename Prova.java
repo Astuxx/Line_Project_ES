@@ -1,5 +1,8 @@
 import java.io.*;
 import java.util.regex.Pattern;
+
+import jdk.nashorn.internal.runtime.regexp.joni.Regex;
+
 import java.util.*;
 import java.io.File;
 import java.io.IOException;
@@ -74,7 +77,6 @@ public class Prova {
         //CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
         //CompleteString = CompleteString.replaceAll("\\.{2,100}", "\n"); //delete the many dot in the index of text (DA TOGLIERE!)
         //System.out.println(CompleteString);
-
     }
 
     public static String TextCleaning (String x ) {
@@ -148,54 +150,54 @@ public class Prova {
 
     public static String matchString (String x) {
         //regex for a good end line
-        String R1 = "([a-z])$";//con cambia nulla senza lo \\t
+        String R1 = "([a-z])$";//R1 AND R2
         String R2 = "^([a-z])";
-        String R3 = "[\\,?\\)?\\-?]$";
-        String R4 = "\\b$";
-        String R5 = "^[a-z]";
-        String R6 = "[a-z]$";
-        String R7 = "^\\b";
+        String R3 = "\\b$";
+        String R4 = "^[a-z]{2,100}";
+        String R5 = "[a-z]$";
+        String R6 = "^\\b";
+        String R7 = "[\\,?\\)?\\-?\\;?]$"; //single
 
+        ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
+        RegexDouble.add(Pattern.compile(R1));
+        RegexDouble.add(Pattern.compile(R2));
+        RegexDouble.add(Pattern.compile(R3));
+        RegexDouble.add(Pattern.compile(R4));
+        RegexDouble.add(Pattern.compile(R5));
+        RegexDouble.add(Pattern.compile(R6));
+
+        ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
+        RegexSingle.add(Pattern.compile(R7));
+  
         int count = 0;
-
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
         int size = lines.length;
 
-        Boolean[] check = new Boolean[size];
-        for (int i=0; i<size; i++) { //set a false all position
-            check[i] = false;
-            //System.out.println(lines[i]);
+        Integer[] check = new Integer[size]; 
+        /*
+        0 = non faccio nulla
+        1 = tiro sula riga con uno spazio
+        2 = tiro su la riga con nessuno spazio
+        */
+        for (int i=0; i<size; i++) { //set 0 all position
+            check[i] = 0;
         }
 
         for (int i = 0; i<size-1; i++) {
-            //String a = lines[i]; //+ "\n" + lines[i+1]; //create a string to find the pattern
-            //String b = lines[i+1];
             
-            Pattern p = Pattern.compile(R1);
-            Matcher n = p.matcher(lines[i]); 
-            
-            Pattern q = Pattern.compile(R2);
-            Matcher o = q.matcher(lines[i+1]);
+            for (int j = 0; j<RegexDouble.size(); j+=2) {
+                Matcher t = RegexDouble.get(j).matcher(lines[i]);
+                Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);
+                if ( t.find() && y.find()) {
+                    count+=1;
+                    check[i+1] = 1;
+                }
+            }
 
-            Pattern y = Pattern.compile(R3);
-            Matcher z = y.matcher(lines[i]);
-
-            Pattern w = Pattern.compile(R4);
-            Matcher l = w.matcher(lines[i]);
-
-            Pattern k = Pattern.compile(R5);
-            Matcher h = k.matcher(lines[i]);
-
-            Pattern f = Pattern.compile(R6);
-            Matcher g = f.matcher(lines[i]);
-
-            Pattern t = Pattern.compile(R7);
-            Matcher r = t.matcher(lines[i]);
-
-            
-            if ( n.find() && o.find() || (z.find()) || (l.find() && h.find()) || (g.find() && r.find())) {
-                count+=1;
-                check[i+1] = true;
+            //Patter single
+            Matcher z = RegexSingle.get(0).matcher(lines[i]);
+            if (z.find()) {
+                check[i+1] = 1;
             }
         }    
         //System.out.println(count); //anche senza \\t stampa sempre quel valore
@@ -203,7 +205,7 @@ public class Prova {
         String ret = lines[0];
 
         for (int i = 1; i<size; i++) {
-            if(check[i]==true) {
+            if(check[i]==1) {
                 ret = ret + " " +  lines[i];
             }
             else {
