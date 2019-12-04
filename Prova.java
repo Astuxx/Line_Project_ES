@@ -102,7 +102,7 @@ public class Prova {
         String R5 = "[a-z]$";
         String R6 = "^\\b";
         String R7 = "[\\,?\\)?\\;?]$"; //single
-        String R8 = "\\-?$";
+        String R8 = "[\\-?]$";
         
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -136,7 +136,6 @@ public class Prova {
                 Matcher t = RegexDouble.get(j).matcher(lines[i]);
                 Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);
                 if ( t.find() && y.find()) {
-                    count+=1;
                     check[i+1] = 1;
                 }
             }
@@ -147,12 +146,35 @@ public class Prova {
                 check[i+1] = 1;
             }
 
-            /*Matcher t = RegexSingle.get(1).matcher(lines[i]);
+            Matcher t = RegexSingle.get(1).matcher(lines[i]);
             if (t.find()) {
                 check[i+1] = 2;
-            }*/
+            }
         }    
-        //System.out.println(count); //anche senza \\t stampa sempre quel valore
+
+        //Prima di tirar su le righe, controllo se altre possono essere tirate su!
+        for (int i = 0; i<size; i++) {
+            if (check[i] == 0) { //if this line should not be pulled up
+                if(i>=1 && i<=size-2) {
+                    int val = 0;
+                    for (int j = i+1; j<=i+1; j++) {
+                        if ((lines[i].length() >= lines[j].length()-5) && (lines[i].length() <= lines[j].length()-5)) {
+                            val+=1;
+                        }
+                    }//end for
+
+                    for (int j = i-1; j>=i-1; j--) {
+                        if ((lines[i].length() >= lines[j].length()-5) && (lines[i].length() <= lines[j].length()-5)) {
+                            val+=1;
+                        }
+                    }//end for
+
+                    if (val>=1) {
+                        check[i] = 1;
+                    }
+                }
+            }
+        }
 
         String ret = lines[0];
 
@@ -167,6 +189,23 @@ public class Prova {
                 ret = ret + "\n" + lines[i];
             }
         }
+        //print in a file
+        try {
+            BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
+            writer.write(ret);
+        }
+         //catch eventually error generate
+         catch(FileNotFoundException ex) {
+            System.out.println(
+                "Unable to open file '" + "Prova_out.txt" + "'");
+        }
+        catch(IOException ex) {
+            System.out.println(
+                "Error reading file '" + "Prova_out2.txt" + "'");
+        }
+
+        
+
         return ret;
     }
 }
