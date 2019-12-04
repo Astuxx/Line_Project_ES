@@ -13,7 +13,7 @@ public class Prova {
     public static void main(String Args[]) {
 
         // The name of file or path
-        String fileName = "ANEP-MNEP-86 EDA V1.txt";
+        String fileName = "AAMedP-1.1 EdA v1 E.txt";
         //String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
@@ -101,8 +101,9 @@ public class Prova {
         String R4 = "^[a-z]{2,100}";
         String R5 = "[a-z]$";
         String R6 = "^\\b";
-        String R7 = "[\\,?\\)?\\-?\\;?]$"; //single
-
+        String R7 = "[\\,?\\)?\\;?]$"; //single
+        String R8 = "\\-?$";
+        
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
         RegexDouble.add(Pattern.compile(R2));
@@ -113,6 +114,7 @@ public class Prova {
 
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
+        RegexSingle.add(Pattern.compile(R8));
   
         int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
@@ -144,6 +146,11 @@ public class Prova {
             if (z.find()) {
                 check[i+1] = 1;
             }
+
+            /*Matcher t = RegexSingle.get(1).matcher(lines[i]);
+            if (t.find()) {
+                check[i+1] = 2;
+            }*/
         }    
         //System.out.println(count); //anche senza \\t stampa sempre quel valore
 
@@ -152,6 +159,9 @@ public class Prova {
         for (int i = 1; i<size; i++) {
             if(check[i]==1) {
                 ret = ret + " " +  lines[i];
+            }
+            else if(check[i]==2) {
+                ret = ret + lines[i];
             }
             else {
                 ret = ret + "\n" + lines[i];
