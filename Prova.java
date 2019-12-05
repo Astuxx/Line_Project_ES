@@ -153,22 +153,24 @@ public class Prova {
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
         for (int i = 0; i<size; i++) {
             if (check[i] == 0) { //if this line should not be pulled up
-                if(i>=1 && i<=size-2) {
-                    int val = 0;
-                    for (int j = i+1; j<=i+1; j++) {
-                        if ((lines[i].length() >= lines[j].length()-5) && (lines[i].length() <= lines[j].length()-5)) {
-                            val+=1;
-                        }
-                    }//end for
+                if(i>=1 && i<=size-5) {
+                    if (lines[i].length()>=90) {
+                        int val = 0;
+                        for (int j = i+1; j<=i+5; j++) {
+                            if ((lines[i].length() >= lines[j].length()-1) && (lines[i].length() <= lines[j].length()+1)) {
+                                val+=1;
+                            }
+                        }//end for
 
-                    for (int j = i-1; j>=i-1; j--) {
-                        if ((lines[i].length() >= lines[j].length()-5) && (lines[i].length() <= lines[j].length()-5)) {
-                            val+=1;
-                        }
-                    }//end for
+                        for (int j = i-1; j>=i-5; j--) {
+                            if ((lines[i].length() >= lines[j].length()-1) && (lines[i].length() <= lines[j].length()+1)) {
+                                val+=1;
+                            }
+                        }//end for
 
-                    if (val>=1) {
-                        check[i] = 1;
+                        if (val>=2) {
+                            check[i] = 1;
+                        }   
                     }
                 }
             }
@@ -188,7 +190,7 @@ public class Prova {
             }
         }
         //print in a file
-        try {
+        /*try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
             writer.write(ret);
         }
@@ -196,11 +198,8 @@ public class Prova {
          catch(FileNotFoundException ex) {
             System.out.println(
                 "Unable to open file '" + "Prova_out.txt" + "'");
-        }
-        catch(IOException ex) {
-            System.out.println(
-                "Error reading file '" + "Prova_out2.txt" + "'");
-        }
+        }*/
+
         return ret;
     }
 }
