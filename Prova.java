@@ -13,10 +13,12 @@ public class Prova {
     public static void main(String Args[]) {
 
         // The name of file or path
-        String fileName = Args[0];//"AAMedP-1.1 EdA v1 E.txt";
+        String fileName = Args[0];
+         //"AAMedP-1.1 EdA v1 E.txt";
         //String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
+        int j = 0;
 
         try {
             // read file as String in Java SE 6 and lower version
@@ -24,11 +26,12 @@ public class Prova {
             StringBuilder sb = new StringBuilder();
 
             line = br.readLine();
-            //System.out.println(line);
+            
+            
             while (line == null) {
                 line = br.readLine();
             }
-
+            
             while (line != null) {
                 line = line.replaceFirst("^  *", "");
                 line = line.trim(); //da aggiugnere
@@ -36,6 +39,7 @@ public class Prova {
                     sb.append(line).append("\n"); //append the line
                 }
                 line = br.readLine(); //read new line prof file
+                
             }
             //System.out.println(sb);
             CompleteString = new String(sb);
@@ -87,9 +91,6 @@ public class Prova {
         x = x.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
         x = x.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-line)
         x = x.replaceAll("^[ ]","");//delete last empty line
-
-        //System.out.println("Sono qua");
-        //System.out.println(x);
         return x;
     }
 
