@@ -1,0 +1,526 @@
+
+$START_PAGE_1
+                                                           NATO STANDARD 
+                                                                        AMedP-1.2 
+                          MINIMUM ESSENTIAL MEDICAL AND 
+                   SURVIVAL EQUIPMENT FOR LIFE RAFTS 
+                   INCLUDING GUIDELlNES FOR SURVIVAL 
+                                                                              AT SEA 
+                                                                       Edition A Version 2 
+                                                                        SEPTEMBER 2016 
+                                              NORTH ATLANTIC TREATY ORGANIZATION 
+                                                          ALLIED MEDICAL PUBLICATION 
+                                                                              Published by the 
+                                                          NATO STANDARDIZATION OFFICE (NSO) 
+                                                                               © NATO/OTAN 
+
+$END_PAGE_1
+
+$START_PAGE_2
+                                                                     INTENTIONALLY BLANK 
+
+$END_PAGE_2
+
+$START_PAGE_3
+                                              NORTH ATLANTIC TREATY ORGANIZATION (NATO) 
+                                                       NATO STANDARDIZATION OFFICE (NSO) 
+                                                            NATO LETTER OF PROMULGATION 
+                                                                                                                                  6 September 2016 
+                      1.         The enclosed Allied Medical Publication AMedP-1.2, Edition                                               A,    Version      2, 
+                      MINIMUM ESSENTIAL MEDICAL AND SURVIVAL EQUIPMENT FOR LIFE RAFTS 
+                      INCLUDING GUIDELINES FOR SURVIVAL AT SEA, which has been approved by the 
+                      nations      in   the Military Committee Medical Standardization Board,                                           is  promulgated 
+                      herewith. The agreement                        of     nations to use this publication                            is   recorded          in 
+                      STANAG 1185. 
+                      2.         AMedP-1.2, Edition                A,   Version       2,   is   effective upon receipt. It supersedes 
+                     AMedP-1.2, Edition               A,  Version       1,  which shall       be   destroyed        in  accordance with the local 
+                      procedure for the destruction of documents. 
+                      3.         No   part   of  this publication may             be   reproduced, stored             in  a retrieval system, used 
+                     commercially, adapted, or transmitted                              in   any form or by any means, electronic, 
+                     mechanical, photo-copying, recording or otherwise, without the prior permission of the 
+                     publisher. With the exception of commercial sales, this does not apply to member or 
+                     partner nations, or NATO commands                             and    bodies. 
+                     4.         This publication shall              be   handled       in  accordance with C-M(2002)60. 
+                                                                                               Edvardas MAZEIKIS 
+                                                                                               Major General, L TUAF 
+                                                                                               Director, NATO Standardization Office 
+
+$END_PAGE_3
+
+$START_PAGE_4
+                                                                     INTENTIONALLY BLANK 
+
+$END_PAGE_4
+
+$START_PAGE_5
+                                                                                                                                              AMedP-1.2 
+                                        RESERVED FOR NATIONAL LETTER OF PROMULGATION 
+                                                                                          I                                  Edition A Version 2 
+
+$END_PAGE_5
+
+$START_PAGE_6
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK 
+                                                                                          II                                 Edition A Version 2 
+
+$END_PAGE_6
+
+$START_PAGE_7
+                                                                                                                                              AMedP-1.2 
+                                                        RECORD OF RESERVATIONS 
+                          CHAPTER                                  RECORD OF RESERVATION BY NATIONS 
+                       General                   USA 
+                       1 
+                       Annex A                   EST, NLD, USA 
+                       Annex B                   FRA, USA 
+                       Annex C                   NLD 
+                       Annex D                   NLD 
+                       Annex E                   NLD 
+                       Annex F                   NLD 
+                       Note:      The reservations listed on this page include only those that were recorded at time of 
+                       promulgation and may not be complete.                            Refer to the NATO Standardization Document 
+                       Database for the complete list of existing reservations.
+                                                                                         III                                 Edition A Version 2 
+
+$END_PAGE_7
+
+$START_PAGE_8
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         IV                                  Edition A Version 2 
+
+$END_PAGE_8
+
+$START_PAGE_9
+                                                                                                                                              AMedP-1.2 
+                                            RECORD OF SPECIFIC RESERVATIONS 
+                       [nation]                  [detail of reservation] 
+                       EST                       The seasickness kit antiemetics (ATC-A04A) recommended in the 
+                                                 STANAG ANNEX A item 36 belongs to prescription drug group in Estonia; 
+                                                 therefore, they can't be kept on ship life rafts without doctor's supervision. 
+                       FRA                       France will not apply all the requirements listed in Annex B to 
+                                                 AMedP-1.2(A). 
+                                                 Indeed, while the list of drugs and medical items available on the national 
+                                                 Navy’s life rafts is generally in line with Annex B recommendations 
+                                                 (Minimum list of essential medical equipment), as far as drugs are 
+                                                 concerned, some active principles and quantities could differ. 
+                       NLD                       The Netherlands will not implement Annexes A, C, D, E and F due to minor 
+                                                 differences in the drills. 
+                       USA                       These reservations have been forwarded to the NATO Medical Naval Panel 
+                                                 Chairman, Secretary and USA Head of Delegation. Recommendations for 
+                                                 correction of misspelled words have not been included as the Secretary 
+                                                 accepted the corrections and informs that he will make the corrections to 
+                                                 the text. The following reservations are those which need to be specified 
+                                                 with the USA recommendation for Ratification with Reservations. 
+                                                 a. Reference Annex A. 9, the USA recommends that users should include 
+                                                 extra batteries as part of the Recommended Essential Items list. 
+                                                 b. Reference Annex B., the USA recommends the following additions to the 
+                                                 Minimum List of Essential Medical Equipment for First-Aid Outfit: 
+                                                 11; Anti-Chap Lipstick/Balm; 4ea 
+                                                 12; Petroleum Gauze 
+                                                 13; Sunscreen SPF 40 or greater; 2 bottles, 6oz ea 
+                                                 14;Surgical sponge gauze 4x4; 6ea; individually wrapped 
+                                                 15; Bandage scissors 
+                                                 16; Exam gloves; 3 Pair 
+                                                 17; Eye, first aid kit (Ziploc polyethylene bag 3                    5/8 inch w x 5 3/4 inch long, 
+                                                 cotton eye dressing pad 2 inch diameter (4 ea), Surgical Porous adhesive 
+                                                 tape, non-woven, 1inch wide x 8 inch long (2 ea), Eye irrigation solution 
+                                                 (saline); 1ea 
+                                                                                          V                                  Edition A Version 2 
+
+$END_PAGE_9
+
+$START_PAGE_10
+                                                                                                                                              AMedP-1.2 
+                                                 18; Pov-iodine solution 
+                       Note:      The reservations listed on this page include only those that were recorded at time of 
+                       promulgation and may not be complete.                            Refer to the NATO Standardization Document 
+                       Database for the complete list of existing reservations.
+                                                                                         VI                                  Edition A Version 2 
+
+$END_PAGE_10
+
+$START_PAGE_11
+                                                                                                                                              AMedP-1.2 
+                                                                    TABLE OF CONTENTS 
+                      CHAPTER 1                 INTRODUCTION AND POLICY RECOMMENDATIONS                                                    ........1-1 
+                      ANNEX A                   RECOMMENDED ESSENTIAL ITEMS FOR SURVIVAL 
+                                                AND RESCUE              .........................................................................  A-1 
+                      ANNEX B                   MINIMUM LIST OF ESSENTIAL MEDICAL EQUIPMENT 
+                                                FOR FIRST-AID OUTFIT                     ........................................................  B-1 
+                      ANNEX C                   INSTRUCTIONS FOR PREPARING TO ABANDON 
+                                                THE SHIP         ................................................................................  C-1 
+                      ANNEX D         ......... INSTRUCTIONS FOR IMMEDIATE ACTION IN 
+                                                A LIFERAFT           ............................................................................  D-1 
+                      ANNEX E                   INSTRUCTIONS ON HOW TO SURVIVE IN A LIFERAFT                                                  .....E-1 
+                      ANNEX F         ......... RELATED DOCUMENTS AND STANDARDS                                           ........................ F-1 
+                                                                                         VII                                 Edition A Version 2 
+
+$END_PAGE_11
+
+$START_PAGE_12
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK
+                                                                                        VIII                                 Edition A Version 2 
+
+$END_PAGE_12
+
+$START_PAGE_13
+                                                                                                                                              AMedP-1.2 
+                                                                                 PREFACE 
+                      1. This NATO Allied Medical Publication on MINIMUM ESSENTIAL MEDICAL AND 
+                      SURVIVAL EQUIPMENT FOR LIFE RAFTS INCLUDING GUIDELlNES FOR 
+                      SURVIVAL AT SEA has been prepared under the reference of STANAG 1185. Its 
+                      purpose is to provide the guidelines for survival at sea and list of essential equipment 
+                      on life rafts. 
+                      2. This Allied Medical Publication is based on the previous STANAG 1185, Edition 1, 
+                      which was appropriately ratified and promulgated on 20 January 1977, it is also based 
+                      on recommendations of International Maritime Organization and recommendations of 
+                      the International Organization for Standardization (ISO 18813:2006 Ships and marine 
+                      technology         –   Survival equipment for survival craft and rescue boats). It has been 
+                      converted to AMedP format in accordance with guidance found in AAP-3(J). 
+                      3. All suggestions or questions regarding this publication should be directed through 
+                      national delegations to: 
+                                                                         Lt Cdr Piotr Fedorczyk 
+                                                             Department of Military Health Service 
+                                                      Military Preventive Medicine Centre in Gdynia 
+                                                              81-103 Gdynia, ul. Grudzinskiego 4 
+                                                                                   POLAND 
+                                                                                         IX                                  Edition A Version 2 
+
+$END_PAGE_13
+
+$START_PAGE_14
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK
+                                                                                          X                                  Edition A Version 2 
+
+$END_PAGE_14
+
+$START_PAGE_15
+                                                                                                                                              AMedP-1.2 
+                                 CHAPTER 1                    INTRODUCTION AND POLICY RECOMMENDATIONS 
+                      1.1         MINIMUM ESSENTIAL MEDICAL AND SURVIVAL EQUIPMENT FOR SHIP 
+                      LIFE RAFTS INCLUDING GUIDELINES FOR SURVIVAL AT SEA 
+                      1.         The aim of this document is to standardize on a minimum list of essential items 
+                      as components of the first-aid medical equipment for ship life rafts of the navies of 
+                      NATO nations and to recommend a list of additional items for survival and rescue. This 
+                      document also contains recommended guidelines to be followed for survival. 
+                      2.         Participating nations are strongly encouraged to utilize the guidelines and 
+                      recommendations included herein in providing survival equipment for life rafts. The 
+                      guidelines should be available in ships and ship life rafts. 
+                      1.2        DEFINITIONS AND ABBREVIATED TERMS 
+                      1.         Life raft - for purposes of this publication by this name we generally mean all 
+                      vessels designed for saving shipwreck survivors: 
+                                life boat (LB) 
+                                life raft    (LR) 
+                                combined life and rescue boat (LB/RB) 
+                                rescue boat (RB), including fast rescue boat 
+                      2.          IMO - International Maritime Organization 
+                      3.         LSA Code - IMO international Life-Saving Appliance Code [IMO Res. 
+                      MSC. 48(66)] 
+                      4.         SOLAS - International Convention for the Safety of Life at Sea,1974, as 
+                      amended by IMO Res. MSC.47(66). 
+                      5.         ATC - Anatomical Therapeutic Chemical Classification System 
+                      1.3        GENERAL PRINCIPLES 
+                      1.          Many analyses of naval disasters have revealed that despite many 
+                      technological developments in survival aids there are very limited chances of survival 
+                      in extreme conditions, in the absence of adequate preparedness. Thus proper 
+                      knowledge and careful pre-planning are mandatory for safety of everybody onboard. 
+                      All people onboard ship should be instructed on how to behave in case of emergency 
+                      abandoning the ship. 
+                                                                                        1-1                                  Edition A Version 2 
+
+$END_PAGE_15
+
+$START_PAGE_16
+                                                                                                                                              AMedP-1.2 
+                      2.         The biggest stress should be laid on protection from the hazards of the 
+                      environment. As experience has shown, cold is the most life threatening hazard to the 
+                      shipwreck survivor. 
+                      3.         Water supply has a higher priority than nutrition, as there are studies showing 
+                      that man can survive without food for a few weeks and only a very few days without 
+                      water. 
+                                                                                        1-2                                  Edition A Version 2 
+
+$END_PAGE_16
+
+$START_PAGE_17
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-1.2 
+                                      ANNEX A RECOMMENDED ESSENTIAL ITEMS FOR SURVIVAL 
+                                                                                 AND RESCUE 
+                                   Item                                                                      Type of a life raft 
+                       1           Bailer                                                                    LR, LB, RB 
+                       2           Bilge pump (manual)                                                       LB, LB/RB 
+                       3           Boat hook                                                                 LB, RB 
+                       4           Bucket                                                                    LB, RB 
+                       5           Compass                                                                   LB, RB 
+                       6           Container, liferaft equipment                                             LR 
+                       7           Dipper                                                                    LB 
+                       8           Drinking vessel (cup)                                                     LR, LB 
+                       9           Electric torch                                                            LR, LB, RB 
+                       10          Fire-extinguishing equipment, portable (fire                              LB, RB 
+                                   extinguishers) 
+                       11          First aid outfit                                                          LR, LB, RB 
+                       12          Fishing kit (set of fishing tackle)                                       LR, LB 
+                                   [including minimum: container, fishing 
+                                   instructions, hooks, lures, weights, fishing 
+                                   line, line holder(winder)] 
+                       13          Flare, hand red                                                           LR, LB 
+                       14          Flare rocket parachute                                                    LR, LB 
+                       15          Handholds/lifelines                                                       LB, RB 
+                       16          Hatchet                                                                   LB rigid, RB(optional) 
+                       17          Instructions for immediate action                                         LR 
+                       18          Jack-knife                                                                LR(optional), LB, rigid; 
+                                                                                                             RB(optional) 
+                       19          Knife, buoyant (non-folding safety type)                                  LR, RB 
+                       20          Ladder                                                                    Rigid LR, LB 
+                                                                                        A-1                                  Edition A Version 2 
+
+$END_PAGE_17
+
+$START_PAGE_18
+                                                                                                                                          ANNEX A TO 
+                                                                                                                                              AMedP-1.2 
+                                    Item                                                                              Type of a life raft 
+                       21           Lighting system                                                                   LR, LB, RB 
+                       22           Mirror, signaling, daylight                                                       LR, LB 
+                       23           Oars or paddles                                                                   LB, RB 
+                       24           Oarlocks or equivalent devices for all lifeboats                                  LB, RB 
+                                    and rescue boats carrying boats 
+                       25           Paddle                                                                            LB, RB 
+                       26           Painter                                                                           LR 
+                       27           Pump                                                                              LR, RB 
+                       28           Radar reflector                                                                   LR, LB, RB 
+                       29           Rainwater collection equipment for lifeboats                                      LB 
+                       30           Rations, food          (not less than 10,000 kJ {2,400 kcal} for                  LR,LB 
+                                    each person, recommended composition: Salt (NaCl): 
+                                    Maximum 0.2%, Carbohydrates: 60-70% weight = 50-60% 
+                                    energy, Fat: 18-23% weight = 33-43% energy, Protein: 6-
+                                    10% weight = 5-8% energy)
+                       31           Repair kit                                                                        LR, RB 
+                       32           Rescue quoit                                                                      LR, LB, RB 
+                       33           Scissors                                                                          LR 
+                       34           Sea anchor                                                                        LR, LB, RB 
+                       35           Searchlight                                                                       LB, RB 
+                       36           Seasickness kit                                                                   LR, LB 
+                                    (anti-seasickness medicine and seasickness 
+                                    bag) Sufficient for 48h for each person (ATC-
+                                    A04A) 
+                       37           Smoke signal, buoyant                                                             LR, LB, RB 
+                       38           Sponge                                                                            LR, LB 
+                       39           Survival instructions or manual                                                   LR, LB 
+                       40           Table of lifesaving signals                                                       LR, LB 
+                       41           Thermal protective aid                                                            LR, LB, RB 
+                       42           Tin (can) opener                                                                  LR, LB 
+                       43           Tool kit                                                                          LB 
+                       44           Tow line                                                                          RB 
+                       45           Water (     1.5 liter  of fresh water for each person the life raft               LR, LB 
+                                    is permitted to accommodate, of which either 0.5                   l per 
+                                    person may be replaced by a de-salting apparatus 
+                                    capable of producing an equal amount of fresh water in 2 
+                                    days or 1    l per person may be replaced by a manually 
+                                    powered reverse osmosis desalinator, capable of 
+                                    producing an equal amount of fresh water in 2 days                   ) 
+                       46           Whistle (or equivalent sound signal)                                              LR, LB, RB 
+                                                                                        A-2                                  Edition A Version 2 
+
+$END_PAGE_18
+
+$START_PAGE_19
+                                                                                                                                          ANNEX B TO 
+                                                                                                                                              AMedP-1.2 
+                         ANNEX B               MINIMUM LIST OF ESSENTIAL MEDICAL EQUIPMENT FOR 
+                                                                       FIRST-AID OUTFIT
+                                Item                                                Remarks                                             ATC 
+                       1        Waterproof container                                possible reclosure 
+                       2        First-aid instructions                              in national language and in 
+                                                                                    one of the official languages 
+                                                                                    of IMO 
+                       3        Analgesic medication                                48 doses minimum                                    N02B, 
+                                                                                                                                        M01A 
+                       4        Antiseptic preparations                             10 applications minimum                             D08A 
+                       5        Burn preparations                                   12 applications minimum                             V20 
+                       6        Adhesive plasters                                   20 minimum in assorted                              V20 
+                                                                                    sizes 
+                       7        Sterile compression bandage                         10 minimum in assorted                              V20 
+                                                                                    sizes 
+                       8        Elastic bandages                                    4m minimum                                          V20 
+                       9        Sterile gauze compresses                            2 minimum                                           V20 
+                       10       Triangular bandages                                 2 minimum                                           V20 
+                                                                                         B-1                                 Edition A Version 2 
+
+$END_PAGE_19
+
+$START_PAGE_20
+                                                                                                                                          ANNEX B TO 
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         B-2                                 Edition A Version 2 
+
+$END_PAGE_20
+
+$START_PAGE_21
+                                                                                                                                          ANNEX C TO 
+                                                                                                                                              AMedP-1.2 
+                            ANNEX C               INSTRUCTIONS FOR PREPARING TO ABANDON THE SHIP 
+                           1. Don as much clothes as possible (including gloves and head protection) 
+                                 preferably with waterproof outer layer. 
+                           2. Don life-preserver and ensure that it is correctly adjusted and inflated 
+                                 according to instructions. 
+                           3. Launch life-rafts and pull static line. 
+                           4. If possible board life-raft dry. 
+                           5. If obliged to jump, do so ahead of the life-raft in order to drift back on it. 
+                                 When jumping keep elbows to side, pinch nose with hand and keep the other 
+                                 firmly over lower portion of life-preserver so that hand holds opposite elbow. 
+                           6. Any movement will increase body heat loss, so avoid swimming except to life-
+                                 raft or other refuge. 
+                           7. In the water huddle in as large group as possible, forming a ring facing 
+                                 inwards - keeping look out. 
+                           8. If time and circumstances permits, load raft with location aids and supplies, 
+                                 especially blankets. 
+                                                                                         C-1                                 Edition A Version 2 
+
+$END_PAGE_21
+
+$START_PAGE_22
+                                                                                                                                          ANNEX C TO 
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         C-2                                 Edition A Version 2 
+
+$END_PAGE_22
+
+$START_PAGE_23
+                                                                                                                                          ANNEX D TO 
+                                                                                                                                              AMedP-1.2 
+                                ANNEX D           INSTRUCTIONS FOR IMMEDIATE ACTION IN A LIFERAFT
+                      Do the following Actions as soon as possible: 
+                           1. Assist other survivors into raft. 
+                           2. Cut painter and get clear of ship. 
+                           3. Look for and pick up other survivors. 
+                           4. Secure to other rafts in vicinity. Rafts may be manoeuvred by drogue. 
+                           5. Ensure sea anchor streamed when clear of ship 
+                           6. Close raft apertures if amb                   ient temperature            is low or sea state h            igh
+                           7. Read survival instructions. 
+                                                                                         D-1                                 Edition A Version 2 
+
+$END_PAGE_23
+
+$START_PAGE_24
+                                                                                                                                          ANNEX D TO 
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK 
+                                                                                         D-2                                 Edition A Version 2 
+
+$END_PAGE_24
+
+$START_PAGE_25
+                                                                                                                                          ANNEX E TO 
+                                                                                                                                              AMedP-1.2 
+                                   ANNEX E           INSTRUCTIONS ON HOW TO SURVIVE IN A LIFERAFT
+                           1. Identify person in charge of life raft. 
+                           2. Post a lookout. Lookouts should safeguard against frostbite or sunburn by 
+                                 covering all exposed skin. 
+                           3. Open equipment pack. Ensure all survival gear is securely stowed to prevent 
+                                 loss during possible capsize. 
+                           4. Issue anti-seasickness medicine and seasickness bags. 
+                           5. Dry life raft floor and inflate, if appropriate. 
+                           6. Protect against heat, cold and wet conditions. 
+                                            In hot climates deflate floor during day and inflate at night. Keep clothing 
+                                             damp during the day. Wetting the outside of canopy reduces inside 
+                                             temperature. 
+                                            To prevent "immersion foot" keep feet as dry as possible, elevate and 
+                                             move toes and feet at regular intervals.Ring out wet clothing and if 
+                                             possible replace with woolen clothing to skin. Take off vapour barrier 
+                                             garments and use to increase floor and overall covering of survivors. 
+                                             Take off shoes and keep feet warm by tucking them into each others 
+                                             clothes 
+                           7. Administer first aid if appropriate. 
+                                           Maintain a clear airway in the unconscious. 
+                                           Treat all wounds. Clean all wounds, cover and keep them as dry as 
+                                            possible. 
+                                           Give painkillers when necessary. 
+                           8. Manoeuvre towards other life rafts, secure life rafts together and distribute 
+                                 survivors and equipment between survival craft. 
+                           9. Arrange watches and duties. 
+                           10. Check life raft for correct operation and any damage and repair as appropriate 
+                                 (ventilate if CO        2 leaking into life raft). 
+                                                                                         E-1                                 Edition A Version 2 
+
+$END_PAGE_25
+
+$START_PAGE_26
+                                                                                                                                          ANNEX E TO 
+                                                                                                                                              AMedP-1.2 
+                           11. Check functioning of canopy light and if possible conserve power during 
+                                   daylight. 
+                           12. Adjust canopy openings to give protection from weather or to ventilate the life 
+                                   raft as appropriate. 
+                           13. Prepare and use detection equipment including radio equipment. 
+                                             Activate electronic devices, radar reflectors and light at night 
+                                             Conserve flares and rockets until there is a reasonable chance of them 
+                                              being seen. 
+                                             Nominate one individual to use them. 
+                                             On sighting ship or aircraft do not release all flares at once. 
+                           14. Collect all flotsam; The most unlikely objects are useful in survival 
+                                 situations.Clothes etc. should be removed from dead bodies for use. 
+                           15.  Decide on food and water rations. 
+                                        Only injured and sick persons have water within the first 24 hours. 
+                                        Remove salt crystals on rain catchment area before collecting rain water. 
+                                        Conserve body water by reducing unnecessary body movement. Prevent 
+                                         sweating by wetting clothes in day time and sheltering from sun. 
+                                        Ration water stringently. Half a litre per person per day, given in numerous 
+                                         divided doses, with main portion in evenings. Rinse mouth before 
+                                         swallowing. 
+                                        Never drink sea water or urine. 
+                                        Do not eat anything other than sweets and survival rations, unless plenty 
+                                         of fresh water is available. 
+                           16. Take measures to maintain morale. 
+                           17. Make sanitary arrangements to keep life raft habitable. 
+                           18. Maintain life raft including topping up of buoyancy tubes and canopy supports. 
+                           19. Prepare action for 
+                                             Arrival of rescue units 
+                                             Being taken in tow 
+                                             Rescue by helicopter; and 
+                                             landing and beaching 
+                                                                                         E-2                                 Edition A Version 2 
+
+$END_PAGE_26
+
+$START_PAGE_27
+                                                                                                                                          ANNEX E TO 
+                                                                                                                                              AMedP-1.2 
+                      The order in which the above instructions are followed will depends on the particular 
+                      circumstances of the situation at the time. 
+                                                                                         E-3                                 Edition A Version 2 
+
+$END_PAGE_27
+
+$START_PAGE_28
+                                                                                                                                          ANNEX E TO 
+                                                                                                                                              AMedP-1.2 
+                                                                     INTENTIONALLY BLANK
+                                                                                         E-4                                 Edition A Version 2 
+
+$END_PAGE_28
+
+$START_PAGE_29
+                                                                                                                                          ANNEX F TO 
+                                                                                                                                              AMedP-1.2 
+                                        ANNEX F             RELATED DOCUMENTS AND STANDARDS 
+                       The following documents should be considered whenever considering implementation 
+                       of AMedP-1.2 in the multinational NATO environment: 
+                                      1. International            Maritime Organisation Resolution A.657(16) 
+                                      2. ISO 18813:2006 Ships and marine technology                                     –   Survival equipment for 
+                                            survival craft and rescue boats. 
+                                                                                         F-1                                 Edition A Version 2 
+
+$END_PAGE_29
+
+$START_PAGE_30
+                                                               AMedP-1.2(A)(2) 
+
+$END_PAGE_30
