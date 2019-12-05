@@ -1,8 +1,5 @@
 import java.io.*;
 import java.util.regex.Pattern;
-
-//import jdk.nashorn.internal.runtime.regexp.joni.Regex;
-
 import java.util.*;
 import java.io.File;
 import java.io.IOException;
@@ -177,7 +174,7 @@ public class Prova {
             }
         }
 
-        String ret = lines[0];
+        String ret = lines[0]; //String to return
 
         for (int i = 1; i<size; i++) {
             if(check[i]==1) {
@@ -204,9 +201,6 @@ public class Prova {
             System.out.println(
                 "Error reading file '" + "Prova_out2.txt" + "'");
         }
-
-        
-
         return ret;
     }
 }
