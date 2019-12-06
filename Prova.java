@@ -128,26 +128,28 @@ public class Prova {
             check[i] = 0;
         }
 
-        for (int i = 0; i<size-1; i++) {
-            
-            for (int j = 0; j<RegexDouble.size(); j+=2) {
-                Matcher t = RegexDouble.get(j).matcher(lines[i]);
-                Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);
-                if ( t.find() && y.find()) {
-                    check[i+1] = 1;
-                }
-            }
-
-            //Patter single
-            Matcher z = RegexSingle.get(0).matcher(lines[i]);
-            if (z.find()) {
+        //find regex in text
+        for (int j = 0; j<RegexDouble.size(); j+=2) {
+            for (int i = 0; i<size-1; i++) {
+                if (check[i+1]==0) {
+                    Matcher t = RegexDouble.get(j).matcher(lines[i]);
+                    Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);
+                        if ( t.find() && y.find()) {
+                            check[i+1] = 1;
+                        }
+                //Patter single
+                Matcher z = RegexSingle.get(0).matcher(lines[i]);
+                if (z.find()) {
                 check[i+1] = 1;
-            }
+                    }
 
-            Matcher t = RegexSingle.get(1).matcher(lines[i]);
-            if (t.find()) {
+                Matcher w = RegexSingle.get(1).matcher(lines[i]);
+                if (w.find()) {
                 check[i+1] = 2;
-            }
+                    }
+                }// end if check line == 0
+
+            }//end for line 
         }    
 
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
@@ -190,7 +192,7 @@ public class Prova {
             }
         }
         //print in a file
-        /*try {
+        try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
             writer.write(ret);
         }
@@ -198,7 +200,11 @@ public class Prova {
          catch(FileNotFoundException ex) {
             System.out.println(
                 "Unable to open file '" + "Prova_out.txt" + "'");
-        }*/
+        }
+        catch(IOException ex) {
+            System.out.println(
+                "Error reading file '" + "Prova_out.txt" + "'");
+        }
 
         return ret;
     }
