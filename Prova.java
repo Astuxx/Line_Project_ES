@@ -23,8 +23,7 @@ public class Prova {
             StringBuilder sb = new StringBuilder();
 
             line = br.readLine();
-            
-            
+             
             while (line == null) {
                 line = br.readLine();
             }
@@ -53,15 +52,6 @@ public class Prova {
             System.out.println(
                 "Error reading file '" + fileName + "'");
         }
-
-        /*Pattern p = Pattern.compile(regexBlankLine, Pattern.MULTILINE);
-        System.out.println("FIRST REMOVE \n");
-        System.out.println(p.matcher(CompleteString).replaceAll("")); //ok works
-
-        p = Pattern.compile(regexMultiSpace);
-        System.out.println("SECOND REMOVE \n");
-        System.out.println(p.matcher(CompleteString).replaceAll("")); //still eat \n
-        */
 
         System.out.println("");
         System.out.println("STAMPA DOPO LE MODIFICHE");
@@ -98,9 +88,11 @@ public class Prova {
         String R3 = "\\b$";
         String R4 = "^[a-z]{2,100}";
         String R5 = "[a-z]$";
-        String R6 = "^\\b";
+        String R6 = "^\\b+";
         String R7 = "[\\,?\\)?\\;?]$"; //single
         String R8 = "[\\-?]$";
+        String R9 = "^[a-z]\\."; //points listed
+        String R10 = "^[0-9]+\\."; //points listed
         
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -112,8 +104,13 @@ public class Prova {
 
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
-        RegexSingle.add(Pattern.compile(R8));
+        RegexSingle.add(Pattern.compile(R9));
   
+        //regex for lines that should not be pulled up
+        ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
+        RegexSingleNegative.add(Pattern.compile(R9));
+        RegexSingleNegative.add(Pattern.compile(R10));
+
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
         int size = lines.length;
@@ -128,15 +125,24 @@ public class Prova {
             check[i] = 0;
         }
 
+        for (int i = 0; i<size; i++) { //so I don't look at the bulleted lists
+            Matcher r = RegexSingleNegative.get(0).matcher(lines[i]);
+            Matcher s = RegexSingleNegative.get(1).matcher(lines[i]);
+            if (r.find() || s.find()) {
+            check[i] = -1; //
+                }
+        }
+
         //find regex in text
-        for (int j = 0; j<RegexDouble.size(); j+=2) {
+        for (int j = 0; j<RegexDouble.size(); j+=2) { //Patter double
             for (int i = 0; i<size-1; i++) {
                 if (check[i+1]==0) {
-                    Matcher t = RegexDouble.get(j).matcher(lines[i]);
-                    Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);
+                    Matcher t = RegexDouble.get(j).matcher(lines[i]); //find regex(part 1) in line i
+                    Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);//find regex(part 2) in the next line
                         if ( t.find() && y.find()) {
                             check[i+1] = 1;
                         }
+
                 //Patter single
                 Matcher z = RegexSingle.get(0).matcher(lines[i]);
                 if (z.find()) {
@@ -145,8 +151,9 @@ public class Prova {
 
                 Matcher w = RegexSingle.get(1).matcher(lines[i]);
                 if (w.find()) {
-                check[i+1] = 2;
+                check[i+1] = 2; //delete a space and pulled up the line i+1
                     }
+                
                 }// end if check line == 0
 
             }//end for line 
