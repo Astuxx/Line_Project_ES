@@ -93,9 +93,10 @@ public class Prova {
         String R5 = "[a-z]$";
         String R6 = "^\\b+";
         String R7 = "[\\,?\\)?\\;?]$"; //single
-        //String R8 = "[\\-?]$";
+        String R8 = "[\\-?]$";
         String R9 = "^[a-z]\\."; //points listed
         String R10 = "^[0-9]+\\."; //points listed
+        String R11 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -107,7 +108,8 @@ public class Prova {
 
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
-        RegexSingle.add(Pattern.compile(R9));
+        RegexSingle.add(Pattern.compile(R8));
+        RegexSingle.add(Pattern.compile(R11));
   
         //regex for lines that should not be pulled up
         ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
@@ -147,15 +149,17 @@ public class Prova {
                         }
 
                 //Patter single
-                Matcher z = RegexSingle.get(0).matcher(lines[i]);
+                Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
                 if (z.find()) {
                 check[i+1] = 1;
                     }
 
-                Matcher w = RegexSingle.get(1).matcher(lines[i]);
+                Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
                 if (w.find()) {
                 check[i+1] = 2; //delete a space and pulled up the line i+1
                     }
+
+                lines[i] = lines[i].replaceAll(R11, "$1$2$4");
                 
                 }// end if check line == 0
 
@@ -165,32 +169,25 @@ public class Prova {
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
         
         for (int i = 0; i<size; i++) {
-            if (check[i] == 0 && check[i]!= -1) { //if this line should not be pulled up
+            if (check[i] == 0 ) { //if this line should not be pulled up
                 if(i>=5 && i<=size-5) {
                     if (lines[i].length()>=90) {
                         int val = 0;
-                        for (int j = i+1; j<=i+5; j++) {
+                        for (int j = i-4; j<=i+5; j++) {
                             //if ((lines[i].length() >= lines[j].length()-1) && (lines[i].length() <= lines[j].length()+1)) {
-                              if ((Math.abs(lines[i].length()-lines[j].length()))<=10){ //se la differenza di caratteri tra una riga e le successive è max 10
+                              if ((Math.abs(lines[i].length()-lines[j].length()))<=5){ //se la differenza di caratteri tra una riga e le successive è max 10
                                 val+=1;
                             }
                         }//end for
 
-                        for (int j = i-1; j>=i-5; j--) {
-                            //if ((lines[i].length() >= lines[j].length()-1) && (lines[i].length() <= lines[j].length()+1)) {
-                              if ((Math.abs(lines[i].length()-lines[j].length()))<=10){
-                                val+=1;
-                            }
-                        }//end for
-
-                        if (val>=2) {
-                            check[i] = 1;
+                        if (val>=7) {
+                            check[i] = 1; //pulled up line
                         }   
                     }
                 }
             }
         } 
-        for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
+        /*for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
             if(check[i]==0){
                 System.out.println("LINEA MARCATA CON 0         "+lines[i]+"\n");
             }
@@ -199,7 +196,7 @@ public class Prova {
             if(check[i]==-1){
                 System.out.println("LINEA MARCATA CON -1         "+lines[i]+"\n");
             }
-        }
+        }*/
 
         String ret = lines[0]; //String to return
 
