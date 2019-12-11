@@ -96,7 +96,8 @@ public class Prova {
         String R8 = "[\\-?]$";
         String R9 = "^[a-z]\\."; //points listed
         String R10 = "^[0-9]+\\."; //points listed
-        String R11 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
+        String R11 = "^[a-z]\\)";
+        String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -109,12 +110,12 @@ public class Prova {
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
         RegexSingle.add(Pattern.compile(R8));
-        RegexSingle.add(Pattern.compile(R11));
   
         //regex for lines that should not be pulled up
         ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
         RegexSingleNegative.add(Pattern.compile(R9));
         RegexSingleNegative.add(Pattern.compile(R10));
+        RegexSingleNegative.add(Pattern.compile(R11));
 
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
@@ -133,7 +134,8 @@ public class Prova {
         for (int i = 0; i<size; i++) { //so I don't look at the bulleted lists
             Matcher r = RegexSingleNegative.get(0).matcher(lines[i]);
             Matcher s = RegexSingleNegative.get(1).matcher(lines[i]);
-            if (r.find() || s.find()) {
+            Matcher t = RegexSingleNegative.get(2).matcher(lines[i]);
+            if (r.find() || s.find() || t.find()) {
             check[i] = -1; //
                 }
         }
@@ -159,7 +161,8 @@ public class Prova {
                 check[i+1] = 2; //delete a space and pulled up the line i+1
                     }
 
-                lines[i] = lines[i].replaceAll(R11, "$1$2$4");
+                //replace a particular case
+                lines[i] = lines[i].replaceAll(R12, "$1$2$4");
                 
                 }// end if check line == 0
 
