@@ -1,0 +1,575 @@
+RISK DETAILS
+UNIQUE MARKET
+REFERENCE B080116537H18
+TYPE EXCESS OF LOSS REINSURANCE CONTRACT.
+REINSURED
+PREAMBLE For and in consideration of the Premium to be paid by the Reinsured to the
+Reinsurers, the Reinsurers agree to indemnify the Reinsured, in accordance
+always with the terms and conditions of this Reinsurance Contract. The titles
+allocated to the Provisions of this Reinsurance Contract are intended solely
+for the convenience of reference and will not affect the meaning,
+interpretation, construction or effect of this Reinsurance Contract.
+PERIOD Period Clause (LSW 301A).
+Losses occurring during the period 15 February 2018 to 14 February 2019
+both days inclusive.
+CLASS OF
+BUSINESS To cover all business emanating from the Reinsured's participation in the
+Cathedral Syndicate 3010 Aviation Hull War Consorta.
+Reinsuring Clause (LSW307A).
+Layer One:
+Priority:
+USD/CAD 2,000,000 or GBP 1,250,000 or
+EUR 1,500,000 each and every loss.
+Indemnity: USD/CAD 3,000,000 or GBP 1,875,000 or EUR 2,250,000
+each and every loss.
+Layer Two:
+Priority: USD/CAD 5,000,000 or GBP 3,125,000 or EUR 3,750,000
+each and every loss.
+Indemnity: USD/CAD 10,000,000 or GBP 6,250,000 or EUR 7,500,000
+each and every loss.
+LR / Date created 18/01/18 Risk Details Page 1
+REINSTATEMENT
+PROVISIONS
+Reinstatement Clause (LSW 308A).
+Layer One:
+One full Reinstatement at 270.456% additional premium.
+Layer Two:
+One full Reinstatement at 270.456% additional premium.
+TERRITORIAL
+SCOPE
+Losses wheresoever occurring.
+CONDITIONS
+Each Layer shall be understood to be a separate Contract, and therefore,
+reference to ‘Contract’ contained in this document shall mean the Layer to
+which the clause/provision is being applied.
+Non-Renewal Clause (LSW 305).
+Ultimate Net Loss Clause (LSW 314A).
+Notification of Claims Clause (LSW 316).
+Currency Conversion Clause: Pounds Sterling. (LSW 317A).
+Amendments and Alterations Clause (LSW 319).
+Errors and Omissions Clause (LSW 321).
+Documentation Clause (LSW 322).
+(Willis Limited, 51 Lime Street, London EC3M 7DQ).
+Extra Contractual Obligations Clause (LSW 327).
+War Risks Hijacking Clause A (Hull War included) (As attached)
+Or War Risks Hijacking Clause B (Hull War included) (As attached) at the
+Reinsured discretion following each loss.
+Inspection of Documents Clause (LSW 818A).
+Euro Contract Continuity Clause (LSW 1820).
+Aviation Date Recognition (Reinsurance) Clause (LSW 1036).
+Agreed that the condition precedent contained in paragraph 5 of this Clause is
+waived by Reinsurers.
+Contract Re-Denomination Clause (LSW 1156).
+Downgrade Clause (LSW 1571).
+(Standard & Poor: A minus Bests: A minus).
+Insolvency Clause (IUA-G86).
+LR / Date created 18/01/18
+Risk Details Page 2
+UMR B
+Reinsured
+Type Excess of Loss Reinsurance Contract
+Loss Settlements Clause (As attached).
+Letter of Credit / Outstanding Claims Advance Clause (As attached).
+Nuclear and Radioactive Contamination Exclusion Clause (As
+attached). Notice Relating to Sanctions and Trade Restrictions (As
+attached).
+CHOICE OF LAW
+AND JURISDICTION
+This Reinsurance Contract shall be governed by and construed in accordance
+with the laws of England and Wales and, except as provided for in the
+Arbitration Clause contained herein, the English courts shall have exclusive
+jurisdiction.
+Arbitration Clause (LSW
+323). (Seat of Arbitration:
+London. Laws of: England
+and Wales. Appointor:
+Chairman of Lloyd's.)
+ARBITRATION
+PREMIUM
+Layer One:
+Premium Clause (LSW 311A).
+Rate: 7.518% of the Reinsured's Net Premium Income accounted for during
+the period 15 February 2018 to 14 February 2019 both days inclusive in
+respect of the business protected hereunder.
+Minimum Premium: USD 135,327
+Deposit Premium: USD 135,327
+Deposit Premium split: 95% in USD being USD 128,561
+4% in GBP being GBP 3,383
+and 1% in EUR being EUR
+1,128
+Rates of exchange: GBP 1 equal to USD/CAD 1.60 equal to EUR 1.20
+Layer Two:
+Premium Clause (LSW 311A).
+Rate: 6.371% of the Reinsured's Net Premium Income accounted for during
+the period 15 February 2018 to 14 February 2019 both days inclusive in
+respect of the business protected hereunder.
+Minimum Premium: USD 114,673
+Deposit Premium: USD 114,673
+Deposit Premium split: 95% in USD being USD 108,939
+4% in GBP being GBP 2,867
+and 1% in EUR being EUR 956
+LR / Date created 18/01/18
+Risk Details Page
+3
+UMR B
+Reinsured
+Type Excess of Loss Reinsurance Contract
+Rates of exchange: GBP 1 equal to USD/CAD 1.60 equal to EUR 1.20
+In respect of both layers separately Premium payable:
+10% at 15 February 2018 20% at 15 May 2018 30% at 15 August
+2018 40% at 15 November 2018
+In the event of paid losses exceeding paid premiums (including reinstatement
+premium) hereon, an amount of premium equal to the deficit is to be paid
+simultaneously, up to a maximum of the amount as provided for under the
+Premium and Reinstatement Provisions sections hereon.
+The Reinsured is entitled not to collect losses otherwise recoverable.
+LOSS ADDITIONAL
+PREMIUM: Applicable to both layers separately
+In the event of a paid loss(es) to this Contract a Loss Additional Premium shall
+become payable in accordance with the following calculation subject to a
+maximum Loss Additional Premium equivalent to the applicable premium
+defined in the PREMIUM section multiplied by 170.456%.
+Amount of Paid Loss(es)
+■ x “Premium A” = Loss Additional Premium
+The applicable Indemnity herein
+For the purposes of this clause “Premium A” shall be the sum of the
+applicable premium defined in the PREMIUM section multiplied by 170.456%
+The Reinsured is entitled not to collect losses otherwise recoverable.
+PAYMENT TERMS None.
+LOSS RESERVE AND
+TAXES As detailed under CONDITIONS.
+BY
+REINSURED AND
+ADMINISTERED BY
+REINSURER(S) None, or as may be subsequently required by applicable legislation.
+TAXES PAYABLE BY
+REINSURERS AND
+ADMINISTERED BY
+REINSURED OR
+THEIR AGENT None, or as may be subsequently required by applicable legislation.
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+RECORDING,
+TRANSMITTING AND
+STORING
+INFORMATION Where Willis Limited maintains risk and claim data / information / documents
+Willis Limited may hold data / information / documents electronically.
+REINSURER
+CONTRACT
+DOCUMENTATION This Contract document details the contract terms entered into by the
+Reinsurers and constitutes the contract document.
+Any further documentation changing this Contract which has been
+appropriately agreed, shall form the evidence of such change(s).
+LR / Date created 18/01/18 Risk Details Page 5
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+WAR RISKS HIJACKING CLAUSE A (HULL WAR INCLUDED)
+For the purposes of this Contract clause AVN.48B shall be understood to mean clause AVN.48B or
+any similar clause used in substitution thereof. The clause applicable hereto shall be that in use in the
+policy issued by the Reinsured under which the claim falls or, in the absence of such clause, that then
+in current use.
+Part 1. HIJACKING CLAUSE (ALL LOSSES)
+As regards losses arising from perils as stipulated in paragraph (g) of clause AVN.48B (whether or not
+such losses are actually paid because of the coverage afforded by paragraph (g)), the Priority and
+Indemnity hereon shall be applied to the total of all losses paid by the Reinsured which are covered
+hereunder and which arise out of or follow from each act of hijack separately, and the time of the loss
+shall be taken as the time the hijacker first makes his presence known.
+Part 2. DEFINITION OF COVERAGE FOR CERTAIN PERILS
+As regards losses arising from perils as stipulated in clause AVN.48B (whether or not such losses are
+actually paid because of the coverage afforded by clause AVN.48B) other than losses covered by the
+provisions of Part 1 above, for the purposes of this Contract the term "any one event" shall be
+understood to mean -
+"All such losses sustained by the Reinsured which occur during any one period of 24 consecutive
+hours and within an area of radius 10 miles which arise from one of the perils stipulated in clause
+AVN.48B".
+The Reinsured may select both the point from which the 10 mile radius applies and also the moment
+from which the period of 24 hours shall be deemed to commence. No area, however, may be selected
+which overlaps another area selected for the purposes of making a recovery hereunder in respect of
+losses occurring at the same time. No period of 24 hours may commence earlier than the date and
+time of the happening of the first recorded individual loss to the Reinsured (in respect of the claim
+under consideration) nor prior to the inception of this Contract. Furthermore in respect of any one
+location already included in a selected area, no period of 24 hours may commence prior to the expiry
+of any previously selected 24 hour period.
+Notwithstanding the foregoing it is a condition of this Contract that the perils stipulated in paragraph
+(b) of clause AVN.48B are excluded entirely from the protection of this Contract other than as provided
+by the LSW555D policy forms, including subsequent versions thereof of equivalent policy forms
+thereof
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+WAR RISKS HIJACKING CLAUSE B (HULL WAR INCLUDED)
+For the purposes of this Contract clause AVN.48B shall be understood to mean clause AVN.48B or
+any similar clause used in substitution thereof. The clause applicable hereto shall be that in use in the
+policy issued by the Reinsured under which the claim falls or, in the absence of such clause, that then
+in current use.
+Part 1. HIJACKING (LOSSES IN FLIGHT) CLAUSE
+As regards losses to or in Aircraft in flight (as hereinafter defined) arising from perils as stipulated in
+paragraph (g) of clause AVN.48B (whether or not such losses are actually paid because of the
+coverage afforded by paragraph (g)), the Priority and Indemnity hereon shall be applied to the total of
+all losses paid by the Reinsured which are covered hereunder which occur whilst such aircraft is in
+flight and which arise out of or follow from each act of hijack separately. For the purposes of this part
+the time of the loss shall be taken as the time the hijacker first makes his presence known.
+For the purposes of this clause a "flight" shall be deemed to begin when the aircraft moves forward
+when taking off and shall be deemed to end when the machine comes to rest after making contact with
+the ground and/or water.
+Part 2. DEFINITION OF COVERAGE FOR CERTAIN PERILS
+As regards losses arising from perils as stipulated in clause AVN.48B (whether or not such losses are
+actually paid because of the coverage afforded by clause AVN.48B) other than losses covered by the
+provisions of Part 1 above, for the purposes of this Contract the term "any one event" shall be
+understood to mean -
+"All such losses sustained by the Reinsured which occur during any one period of 24 consecutive
+hours and within an area of radius 10 miles which arise from one of the perils stipulated in clause
+AVN.48B".
+The Reinsured may select both the point from which the 10 mile radius applies and also the moment
+from which the period of 24 hours shall be deemed to commence. No area, however, may be selected
+which overlaps another area selected for the purposes of making a recovery hereunder in respect of
+losses occurring at the same time. No period of 24 hours may commence earlier than the date and
+time of the happening of the first recorded individual loss to the Reinsured (in respect of the claim
+under consideration) nor prior to the inception of this Contract. Furthermore in respect of any one
+location already included in a selected area, no period of 24 hours may commence prior to the expiry
+cf any previously selected 24 hour period.
+Notwithstanding the foregoing it is a condition of this Contract that the perils stipulated in paragraph (b)
+of clause AVN.48B are excluded entirely from the protection of this Contract other than as provided by
+the LSW555D policy forms, including subsequent versions thereof of equivalent policy forms thereof
+LR / Date created 18/01/18 Risk Details Page 7
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+LOSS SETTLEMENTS CLAUSE
+All loss settlements by the Reinsured including compromise settlements and the establishment of Funds
+for the settlement of losses shall be binding upon the Reinsurers, providing such settlements are within the
+terms and conditions of the original policies and/or contracts (or as provided for in the EXTRA
+CONTRACTUAL OBLIGATIONS CLAUSE and/or the ULTIMATE NET LOSS CLAUSE) and within the
+terms and conditions of this Contract.
+LR / Date created 18/01/18 Risk Details Page 8
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+LETTER OF CREDIT / OUTSTANDING CLAIMS ADVANCE CLAUSE
+The Reinsured shall have the option to invoke either of the following provisions:
+Letter of Credit
+It is the intention of the parties hereto that this provision shall set forth the terms and conditions under
+which any letter(s) of credit required hereunder shall be held.
+The Reinsured shall forward to the Reinsurers a statement of the Reinsurers' share of Losses.
+For the purposes of this letter of credit provision the term "Losses" shall mean the sum of all losses paid
+and allocated loss adjustment expenses paid by the Reinsured but not yet recovered from the Reinsurers,
+plus reserves for losses and allocated loss adjustment expenses outstanding as determined by the
+Reinsured, however losses incurred but not reported shall not be included.
+Within fourteen (14) days of receipt of such statement the Reinsurers shall provide the Reinsured with a
+"clean", unconditional and irrevocable letter of credit, in the amount specified in the statement submitted,
+with terms and bank acceptable to the Reinsured.
+The Reinsurers hereby agree that the letter of credit will provide for automatic extension of the letter of
+credit without amendment for one year from the date of expiration of said letter or any future expiration
+date unless sixty (60) days prior to any expiration the issuing bank shall notify the Reinsured by registered
+mail that the issuing bank elects not to consider the letter of credit renewed for any additional period.
+Notwithstanding any other provision of this Contract, the Reinsured may draw upon such credit at any
+time for the following purposes only:
+a) To pay the Reinsurers' share or to reimburse the Reinsured for the Reinsurers’ share of any
+such Losses as stipulated in the statement submitted by the Reinsured to the Reinsurers.
+b) In the event that the Reinsurer is insolvent, in liquidation (provisional, compulsory, voluntary
+or otherwise), receivership (administrative or otherwise), rehabilitation, conservation, the
+subject of a winding up petition or has a scheme of arrangement proposed in relation to it:
+If the Reinsured has received effective notice of non-renewal of the letter of credit, the
+Reinsurers’ liability remains unliquidated and undischarged thirty (30) days prior to the
+expiring date of the letter of credit and the Reinsurers have not provided the Reinsured with
+an alternative “clean”, unconditional and irrevocable letter of credit with terms and bank
+acceptable to the Reinsured then the Reinsured may withdraw the balance of such credit.
+The Reinsured shall deposit the amount so withdrawn in a separate account in the name of
+the Reinsured in any bank or trust company and apart from its general assets, in trust
+nevertheless for such uses and purposes specified above as may remain executory after
+such withdrawal and for any period after such expiry date.
+c) In the event that the Reinsurer is not insolvent, in liquidation (provisional, compulsory,
+voluntary or otherwise), receivership (administrative or otherwise), rehabilitation,
+conservation, the subject of a winding up petition and does not have a scheme of
+arrangement proposed in relation to it:
+If the Reinsured has received effective notice of non-renewal of the letter of credit, the
+Reinsurers’ liability remains unliquidated and undischarged thirty (30) days prior to the
+expiring date of the letter of credit and the Reinsurers have not provided the Reinsured with
+an alternative “clean”, unconditional and irrevocable letter of credit with terms and bank
+acceptable to the Reinsured then the Reinsured and Reinsurers shall negotiate to find a
+mutually agreeable alternative to providing a letter of credit. If the parties are unable to
+mutually agree an alternative then the Reinsured may withdraw the balance of such credit.
+The Reinsured shall deposit the amount so withdrawn in a separate account in the name of
+the Reinsured in any bank or trust company and apart from its general assets, in trust
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+nevertheless
+for such uses and purposes specified above as may remain executory after such withdrawal
+and for any period after such expiry date.
+In the event that the letter of credit is drawn upon in accordance with the foregoing paragraphs b) and c)
+then the Reinsured will account to the relevant Reinsurer on a quarterly basis for any interest actually
+earned on the monies in the account described (after deduction of any liability in respect of taxation or any
+amount on account of such a liability). However, in the event that the balance of credit held in the bank is
+less than the Reinsurers share of Losses then the interest due to the Reinsurer may be withheld until the
+balance is increased accordingly.
+At quarterly intervals the Reinsured shall prepare a specific statement, for the sole purpose of amending
+the letter of credit, of the Reinsurers' shares of any Losses. If the statement shows that the Reinsurers'
+shares of Losses exceeds that balance of credit as of the statement date, the Reinsurers shall, within
+thirty (30) days after receipt of notice of such excess, secure delivery to the Reinsured of an amendment
+of the letter of credit increasing the amount of credit by the amount of such difference. If the statement
+shows, however, that the Reinsurers' shares of Losses is less than the balance of credit as of the
+statement date, the Reinsured shall, within thirty (30) days after receipt of written request from the
+Reinsurers, release such excess credit by agreeing to secure an amendment to the letter of credit
+reducing the amount of credit available by the amount of such excess credit.
+The bank shall have no responsibility whatsoever in connection with the propriety of withdrawals made by
+the Reinsured or the disposition of funds withdrawn, except to assure that withdrawals are made only
+upon the order of properly authorised representatives of the Reinsured. The Reinsured shall incur no
+obligation to the bank in acting upon the credit, other than as appears in the express terms thereof.
+Outstanding Claims Advance
+The Reinsured shall forward to the Reinsurers a statement of the Reinsurers' share of Losses.
+For the purposes of this Outstanding Claims Advance the term "Losses" shall mean the sum of all losses
+paid and allocated loss adjustment expenses paid by the Reinsured but not yet recovered from the
+Reinsurers, plus reserves for losses and allocated loss adjustment expenses outstanding as determined
+by the Reinsured, however losses incurred but not reported shall not be included.
+Within fourteen (14) days of receipt of such statement the Reinsurers shall provide the Reinsured with a
+cash reserve (hereinafter called the Outstanding Claims Advance).
+The Reinsured will hold any sums paid in respect of an Outstanding Claims Advance in a separate
+account with a bank at the Reinsured's discretion and use such sums paid only for the loss for which the
+Outstanding Claims Advance was established. However, “Losses” shall exclude any amounts in respect
+of incurred but not reported losses.
+In the event that Reinsurers are required to provide such Outstanding Claims Advances, the Reinsured
+agrees to pay interest to the Reinsurers on the amount of such advance, at a rate calculated quarterly,
+based on any interest actually earned on the monies in the account described (after deduction of any
+liability in respect of taxation or any amount on account of such a liability). However, in the event that the
+balance of credit held is less than the Reinsurers share of Losses then the interest due to the Reinsurer
+may be withheld until the balance is increased accordingly. Such interest will be calculated
+LR / Date created 18/01/18 Risk Details Page 10 and
+paid at the end of each calendar quarter, on the opening balance of Outstanding Claims Advance when
+first set up, or the Outstanding Claims Advance amount at the start of such quarter, whichever the later.
+The amount of any Outstanding Claims Advance will be adjusted at the same quarterly intervals with any
+amount no longer required being returned to Reinsurers within 14 days of such calculation and with any
+additional amount being paid to the Reinsured within 14 days of such calculation.
+The rights and obligations of the Reinsured and the Reinsurers, as set forth in this Clause, shall not be
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+diminished in any manner whatsoever by the insolvency of any party hereto.
+Nothing contained within this Clause shall impose any greater liability on the part of Reinsurers than would
+have attached hereunder if this Clause were not present.
+LR / Date created 18/01/18 Risk Details Page 11
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+NUCLEAR AND RADIOACTIVE CONTAMINATION EXCLUSION CLAUSE
+Each policy protected hereunder is deemed to be subject to a:
+nuclear exclusion clause and the Aviation Radioactive Contamination Exclusion Clause (General)
+AVN38A or its equivalent.
+or
+Nuclear Risks Exclusion Clause AVN38B or its equivalent.
+However, to the extent that there is any conflict of coverage, the foregoing provisions will not apply to any
+policy protected hereunder that is written on the basis of coverage provided by the LSW555 policy form,
+including subsequent versions thereof or equivalent policy forms thereof.
+In the event that the policy is covered under the business protected by this Contract then a special
+acceptance shall be automatically made to this Contract in respect of the following:
+Insured: et al
+Type: Aviation Liability, Personal Accident and Hull All Risks (including Contingent Liability
+and Hull All Risks) including War Insurance.
+Nuclear Risks Exclusion Clause AVN38B (French equivalent). This exclusion shall not apply with respect
+to activities of sales, installation, maintenance and operation of detection and identification equipment in
+the airport premises.
+As used above:
+and/or associated and/or affiliated and/or subsidiary companies and/or joint ventures as declared now in
+existence or as may be hereafter constituted or acquired, jointly and severally for their respective rights
+and interests and/or as more fully set forth in the Warranty Company policy”.
+UMR : B
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+LR / Date created 18/01/18 Risk Details Page 12
+UMR B0
+Reinsured
+Type Excess of Loss Reinsurance Contract
+NOTICE RELATING TO SANCTIONS AND TRADE RESTRICTIONS
+1. Where it would be illegal under applicable laws or sanctions or embargoes for Reinsurers to provide
+the cover specified in this Contract or any part of such cover, or any other service or benefit, then the
+Reinsurers shall only be obliged to provide cover, services or benefits to the extent that, and for such
+period as, it is or becomes legally permissible for the Reinsurers to do or to have done so.
+2. Where any sum of money falls due from or to Reinsurers under this Contract and where it would be
+illegal under applicable laws or sanctions or embargoes for the payment of all or any part of the sum of
+money to be made (whether in cash, by transfer, by provision of letters of credit or outstanding claims
+advances or by any other form of transfer of other economic asset) at the time it falls due, then the
+debtor party shall only be obliged to make payment to the extent that, and at such time as, it is or
+becomes legally permissible for the debtor party to do so.
+3. In circumstances where paragraphs 1. and/or 2. of this Clause would otherwise apply, but the relevant
+laws or sanctions or embargoes allow the Reinsurers to seek authorisation to provide the affected
+cover, service or benefit and/or to make or receive the affected payment, then the Reinsurers will take
+all reasonable steps to obtain the necessary authorisation required to enable them to make such
+payment or provide such cover, service or benefit. In this event the Reinsured will provide to the
+Reinsurer all information required by the applicable authorities to obtain the necessary authorisation.
+4. Unless and until all such information is provided by the Reinsured to the Reinsurer in accordance with
+paragraph 3. and authorization is granted to the Reinsurer by the applicable authorty(ies), then
+paragraphs 1. and 2. of this Clause shall continue to apply, and the Reinsurer shall not be required to
+make any such payment, or to provide any such cover, service or benefit.
+5. In circumstances where paragraphs 1. and/or 2. of this Clause apply and the Reinsured's ultimate net
+loss also includes amounts not otherwise affected by paragraphs 1. and/or 2. of this Clause. then to
+the extent under the applicable laws or sanctions or embargoes that it is or becomes legally
+permissible for the Reinsurers obligations to be determined in such a manner, the Reinsured's ultimate
+net loss applicable to this Contract and the proportion of the Indemnity collectible from Reinsurers shall
+be determined as follows:
+a) the provisions of paragraphs 1. and 2. of this Clause will be disregarded when determining the
+Reinsured's ultimate net loss applicable to this Contract; and
+b) the proportion of the Indemnity collectible from Reinsurers shall be determined by applying the
+percentage that the Reinsured's ultimate net loss from their obligation(s) not otherwise affected
+by the provisions of paragraphs 1. and 2. of this Clause bears to the Reinsured's total ultimate
+net loss.
+If, however, in such circumstances it is not or does not become legally permissible under the
+applicable laws or sanctions or embargoes for the Reinsurers obligations to be determined in the
+aforementioned manner, then the Reinsured's ultimate net loss applicable to this Contract will only
+include the Reinsured's ultimate net loss from their obligation(s) not otherwise affected by the
+provisions of paragraphs 1. and 2. of this Clause.
+LR / Date created 18/01/18 Risk Details Page 13
+UMR : B0
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+INFORMATION
+THIS INFORMATION SECTION REFERENCES THE INFORMATION MADE AVAILABLE TO
+REINSURERS FOR ASSESSMENT OF THE RISK AT THE TIME OF UNDERWRITING. IT DOES NOT
+INCLUDE CONTRACTUAL TERMS AND CONDITIONS.
+INFORMATION
+Airline USD 10,000,000
+Large General Aviation USD 10,000,000 Small General
+Aviation USD 2,950,000
+LR / Date created 18/01/18 Information Page 1
+UMR : B0
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+LR / Date created 18/01/18 Subscription Agreement Page 2
+LR / Date created 18/01/18 Subscription Agreement Page 4
+UMR B0
+Reinsured
+Type Excess of Loss Reinsurance Contract
+FISCAL AND REGULATORY
+LR / Date created 18/01/18 Fiscal and Regulatory Page 1
+UMR B0
+Reinsured
+Type Excess of Loss Reinsurance Contract
+LR / Date created 18/01/18
+Broker Remuneration and Deductions Page
+1
+UMR : B0
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+REINSURED SIGNATURE PAGE
+Signed herein in respect of:
+Risk Details Page 1 to 13 inclusive. Information Page 1.
+Subscription Agreement Page 1 to 4 inclusive. Fiscal and Regulatory Page 1.
+Security Details Page 1 to 3 inclusive.
+For and on behalf of the Reinsured:
+Date:
+LR / Date created 18/01/18 Reinsured Signature Page 1
+UMR : B0
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+SECURITY DETAILS
+REINSURERS
+LIABILITY Reinsurers Liability Clause LMA3333 Reinsurers’ liability several not
+joint.
+The liability of a Reinsurer under this contract is several and not joint with
+other Reinsurers party to this contract. A Reinsurer is liable only for the
+proportion of liability it has underwritten. A Reinsurer is not jointly liable for
+the proportion of liability underwritten by any other Reinsurer. Nor is a
+Reinsurer otherwise responsible for any liability of any other Reinsurer that
+may underwrite this contract.
+The proportion of liability under this contract underwritten by a Reinsurer (or,
+in the case of a Lloyd's syndicate, the total of the proportions underwritten by
+all the members of the syndicate taken together) is shown next to its stamp.
+This is subject always to the provision concerning “signing” below.
+In the case of a Lloyd's syndicate, each member of the syndicate (rather than
+the syndicate itself) is a Reinsurer. Each member has underwritten a
+proportion of the total shown for the syndicate (that total itself being the total
+of the proportions underwritten by all the members of the syndicate taken
+together). The liability of each member of the syndicate is several and not
+joint with other members. A member is liable only for that member's
+proportion. A member is not jointly liable for any other member's proportion.
+Nor is any member otherwise responsible for any liability of any other
+Reinsurer that may underwrite this contract. The business address of each
+member is Lloyd's, One Lime Street, London EC3M 7HA. The identity of
+each member of a Lloyd's syndicate and their respective proportion may be
+obtained by writing to Market Services, Lloyd's, at the above address.
+Proportion of liability
+Unless there is “signing” (see below), the proportion of liability under this
+contract underwritten by each Reinsurer (or, in the case of a Lloyd's
+syndicate, the total of the proportions underwritten by all the members of the
+syndicate taken together) is shown next to its stamp and is referred to as its
+“written line”.
+Where this contract permits, written lines, or certain written lines, may be
+adjusted (“signed”). In that case a schedule is to be appended to this
+contract to show the definitive proportion of liability under this contract
+underwritten by each Reinsurer (or, in the case of a Lloyd's syndicate, the
+total of the proportions underwritten by all the members of the syndicate
+taken together). A definitive proportion (or, in the case of a Lloyd's syndicate,
+the total of the proportions underwritten by all the members of a Lloyd's
+syndicate taken together) is referred to as a “signed line”. The signed lines
+shown in the schedule will prevail over the written lines unless a proven error
+in calculation has occurred.
+Although reference is made at various points in this clause to “this contract”
+in the singular, where the circumstances so require this should be read as a
+reference to contracts in the plural.
+LR / Date created 18/01/18 Security Details Page 1
+UMR : B0
+Reinsured :
+Type : Excess of Loss Reinsurance Contract
+ORDER HEREON Layer One: 100% of 100%
+Layer Two: 100% of 100%
+BASIS OF
+WRITTEN LINES Percentage of Whole.
+BASIS OF
+SIGNED LINES Percentage of Whole.
+SIGNING
+PROVISIONS In the event that the written lines hereon exceed 100% of the order, any
+lines written “to stand” will be allocated in full and all other lines will be
+signed down in equal proportions so that the aggregate signed lines are
+equal to 100% of the order without further agreement of any of the
+Reinsurers.
+However:
+a) in the event that the placement of the order is not completed by the
+commencement date of the period of reinsurance then all lines written
+by that date will be signed in full;
+b) the Reinsured may elect for the disproportionate signing of Reinsurers'
+lines, without further specific agreement of Reinsurers, providing that
+any variation is made prior to the commencement date of the period of
+reinsurance, and that lines written “to stand” may not be varied without
+the documented agreement of those Reinsurers;
+c) the signed lines resulting from the application of the above provisions
+can be varied, before or after the commencement date of the period of
+reinsurance, by the documented agreement of the Reinsured and all
+Reinsurers whose lines are to be varied. The variation to the contracts
+will take effect only when all such Reinsurers have agreed, with the
+resulting variation in signed lines commencing from the date set out in
+that agreement.
+LINE CONDITIONS None unless specified individually by Reinsurers hereon under their written
+participations.
+All following Reinsurers make their acceptance based on the Contract
+language disregarding the Slip Leader Line Conditions (if any) and any other
+Line Conditions.
+Line Conditions only apply to the Reinsurer who expressly makes those Line
+Conditions.
+MODE OF
+EXECUTION This Contract and any changes to it may be executed by:
+a) electronic signature technology employing computer software and a
+digital signature or digitiser pen pad to capture a person's handwritten
+signature in such a manner that the signature is unique to the person
+signing, is under the sole control of the person signing, is capable of
+verification to authenticate the signature and is linked to the document
+LR / Date created 18/01/18 Security Details Page 2
+UMR B
+Reinsured
+Type Excess of Loss Reinsurance Contract
+signed in such a manner that if the data is changed, such signature is
+invalidated;
+b) a unique authorisation provided via a secure electronic trading
+platform
+c) a timed and dated authorisation provided via an electronic
+message/system;
+d) an exchange of facsimile/scanned copies showing the original written
+ink signature of paper documents;
+e) an original written ink signature of paper documents (or a true
+representation of a signature, such as a rubber stamp).;
+The use of any one or a combination of these methods of execution shall
+constitute a legally binding and valid signing of this Contract. This Contract
+may be executed in one or more of the above counterparts, each of which,
+when duly executed, shall be deemed an original.
+LR / Date created 18/01/18
+Security Details Page 3
