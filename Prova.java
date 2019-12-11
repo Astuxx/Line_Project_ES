@@ -163,7 +163,8 @@ public class Prova {
         }    
         
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
-        /*for (int i = 0; i<size; i++) {
+        
+        for (int i = 0; i<size; i++) {
             if (check[i] == 0 && check[i]!= -1) { //if this line should not be pulled up
                 if(i>=5 && i<=size-5) {
                     if (lines[i].length()>=90) {
@@ -188,8 +189,8 @@ public class Prova {
                     }
                 }
             }
-        } */
-        /*for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
+        } 
+        for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
             if(check[i]==0){
                 System.out.println("LINEA MARCATA CON 0         "+lines[i]+"\n");
             }
@@ -198,7 +199,7 @@ public class Prova {
             if(check[i]==-1){
                 System.out.println("LINEA MARCATA CON -1         "+lines[i]+"\n");
             }
-        }*/
+        }
 
         String ret = lines[0]; //String to return
 
