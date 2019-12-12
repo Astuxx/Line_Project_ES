@@ -88,16 +88,18 @@ public class Prova {
         //regex for a good end line
         String R1 = "([a-z])$";//R1 AND R2
         String R2 = "^([a-z])";
-        String R3 = "\\b$";
+        String R3 = "\\[0-9]+$";
         String R4 = "^[a-z]{2,100}";
         String R5 = "[a-z]$";
         String R6 = "^\\b+";
-        String R7 = "[\\,?\\)?\\;?]$"; //single
+        String R7 = "[\\,?\\)?\\;\\]?]$"; //single
         String R8 = "[\\-?]$";
         String R9 = "^[a-z]\\."; //points listed
         String R10 = "^[0-9]+\\."; //points listed
         String R11 = "^[a-z]\\)";
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
+        String R13 = "^(Page)( )([0-9]+)";
+        //String R14 = 
         
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
