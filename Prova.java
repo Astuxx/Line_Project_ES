@@ -1,6 +1,9 @@
 import java.io.*;
 import java.lang.Math;
 import java.util.regex.Pattern;
+
+import jdk.nashorn.internal.runtime.regexp.joni.Regex;
+
 import java.util.*;
 import java.io.File;
 import java.io.IOException;
@@ -99,8 +102,10 @@ public class Prova {
         String R11 = "^[a-z]\\)";
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
-        //String R14 = 
-        
+        String R14 = "^\\([a-z]\\)";
+        String R15 = "^[A-Z,(a-z)?]+[^.]$";
+        String R16 = "^[A-Z,(a-z)?]+";
+
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
         RegexDouble.add(Pattern.compile(R2));
@@ -118,6 +123,8 @@ public class Prova {
         RegexSingleNegative.add(Pattern.compile(R9));
         RegexSingleNegative.add(Pattern.compile(R10));
         RegexSingleNegative.add(Pattern.compile(R11));
+        RegexSingleNegative.add(Pattern.compile(R13));
+        RegexSingleNegative.add(Pattern.compile(R14));
 
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
@@ -133,13 +140,22 @@ public class Prova {
             check[i] = 0;
         }
 
-        for (int i = 0; i<size; i++) { //so I don't look at the bulleted lists
+        for (int i = 0; i<size-1; i++) { //so I don't look at the bulleted lists
             Matcher r = RegexSingleNegative.get(0).matcher(lines[i]);
             Matcher s = RegexSingleNegative.get(1).matcher(lines[i]);
             Matcher t = RegexSingleNegative.get(2).matcher(lines[i]);
-            if (r.find() || s.find() || t.find()) {
+            Matcher u = RegexSingleNegative.get(3).matcher(lines[i]);
+            Matcher v = RegexSingleNegative.get(4).matcher(lines[i]);
+            if (r.find() || s.find() || t.find() || u.find() || v.find()) {
             check[i] = -1; //
                 }
+
+            Matcher z = (Pattern.compile(R15)).matcher(lines[i]);
+            Matcher y = (Pattern.compile(R16)).matcher(lines[i+1]);
+
+            if (z.find() && y.find()) {
+                check[i+1] = -1;
+            }
         }
 
         //find regex in text
