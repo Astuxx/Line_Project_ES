@@ -103,8 +103,8 @@ public class Prova {
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
         String R14 = "^\\([a-z]\\)";
-        String R15 = "^[A-Z,(a-z)?]+[^.]$";
-        String R16 = "^[A-Z,(a-z)?]+";
+        //String R15 = "^[A-Z,(a-z)?]+";
+        //String R16 = "^[A-Z,(a-z)?]+";
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -150,12 +150,14 @@ public class Prova {
             check[i] = -1; //
                 }
 
-            Matcher z = (Pattern.compile(R15)).matcher(lines[i]);
-            Matcher y = (Pattern.compile(R16)).matcher(lines[i+1]);
-
-            if (z.find() && y.find()) {
-                check[i+1] = -1;
-            }
+            /*if (lines[i].charAt(lines[i].length() -1 ) != '.') {
+                Matcher z = (Pattern.compile(R15)).matcher(lines[i]);
+                Matcher y = (Pattern.compile(R16)).matcher(lines[i+1]);
+    
+                if (z.find() && y.find()) {
+                    check[i+1] = -1;
+                }
+            }*/
         }
 
         //find regex in text
