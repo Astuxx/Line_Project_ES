@@ -117,6 +117,7 @@ public class Prova {
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
         RegexSingle.add(Pattern.compile(R8));
+        RegexSingle.add(Pattern.compile(R15));
   
         //regex for lines that should not be pulled up
         ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
