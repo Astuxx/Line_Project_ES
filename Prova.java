@@ -100,9 +100,10 @@ public class Prova {
         String R9 = "^[a-z]\\."; //points listed
         String R10 = "^[0-9]+\\."; //points listed
         String R11 = "^[a-z]\\)";
+        String R15 = "^\\([a-z]\\)";
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
-        String R14 = "^\\([a-z]\\)";
+        String R14 = "^[a-z]+";
         //String R15 = "^[A-Z,(a-z)?]+";
         //String R16 = "^[A-Z,(a-z)?]+";
 
@@ -117,7 +118,7 @@ public class Prova {
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
         RegexSingle.add(Pattern.compile(R8));
-        RegexSingle.add(Pattern.compile(R15));
+        RegexSingle.add(Pattern.compile(R14));
   
         //regex for lines that should not be pulled up
         ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
@@ -125,7 +126,7 @@ public class Prova {
         RegexSingleNegative.add(Pattern.compile(R10));
         RegexSingleNegative.add(Pattern.compile(R11));
         RegexSingleNegative.add(Pattern.compile(R13));
-        RegexSingleNegative.add(Pattern.compile(R14));
+        RegexSingleNegative.add(Pattern.compile(R15));
 
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
@@ -146,8 +147,7 @@ public class Prova {
             Matcher s = RegexSingleNegative.get(1).matcher(lines[i]);
             Matcher t = RegexSingleNegative.get(2).matcher(lines[i]);
             Matcher u = RegexSingleNegative.get(3).matcher(lines[i]);
-            Matcher v = RegexSingleNegative.get(4).matcher(lines[i]);
-            if (r.find() || s.find() || t.find() || u.find() || v.find()) {
+            if (r.find() || s.find() || t.find() || u.find()) {
             check[i] = -1; //
                 }
 
@@ -180,6 +180,11 @@ public class Prova {
                 Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
                 if (w.find()) {
                 check[i+1] = 2; //delete a space and pulled up the line i+1
+                    }
+
+                Matcher a = RegexSingle.get(2).matcher(lines[i]); //Regex R8
+                if (a.find() && lines[i].length()<=50) {
+                    check[i] = 1; //delete a space and pulled up the line i+1
                     }
 
                 //replace a particular case
