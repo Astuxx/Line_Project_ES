@@ -101,9 +101,9 @@ public class Prova {
         String R15 = "^\\([a-z]\\)";
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
-        String R14 = "^[a-z]+";
-        //String R15 = "^[A-Z,(a-z)?]+";
-        //String R16 = "^[A-Z,(a-z)?]+";
+        String R14 = "^\\([a-z]+";
+        String R15 = "^\\b[A-Z](\\w+)$";
+        String R16 = "^[A-Z,(a-z)]+";
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -173,13 +173,19 @@ public class Prova {
                 //Patter single
                 Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
                 if (z.find()) {
-                check[i+1] = 1;
+                    check[i+1] = 1;
                     }
 
                 Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
                 if (w.find()) {
-                check[i+1] = 2; //delete a space and pulled up the line i+1
+                    check[i+1] = 2; //delete a space and pulled up the line i+1
                     }
+                
+                Matcher d = RegexSingle.get(2).matcher(lines[i]); //Regex R8
+                if (d.find()) {
+                    check[i] = 1; //delete a space and pulled up the line i+1
+                    }
+
 
                 //replace a particular case
                 lines[i] = lines[i].replaceAll(R12, "$1$2$4");
