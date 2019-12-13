@@ -147,7 +147,8 @@ public class Prova {
             Matcher s = RegexSingleNegative.get(1).matcher(lines[i]);
             Matcher t = RegexSingleNegative.get(2).matcher(lines[i]);
             Matcher u = RegexSingleNegative.get(3).matcher(lines[i]);
-            if (r.find() || s.find() || t.find() || u.find()) {
+            Matcher z = RegexSingleNegative.get(4).matcher(lines[i]);
+            if (r.find() || s.find() || t.find() || u.find() || z.find()) {
             check[i] = -1; //
                 }
 
@@ -180,11 +181,6 @@ public class Prova {
                 Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
                 if (w.find()) {
                 check[i+1] = 2; //delete a space and pulled up the line i+1
-                    }
-
-                Matcher a = RegexSingle.get(2).matcher(lines[i]); //Regex R8
-                if (a.find() && lines[i].length()<=50) {
-                    check[i] = 1; //delete a space and pulled up the line i+1
                     }
 
                 //replace a particular case
