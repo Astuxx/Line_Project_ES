@@ -19,8 +19,7 @@ public class Prova {
         //String fileName = "Prova.txt";
         String line = null; //line read
         String CompleteString = null;
-        int j = 0;
-
+        
         try {
             // read file as String in Java SE 6 and lower version
             BufferedReader br = new BufferedReader(new FileReader(fileName));
@@ -66,7 +65,7 @@ public class Prova {
         CompleteString = TextCleaning(CompleteString);
         //System.out.println(CompleteString);
         CompleteString = matchString(CompleteString);
-        System.out.println(CompleteString);
+        //System.out.println(CompleteString);
        
         //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
         //CompleteString = CompleteString.replaceAll("(\\w)(\\n)(\\w)", "$1 $3");//delte \n betwenn two line with no dot
@@ -90,7 +89,7 @@ public class Prova {
         String R1 = "([a-z])$";//R1 AND R2
         String R2 = "^([a-z])";
         String R3 = "\\[0-9]+$";
-        String R4 = "^[a-z]{2,100}";
+        String R4 = "^[A-Z,a-z]{2,100}";
         String R5 = "[a-z]$";
         String R6 = "^\\b+";
         String R7 = "[\\,?\\)?\\;\\]?]$"; //single
@@ -103,7 +102,8 @@ public class Prova {
         String R13 = "^(Page)( )([0-9]+)";
         String R14 = "^\\([a-z]+";
         String R17 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
-        String R16 = "^\\b[A-Z](\\w+)";
+        String R16 = "^\\b[A-Z](\\w+)"; 
+        //String R18 = "^\\([a-z]+"; 
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -126,6 +126,7 @@ public class Prova {
         RegexSingleNegative.add(Pattern.compile(R11));
         RegexSingleNegative.add(Pattern.compile(R13));
         RegexSingleNegative.add(Pattern.compile(R15));
+        //RegexSingleNegative.add(Pattern.compile(R18));
 
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
@@ -147,11 +148,12 @@ public class Prova {
             Matcher t = RegexSingleNegative.get(2).matcher(lines[i]);
             Matcher u = RegexSingleNegative.get(3).matcher(lines[i]);
             Matcher z = RegexSingleNegative.get(4).matcher(lines[i]);
+            //Matcher a = RegexSingleNegative.get(5).matcher(lines[i]);
             if (r.find() || s.find() || t.find() || u.find() || z.find()) {
             check[i] = -1; //
                 }
 
-            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=40) {
+            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=30) {
                 Matcher e = (Pattern.compile(R17)).matcher(lines[i]);
                 Matcher y = (Pattern.compile(R16)).matcher(lines[i+1]);
     
@@ -159,7 +161,6 @@ public class Prova {
                     check[i+1] = -1;
                 }
             }
-            if (lines[i].length()<=40 && )
         }
 
         //find regex in text
@@ -217,7 +218,7 @@ public class Prova {
                         }//end for
 
                         if (val>=7) {
-                            check[i] = 1; //pulled up line
+                            check[i] = 1; //pulled up line 
                         }   
                     }
                 }
@@ -227,12 +228,12 @@ public class Prova {
             if(check[i]==0){
                 System.out.println("LINEA MARCATA CON 0         "+lines[i]+"\n");
             }
-        }
+        }*/
         for (int i = 0; i<size; i++) {
             if(check[i]==-1){
                 System.out.println("LINEA MARCATA CON -1         "+lines[i]+"\n");
             }
-        }*/
+        }
 
         String ret = lines[0]; //String to return
 
