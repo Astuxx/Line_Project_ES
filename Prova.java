@@ -102,8 +102,8 @@ public class Prova {
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
         String R14 = "^\\([a-z]+";
-        String R17 = "^\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
-        String R16 = "^[A-Z,(a-z)]+";
+        String R17 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
+        String R16 = "^\\b[A-Z](\\w+)";
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -133,7 +133,7 @@ public class Prova {
 
         Integer[] check = new Integer[size]; 
         /*
-        0 = non faccio nulla
+        0 = non faccio nulla 
         1 = tiro sula riga con uno spazio
         2 = tiro su la riga con nessuno spazio
         */
@@ -151,14 +151,15 @@ public class Prova {
             check[i] = -1; //
                 }
 
-            /*if (lines[i].charAt(lines[i].length() -1 ) != '.') {
-                Matcher z = (Pattern.compile(R15)).matcher(lines[i]);
+            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=40) {
+                Matcher e = (Pattern.compile(R17)).matcher(lines[i]);
                 Matcher y = (Pattern.compile(R16)).matcher(lines[i+1]);
     
-                if (z.find() && y.find()) {
+                if (e.find() && y.find()) {
                     check[i+1] = -1;
                 }
-            }*/
+            }
+            if (lines[i].length()<=40 && )
         }
 
         //find regex in text
