@@ -1,4 +1,4 @@
-import java.io.*;
+ import java.io.*;
 import java.lang.Math;
 import java.util.regex.Pattern;
 
@@ -224,14 +224,15 @@ public class Prova {
                 }
             }
         } 
-        /*for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
+        
+        for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
             if(check[i]==0){
-                System.out.println("LINEA MARCATA CON 0         "+lines[i]+"\n");
+                System.out.println("LINEA MARCATA CON 0, riga numero       "+i+" "+lines[i]+"\n");
             }
-        }*/
+        }
         for (int i = 0; i<size; i++) {
             if(check[i]==-1){
-                System.out.println("LINEA MARCATA CON -1         "+lines[i]+"\n");
+                System.out.println("LINEA MARCATA CON -1, riga numero      "+i+" "+lines[i]+"\n");
             }
         }
 
