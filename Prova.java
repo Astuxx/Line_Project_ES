@@ -88,21 +88,25 @@ public class Prova {
         //regex for a good end line
         String R1 = "([a-z])$";//R1 AND R2
         String R2 = "^([a-z])";
-        String R3 = "\\[0-9]+$";
+        String R3 = "\\[0-9]+$"; //R3 AND R4 
         String R4 = "^[A-Z,a-z]{2,100}";
-        String R5 = "[a-z]$";
+        String R5 = "[a-z]$"; // R5 and R6
         String R6 = "^\\b+";
-        String R7 = "[\\,?\\)?\\;\\]?]$"; //single
+
+        String R7 = "[\\,\\]]$"; //single
         String R8 = "[\\-?]$";
+
         String R9 = "^[a-z]\\."; //points listed
         String R10 = "^[0-9]+\\."; //points listed
-        String R11 = "^[a-z]\\)";
-        String R15 = "^\\([a-z]\\)";
+        String R11 = "^[a-z]\\)";  //points listed
+        String R15 = "^\\([a-z]\\)"; //points listed
+        String R18 = "\\:$";
+
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
         String R14 = "^\\([a-z]+";
-        String R17 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
-        String R16 = "^\\b[A-Z](\\w+)"; 
+        String R16 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
+        String R17 = "^\\b[A-Z](\\w+)"; 
         //String R18 = "^\\([a-z]+"; 
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
@@ -149,18 +153,24 @@ public class Prova {
             Matcher u = RegexSingleNegative.get(3).matcher(lines[i]);
             Matcher z = RegexSingleNegative.get(4).matcher(lines[i]);
             //Matcher a = RegexSingleNegative.get(5).matcher(lines[i]);
-            if (r.find() || s.find() || t.find() || u.find() || z.find()) {
+            if (r.find() || s.find() || t.find() || u.find() || z.find() ) {
             check[i] = -1; //
                 }
 
             if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=30) {
-                Matcher e = (Pattern.compile(R17)).matcher(lines[i]);
-                Matcher y = (Pattern.compile(R16)).matcher(lines[i+1]);
+                Matcher e = (Pattern.compile(R16)).matcher(lines[i]);
+                Matcher y = (Pattern.compile(R17)).matcher(lines[i+1]);
     
                 if (e.find() && y.find()) {
                     check[i+1] = -1;
                 }
             }
+
+            Matcher l = (Pattern.compile(R18)).matcher(lines[i]);
+            if (l.find()) {
+                check[i+1] = -1;
+            }
+
         }
 
         //find regex in text
@@ -173,30 +183,31 @@ public class Prova {
                             check[i+1] = 1;
                         }
 
-                //Pattern single
-                Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
-                if (z.find()) {
-                    check[i+1] = 1;
+                    //Pattern single
+                    Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
+                    if (z.find()) {
+                        check[i+1] = 1;
+                        }
+
+                    Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
+                    if (w.find()) {
+                        check[i+1] = 2; //delete a space and pulled up the line i+1
+                        }
+                        
+                    if (check[i]!=-1) {
+                        Matcher d = RegexSingle.get(2).matcher(lines[i]); //Regex 14
+                        if (d.find()) {
+                            check[i] = 1; //delete a space and pulled up the line i+1
+                            }
                     }
 
-                Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
-                if (w.find()) {
-                    check[i+1] = 2; //delete a space and pulled up the line i+1
-                    }
-                
-                Matcher d = RegexSingle.get(2).matcher(lines[i]); //Regex R8
-                if (d.find()) {
-                    check[i] = 1; //delete a space and pulled up the line i+1
-                    }
+                    //replace a particular case
+                    lines[i] = lines[i].replaceAll(R12, "$1$2$4");
 
-
-                //replace a particular case
-                lines[i] = lines[i].replaceAll(R12, "$1$2$4");
-
-                /*Matcher r = RegexSingle.get(3).matcher(lines[i]);
-                if(r.find() && lines[i].length()<50 && lines[i].charAt(length[size-1])!="."){
-                    check[i] = -2;
-                }*/
+                    /*Matcher r = RegexSingle.get(3).matcher(lines[i]);
+                    if(r.find() && lines[i].length()<50 && lines[i].charAt(length[size-1])!="."){
+                        check[i] = -2;
+                    }*/
                 
                 }// end if check line == 0
 
