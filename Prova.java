@@ -102,7 +102,7 @@ public class Prova {
         String R15 = "^\\([a-z]+\\)"; //points listed
         String R18 = "\\:$";
 
-        String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
+        String R12 ="([a-z,A-Z])(\\-)([ ,\n])([a-z,A-Z])"; //word- word --> word-word 
         String R13 = "^(Page)( )([0-9]+)";
         String R14 = "^\\([a-z]+";
         String R16 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
@@ -257,7 +257,7 @@ public class Prova {
             }
         } 
         
-        for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
+        /*for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
             if(check[i]==0){
                 System.out.println("LINEA MARCATA CON 0, riga numero       "+i+" "+lines[i]+"\n");
             }
@@ -266,7 +266,7 @@ public class Prova {
             if(check[i]==-1){
                 System.out.println("LINEA MARCATA CON -1, riga numero      "+i+" "+lines[i]+"\n");
             }
-        }
+        }*/
 
         String ret = lines[0]; //String to return
 
