@@ -97,9 +97,9 @@ public class Prova {
         String R8 = "[\\-?]$";
 
         String R9 = "^[a-z]\\."; //points listed
-        String R10 = "^[0-9]+\\."; //points listed
-        String R11 = "^[a-z]\\)";  //points listed
-        String R15 = "^\\([a-z]\\)"; //points listed
+        String R10 = "^[0-9]+\\. [a-z,A-Z]"; //points listed
+        String R11 = "^[a-z]+\\)";  //points listed
+        String R15 = "^\\([a-z]+\\)"; //points listed
         String R18 = "\\:$";
 
         String R12 ="([a-z,A-Z])(\\-)( )([a-z,A-Z])"; //word- word --> word-word 
@@ -108,6 +108,11 @@ public class Prova {
         String R16 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
         String R17 = "^\\b[A-Z](\\w+)"; 
         //String R18 = "^\\([a-z]+"; 
+        String R19 = "^[a-z]+";
+        String R20 = "^\\([A-Z,a-z]+ ";
+
+        String R21 = "[0-9]+$";
+        String R22 = "^\\b[A-Z][a-z]+";
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -116,12 +121,16 @@ public class Prova {
         RegexDouble.add(Pattern.compile(R4));
         RegexDouble.add(Pattern.compile(R5));
         RegexDouble.add(Pattern.compile(R6));
+        RegexDouble.add(Pattern.compile(R21));
+        RegexDouble.add(Pattern.compile(R22));
 
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
         RegexSingle.add(Pattern.compile(R8));
         RegexSingle.add(Pattern.compile(R14));
         RegexSingle.add(Pattern.compile(R17));
+        RegexSingle.add(Pattern.compile(R19));
+        RegexSingle.add(Pattern.compile(R20));
   
         //regex for lines that should not be pulled up
         ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
@@ -138,6 +147,7 @@ public class Prova {
 
         Integer[] check = new Integer[size]; 
         /*
+        -1 = non tocco la riga
         0 = non faccio nulla 
         1 = tiro sula riga con uno spazio
         2 = tiro su la riga con nessuno spazio
@@ -157,7 +167,7 @@ public class Prova {
             check[i] = -1; //
                 }
 
-            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=30) {
+            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=50) {
                 Matcher e = (Pattern.compile(R16)).matcher(lines[i]);
                 Matcher y = (Pattern.compile(R17)).matcher(lines[i+1]);
     
@@ -201,6 +211,12 @@ public class Prova {
                             }
                     }
 
+                    Matcher g = (Pattern.compile("[A-Z]+$")).matcher(lines[i-1]);
+                    Matcher f = RegexSingle.get(4).matcher(lines[i]); //Regex R8
+                    if (f.find() && !(g.find()) && check[i]!=-1) {
+                        check[i] = 1; //delete a space and pulled up the line i+1
+                        }
+
                     //replace a particular case
                     lines[i] = lines[i].replaceAll(R12, "$1$2$4");
 
@@ -210,6 +226,11 @@ public class Prova {
                     }*/
                 
                 }// end if check line == 0
+
+                Matcher m = RegexSingle.get(5).matcher(lines[i]); //Regex R8
+                    if (m.find()) {
+                        check[i] = 1; //delete a space and pulled up the line i+1
+                        }
 
             }//end for line 
         }    
@@ -228,7 +249,7 @@ public class Prova {
                             }
                         }//end for
 
-                        if (val>=7) {
+                        if (val>=5) {
                             check[i] = 1; //pulled up line 
                         }   
                     }
