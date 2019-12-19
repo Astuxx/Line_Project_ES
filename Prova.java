@@ -8,8 +8,6 @@ import java.io.IOException;
 import java.util.regex.*;
 
 public class Prova {
-
-
     public static void main(String Args[]) {
 
         // The name of file or path
