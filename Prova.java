@@ -1,4 +1,5 @@
- import java.io.*;
+import java.io.*;
+import java.lang.*;
 import java.lang.Math;
 import java.util.regex.Pattern;
 
@@ -35,11 +36,9 @@ public class Prova {
                     sb.append(line).append("\n"); //append the line
                 }
                 line = br.readLine(); //read new line prof file
-                
             }
             //System.out.println(sb);
             CompleteString = new String(sb);
-
             // Close file
             br.close();
         }
@@ -108,8 +107,11 @@ public class Prova {
         String R19 = "^[a-z]+";
         String R20 = "^\\([A-Z,a-z]+ ";
 
-        String R21 = "[0-9]+$";
-        String R22 = "^\\b[A-Z][a-z]+";
+        //String R21 = "[0-9]+$";
+        //String R22 = "^\\b[A-Z][a-z]+";
+
+        String R23 = "\\([\\w ]+$";
+        String R24 = "^[\\w ]+\\)"; 
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
@@ -118,8 +120,10 @@ public class Prova {
         RegexDouble.add(Pattern.compile(R4));
         RegexDouble.add(Pattern.compile(R5));
         RegexDouble.add(Pattern.compile(R6));
-        RegexDouble.add(Pattern.compile(R21));
-        RegexDouble.add(Pattern.compile(R22));
+        //RegexDouble.add(Pattern.compile(R21));
+        //RegexDouble.add(Pattern.compile(R22));
+        RegexDouble.add(Pattern.compile(R23));
+        RegexDouble.add(Pattern.compile(R24));
 
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
