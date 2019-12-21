@@ -113,8 +113,8 @@ public class Prova {
         String R23 = "\\([\\w ]+$";
         String R24 = "^[\\w ]+\\)"; 
 
-        String R25 = "\\b[A-Z]+$";
-        String R26 = "^\\b[A-Z]+";
+        String R25 = "\\b[A-Z]{2,100}$";
+        String R26 = "^\\b[A-Z]{2,100}";
 
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
