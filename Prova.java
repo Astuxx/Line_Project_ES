@@ -173,7 +173,7 @@ public class Prova {
             check[i] = -1; //
                 }
 
-            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=50) {
+           if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=50) {
                 Matcher e = (Pattern.compile(R16)).matcher(lines[i]);
                 Matcher y = (Pattern.compile(R17)).matcher(lines[i+1]);
     
@@ -238,8 +238,15 @@ public class Prova {
                         check[i] = 1; //delete a space and pulled up the line i+1
                         }
 
+            if(j == 8) {
+                Matcher t = RegexDouble.get(j).matcher(lines[i]); //find regex(part 1) in line i
+                Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);//find regex(part 2) in the next line
+                    if ( t.find() && y.find()) {
+                        check[i+1] = 1;
+                    }
+            }
             }//end for line 
-        }    
+        }//end regex   
         
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
         
