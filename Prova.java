@@ -113,6 +113,9 @@ public class Prova {
         String R23 = "\\([\\w ]+$";
         String R24 = "^[\\w ]+\\)"; 
 
+        String R25 = "\\b[A-Z]+$";
+        String R26 = "^\\b[A-Z]+";
+
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
         RegexDouble.add(Pattern.compile(R1));
         RegexDouble.add(Pattern.compile(R2));
@@ -124,6 +127,8 @@ public class Prova {
         //RegexDouble.add(Pattern.compile(R22));
         RegexDouble.add(Pattern.compile(R23));
         RegexDouble.add(Pattern.compile(R24));
+        RegexDouble.add(Pattern.compile(R25));
+        RegexDouble.add(Pattern.compile(R26));
 
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
         RegexSingle.add(Pattern.compile(R7));
@@ -250,7 +255,7 @@ public class Prova {
                             }
                         }//end for
 
-                        if (val>=5) {
+                        if (val>=8) {
                             check[i] = 1; //pulled up line 
                         }   
                     }
