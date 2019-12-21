@@ -77,6 +77,8 @@ public class Prova {
         x = x.replaceAll("(\\$)END_PAGE_(\\d+)","");//delete END_PAGE_n pattern
         x = x.replaceAll("(?m)^\\s", ""); //delete empty line (?m == probabile attivazione multi-line)
         x = x.replaceAll("^[ ]","");//delete last empty line
+        x = x.replaceAll("[\\‘\\‘]", "\'");
+        x = x.replaceAll("[\\“\\”]", "\"");
         return x;
     }
 
