@@ -8,7 +8,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.regex.*;
 
-public class Prova {
+public class Prova2 {
     public static void main(String Args[]) {
 
         // The name of file or path
@@ -84,8 +84,8 @@ public class Prova {
 
     public static String matchString (String x) {
         //regex for a good end line
-        String R1 = "([a-z])$";//R1 AND R2
-        String R2 = "^([a-z])";
+        String R1 = "([a-z]+)$";//R1 AND R2
+        String R2 = "^([a-z]+)";
         String R3 = "\\[0-9]+$"; //R3 AND R4 
         String R4 = "^[A-Z,a-z]{2,100}";
         String R5 = "[a-z]$"; // R5 and R6
@@ -176,7 +176,7 @@ public class Prova {
             check[i] = -1; //
                 }
 
-           if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=50 ) {
+            if (lines[i].charAt(lines[i].length() -1 ) != '.' && lines[i].length()<=50 ) {
                 Matcher e = (Pattern.compile(R16)).matcher(lines[i]);
                 Matcher y = (Pattern.compile(R17)).matcher(lines[i+1]);
     
@@ -189,8 +189,10 @@ public class Prova {
             if (l.find()) {
                 check[i+1] = -1;
             }
-        }
+            
+            }//end for
 
+        
         //find regex in text
         for (int j = 0; j<RegexDouble.size(); j+=2) { //Pattern double
             for (int i = 0; i<size-1; i++) {
@@ -200,61 +202,57 @@ public class Prova {
                         if ( t.find() && y.find()) {
                             check[i+1] = 1;
                         }
+                    }
+                }
+            }
 
-                    //Pattern single
-                    Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
-                    if (z.find()) {
-                        check[i+1] = 1;
-                        }
-
-                    Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
-                    if (w.find()) {
-                        check[i+1] = 2; //delete a space and pulled up the line i+1
-                        }
-                        
-                    if (check[i]!=-1) {
-                        Matcher d = RegexSingle.get(2).matcher(lines[i]); //Regex 14
-                        if (d.find()) {
-                            check[i] = 1; //delete a space and pulled up the line i+1
-                            }
+        //single regex
+        for (int i = 0; i<size-1; i++) {
+            if (check[i] != -1) {
+                //Pattern single
+                Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
+                if (z.find()) {
+                    check[i+1] = 1;
                     }
 
-                    /*Matcher g = (Pattern.compile("[A-Z]+$")).matcher(lines[i-1]);
-                    Matcher f = RegexSingle.get(4).matcher(lines[i]); //Regex R8
-                    if (f.find() && !(g.find()) && check[i]!=-1) {
-                        check[i] = 1; //delete a space and pull up the line i+1
-                        }*/
+                Matcher w = RegexSingle.get(1).matcher(lines[i]); //Regex R8
+                if (w.find()) {
+                    check[i+1] = 2; //delete a space and pulled up the line i+1
+                    }
+                    
+                Matcher d = RegexSingle.get(2).matcher(lines[i]); //Regex 14
+                if (d.find()) {
+                    check[i] = 1; //delete a space and pulled up the line i+1
+                    }
+            }
+            //replace a particular case
+            lines[i] = lines[i].replaceAll(R12, "$1$2$4");
 
-                    //replace a particular case
-                    lines[i] = lines[i].replaceAll(R12, "$1$2$4");
-
-                    /*Matcher r = RegexSingle.get(3).matcher(lines[i]);
-                    if(r.find() && lines[i].length()<50 && lines[i].charAt(length[size-1])!="."){
-                        check[i] = -2;
-                    }*/
-                
-                }// end if check line == 0
-
-                Matcher f = RegexSingle.get(4).matcher(lines[i]); //Regex R19
+            Matcher f = RegexSingle.get(4).matcher(lines[i]); //Regex R19
                     if (f.find() && check[i]!=-1) {
                         check[i] = 1;
                     }
 
-                Matcher m = RegexSingle.get(5).matcher(lines[i]); //Regex R20
-                    if (m.find()) {
-                        check[i] = 1; //delete a space and pulled up the line i+1
-                        }
-
-            if(j == 8) {
-                Matcher t = RegexDouble.get(j).matcher(lines[i]); //find regex(part 1) in line i
-                Matcher y = RegexDouble.get(j+1).matcher(lines[i+1]);//find regex(part 2) in the next line
-                    if ( t.find() && y.find()) {
-                        check[i+1] = 1;
+            Matcher m = RegexSingle.get(5).matcher(lines[i]); //Regex R20
+                if (m.find()) {
+                    check[i] = 1; //delete a space and pulled up the line i+1
                     }
+
+            if (check[i]!=-1) {
+                Matcher t = RegexDouble.get(0).matcher(lines[i]); //find regex(part 1) in line i
+                Matcher y = RegexDouble.get(1).matcher(lines[i+1]);//find regex(part 2) in the next line
+                if(t.find() && y.find()) {
+                    check[i+1] = 1;
+                }
             }
-            }//end for line 
-        }//end regex   
-        
+            if (check[i+1] != -1) {
+                if (lines[i+1].charAt(lines[i+1].length() -1 ) == '.' && lines[i].charAt(lines[i].length() -1 ) != '.') {
+                    check[i+1] = 1;
+                }
+            }
+
+        }//end for single regex
+
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
         
         for (int i = 0; i<size; i++) {
@@ -269,24 +267,13 @@ public class Prova {
                             }
                         }//end for
 
-                        if (val>=8) {
+                        if (val>=7) {
                             check[i] = 1; //pulled up line 
                         }   
                     }
                 }
             }
         } 
-        
-        /*for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
-            if(check[i]==0){
-                System.out.println("LINEA MARCATA CON 0, riga numero       "+i+" "+lines[i]+"\n");
-            }
-        }
-        for (int i = 0; i<size; i++) {
-            if(check[i]==-1){
-                System.out.println("LINEA MARCATA CON -1, riga numero      "+i+" "+lines[i]+"\n");
-            }
-        }*/
 
         String ret = lines[0]; //String to return
 
