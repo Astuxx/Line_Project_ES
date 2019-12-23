@@ -104,9 +104,9 @@ public class Prova {
         String R13 = "^(Page)( )([0-9]+)";
         String R14 = "^\\([a-z]+";
         String R16 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
-        String R17 = "^\\b[A-Z](\\w+)"; 
+        String R17 = "^\\b[A-Z](\\w+)";  
         //String R18 = "^\\([a-z]+"; 
-        String R19 = "^[a-z]+";
+        String R19 = "^[a-z]+"; //riga inizia con parola minuscola
         String R20 = "^\\([A-Z,a-z]+ ";
 
         //String R21 = "[0-9]+$";
@@ -192,7 +192,7 @@ public class Prova {
         }
 
         //find regex in text
-        for (int j = 0; j<RegexDouble.size(); j+=2) { //Patter double
+        for (int j = 0; j<RegexDouble.size(); j+=2) { //Pattern double
             for (int i = 0; i<size-1; i++) {
                 if (check[i+1]==0) {
                     Matcher t = RegexDouble.get(j).matcher(lines[i]); //find regex(part 1) in line i
@@ -222,7 +222,7 @@ public class Prova {
                     Matcher g = (Pattern.compile("[A-Z]+$")).matcher(lines[i-1]);
                     Matcher f = RegexSingle.get(4).matcher(lines[i]); //Regex R8
                     if (f.find() && !(g.find()) && check[i]!=-1) {
-                        check[i] = 1; //delete a space and pulled up the line i+1
+                        check[i] = 1; //delete a space and pull up the line i+1
                         }
 
                     //replace a particular case
