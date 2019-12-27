@@ -1,0 +1,390 @@
+:
+:
+:
+Market Reform Contract
+Reinsured
+Type of Agreement Livestock Quota Share Reinsurance Agreement.
+Period Continuous Agreement commencing 1 April 2017
+RiskDetails Page 1
+:
+:
+:
+RISK DETAILS
+UNIQUE MARKET REFERENCE
+REINSURED
+PERIOD Term Clause (LSW 1452)
+Document detailing terms and conditions for risks attaching during the period 1 April 2017 to 31 March 2018 both days inclusive any time zone as applicable to each risk that attaches hereunder.
+This Contract is continuous from 1 April 2017, subject to cancellation at any anniversary date by either party.
+Cancellation shall not prejudice any business accepted prior to the date on which the cancellation becomes operative. The next anniversary date shall be midnight 31 March 2018.
+TYPE Livestock Quota Share Reinsurance Agreement.
+CLASS OF BUSINESS Interest Clause (LSW 1453)
+All business underwritten by the Reinsured and allocated by them to their Avian Influenza Account in respect of business ceded to the Reinsured by National Farmers Union Mutual.
+However the following exclusions shall apply:
+1 Excess of Loss Reinsurance Exclusion Clause (LSW 257 (01/92)). 2. Terrorism Exclusion Endorsement (Reinsurance) NMA 2921
+TERRITORIAL SCOPE Losses wheresoever occurring.
+TREATY DETAIL Reinsuring Clause (As follows):
+TO TAKE A 75% QUOTA SHARE Reinsurance of the Reinsured's 50% co-insurance share of all business defined in the INTEREST CLAUSE, subject to the following Limit for 100% (including the Reinsured's retention hereunder) of:-
+RiskDetails Page 2
+:
+:
+:
+Up to GBP 5,000,000 or currency equivalent any one farm or location as agreed by leading underwriter (Markel International Insurance Company Ltd)
+Per county limits are as per the 2017 Avian Influenza Information Pack. These limits cannot be changed without the consent of the Reinsurers.
+RATE Original Net Premium as per Premium and Commission Clause (LSW 1454).
+less
+COMMISSION/ OVERIDING COMMISSION 10.00% commission as per Premium and Commission Clause (LSW 1454).
+PROFIT COMMISSION Profit Commission Clause (LSW 1456) 10.00% calculated as at 31 March of the third year of account for each Underwriting Year and adjusted annually as at 31 March. Five Year Deficit Clause. Reinsurers' expenses 10.00%.
+TAXES PAYABLE BY REINSURED AND ADMINISTERED BY REINSURERS None.
+TAXES PAYABLE BY REINSURER(S) AND ADMINISTERED BY THE REINSURED OR THEIR AGENT None.
+PREMIUM RESERVE AND INTEREST None
+LOSS RESERVE AND INTEREST None
+RiskDetails Page 3
+:
+:
+:
+CASH LOSS LIMIT
+GBP 166,667 for 100% any one occurrence as per Cash Loss Clause (LSW 1458).
+ACCOUNTS
+Accounts Clause (as follows):
+This Contract shall be accounted for on an Underwriting Year basis. For the purposes of this Contract the term "Underwriting Year" shall be deemed to mean all original policies and/or contracts attaching within the period 1 April to 31 March both days inclusive any time zone as applicable to each risk that attaches hereunder any one year.
+The Reinsured shall furnish the Reinsurers with quarterly accounts in which all items to the debit and credit of the Reinsured shall be included. The accounts shall be prepared as at 30 June, 30 September, 31 December and 31 March, The accounts shall be rendered by the Reinsured to the Reinsurers within 60 days of the close of each accounting period.
+The balance due by either party shall be payable within 30 days thereafter.
+The accounts shall be rendered and payable in Sterling, all other currencies being converted into and payable in Sterling at the rates of exchange received and paid by the Reinsured.
+BORDEREAUX
+The Reinsured shall provide the Reinsurer. with bordereaux as at 30 June, 30 September, 31 December and 31 March of each year detailing cessions and claims.
+PREMIUM PAYMENT TERMS
+None.
+CONDITIONS
+Amendments and Alterations Clause (LSW 319). Errors and Omissions Clause (LSW 321) Documentation Clause 7DQ) (LSW 322) Arbitration Clause (London, applying laws of England - Appointer- Chairman of Lloyd's) (LSW 323). Inspection of Documents Clause (LSW 818A). Net Retention Reinsurance Clause (Type of reinsurance: excess of loss and/or excess aggregate) (LSW 1463). Joint Account Reinsurance Clause (Type of reinsurance: facultative or excess of loss treaty) (LSW 1464). Loss Settlements Clause (LSW 1465). Extra Contractual Obligations Inclusion Clause (LSW 1466) Excess of Original Policy Limits Clause (LSW 1467).
+RiskDetails Page 4
+:
+:
+:
+Conformity Clause (As attached). Downgrade Clause (As attached). Follow the Fortunes Clause (As attached). Reinsured to be sole judge as to what shall constitute one risk and/or contract.
+In addition the following Standard Clauses apply:-
+War Inclusion Clause in respect of transit business only (LSW 259) (01/92). War Exclusion Clause in respect of all business other than transit (LSW 260) (01/92). Nuclear Incident Exclusion Clauses (LSW 271) (01/92). Endorsement to add Nuclear Energy (LSW 273) (01/92). Contract Continuity Clause (LSW 1035), Risks Exclusion Clause - NMA 1975 - Japanese Amendment (Amended• NMA 1975 replaced by NMA 1975A).
+are authorised to complete the page numbers and total number of pages without reference to Reinsurers.
+CHOICE OF LAW AND JURISDICTION
+Law and Jurisdiction Clause (English law and jurisdiction) (LSW 358)
+RECORDING, TRANSMITTING AND STORING INFORMATION
+Where the Intermediary or Intermediaries as applicable maintain(s) risk and claim data / information / documents the Intermediary or Intermediaries as applicable may hold such data / information / documents electronically.
+REINSURER CONTRACT DOCUMENTATION
+This Reinsurance Agreement details the Agreement terms entered into by the Reinsurer(s) and constitutes the Reinsurance Agreement.
+Any further documentation changing this Agreement, which has been appropriately agreed, shall form the evidence of such change(s).
+RiskDetails Page 5
+:
+:
+:
+ATTACHMENTS
+CONFORMITY CLAUSE
+As used herein:
+"Agreement" shall have the same meaning as "Contract"; and "Article" shall have the same meaning as "Clause"; and "Company" shall have the same meaning as "Reinsured".
+DOWNGRADE CLAUSE
+In the event the security rating of a Reinsurer is downgraded at any time below "A minus" as issued by Standard & Poor and/or "A minus" as issued by Bests, then the Reinsured shall have the option to reduce or terminate such Reinsurer's participation effective at any time on or after the date of the aforementioned downgrading. The effective date of the reduction or termination is to be advised by the Reinsured to the Reinsurer in writing and such date of reduction or termination shall not be prior to the date at which the Reinsured issues their written advice.
+In the case of termination of a Reinsurer's participation the Reinsured's advice shall detail whether they elect to continue to hold the Reinsurer liable for losses occurring on or after the effective date of termination in respect of risks attaching prior to the effective date of termination (hereinafter referred to as "Run-Off") or whether the Reinsurer is released from losses occurring on or after the effective date of termination in respect of risks attaching prior to the effective date of termination (hereinafter referred to as "Cut-Off"). The Premium due to such Reinsurer for such terminated participation shall be calculated pro rata as to time on risk of the Premium for the full period of each risk attaching to this Contract. Alternatively, if requested by the Reinsured, Premium terms are to be mutually agreed between the Reinsured and the terminated Reinsurer.
+In the case of reduction of a Reinsurer's participation the Reinsured's advice shall detail whether they elect to continue to hold the Reinsurer liable for losses occurring on or after the effective date-of reduction at the Reinsurer's reduced participation rate or at their participation rate prior to reduction in respect of risks attaching prior to the effective date of reduction. The Premium due to such Reinsurer for such reduced participation shall be calculated pro rata as to time on risk of the .Premium for the full period of each risk attaching to this Contract. Alternatively, if requested by the Reinsured, Premium terms are to be mutually agreed between the Reinsured and the Reinsurer whose participation has been reduced.
+For the purposes of this Clause, local standard time at the place where the loss occurs shall determine the date of loss. Furthermore, in the event of a Reinsurer's participation in this Contract being terminated or reduced whilst a loss is in progress, subject to the other conditions of this Contract, the Reinsurer shall pay their proportion of the entire loss based upon their participation rate applicable at the time the loss commenced.
+In the event of termination or reduction of a Reinsurer's participation in this Contract, the accounts provided for in the ACCOUNTS CLAUSE will continue to apply and all necessary adjustments will be made within such accounts unless mutually agreed between the Reinsured and the Reinsurer.
+As used herein. "Standard & Poor" refers to " S&P Global Ratings, a division of S&P Global Inc" and "Bests" refers to "AM: Best Company Inc." or successors of both.
+RiskDetails Page 6
+:
+:
+:
+FOLLOW THE FORTUNES CLAUSE
+Subject to the terms and conditions of this Contract, all cessions hereunder shall be subject to the same risks, terms, warranties, valuations, periods, clauses and conditions and the like, as the original policies and/or contracts as underwritten by the Reinsured.
+All loss settlements, including ex-gratia, without prejudice and compromise settlements, shall be unconditionally binding on the Reinsurers subject to the terms and conditions of this Contract.
+Signed in London this day of 20
+for and on behalf of
+Signed in the attached Written Lines Section for and on behalf of the subscribing Reinsurers.
+RiskDetails Page 7
+:
+:
+:
+SCHEDULE OF SUBJECTIVITIES
+The following subjectivity(ies) shall only be considered to form a part of this Agreement in respect of the participation of the individual Reinsurer who applied such subjectivity(ies) and to the participation of any other Reinsurer initialling such subjectivity(ies).
+The participation of, is subject to the following:-
+This Reinsurer is not liable to Federal Excise Tax (if applicable to this Contract) to the extent that the Reinsurer maintains its exempt status.
+The following amendments are made in respect of this Reinsurer:
+1) The following exclusions are incorporated into the CLASS OF BUSINESS section:-
+a) Malicious or wilful injury or criminal or intentional acts or omissions.
+b) Ionising radiations from or contamination by radioactivity from any nuclear fuel or from any nuclear waste or from the combustion of nuclear fuel.
+c) The radioactive, toxic, explosive or other hazardous or contaminating properties of any nuclear installation, reactor or other nuclear assembly or nuclear component thereof.
+d) Any weapon or device employing atomic or nuclear fission and/or fusion or other like reaction or radioactive force or matter.
+e) The radioactive toxic, explosive or other hazardous or contaminating properties of any radioactive matter. The exclusion in this sub clause does not extend to radioactive isotopes, other than nuclear fuel, when such isotopes are being prepared, carried, stored or used for commercial, agricultural, medical, scientific or other similar peaceful purposes.
+f) Any chemical, biological, bio-chemical or electromagnetic weapon.
+g) War, invasion, acts of foreign enemies, hostilities or war like operations (whether war be declared or not), civil war, rebellion, revolution, insurrection, military or usurped power, strikes. riots or civil commotion.
+h) Any Act of Terrorism, where an act of terrorism means an act, including but not limited to the use of force or violence and/or the threat thereof, of any person or group(s) of persons whether acting alone or on behalf of or in connection with any organisation(s) or governments (s) committed for political, religious ideological or similar purposes including the intention to influence any government and/or to put the public, or any section of the public, in fear.
+iSchedule of Subjectivities Page 1
+:
+:
+:
+2) The following amendments are made to the CONDITIONS section:
+Amendments and Alterations Clause (LSW 319) is deleted and replaced by Amendments and Alterations Clause (As attached).
+Errors and Omissions Clause (LSW 321) is deleted and replaced by Errors and Omissions Clause (As attached).
+Downgrade Clause (As attached) and the attachment referred to therein are deleted.
+Inspection of Documents Clause (LSW 818A) is deleted and replaced with Inspection of Documents Clause (As attached).
+Extra Contractual Obligations Inclusion Clause (LSW 1466) is deleted and replaced by Extra Contractual Obligations Inclusion Clause (As attached).
+Excess of Original Policy Limits Clause (LSW 1467)) is deleted and replaced by Excess of Original Policy Limits Clause (As attached).
+3) The following clauses are incorporated in the CONDITIONS section:
+Sanction Limitation and Exclusion Clause (LMA 3100)
+Claims Cooperation Clause (As attached)
+Claims Notification Clause (As attached)
+4) The Follow the Fortunes Clause is amended as attached.
+AMENDMENTS AND ALTERATIONS CLAUSE
+Any amendments or alterations to this Contract that are agreed between the parties herein shall be automatically binding and shall be considered as forming an integral part of this Contract Notwithstanding the foregoing, all amendments should be recorded in writing and signed by both parties.
+ERRORS AND OMISSIONS CLAUSE
+Any inadvertent delays, omissions or errors made in connection with this Contract shall not be held to relieve either of the parties hereto from any liability which would have attached to them hereunder if such delay, omission or error had not been made, provided rectification be made as soon as practicable after discovery. Notwithstanding the foregoing, this clause only applies to administrative or clerical delays, omissions of errors.
+INSPECTION OF DOCUMENTS CLAUSE
+1. All existing documents in the possession of the Reinsured which are relevant to any business protected by this Contract shall be open to inspection at the offices of the iSchedule of Subjectivities Page 2
+:
+:
+:
+Reinsured (or at any other place mutually agreed) in accordance with any reasonable conditions specified by the Reinsured.
+2. Such inspection shall be carried out by any representative duly authorised in writing by any Reinsurer party to this Contract, giving not less than ten working days notice of the first convenient date for such inspection via any named intermediary specified in the Contract.
+3. After such inspection the Reinsured shall, if requested by the Reinsurer, cause or permit copies to be made, at the expense of the Reinsurer, of all or any part of the said documents.
+4. (a) Should the said documents include any supplied by any other party under conditions of confidentiality, no inspection or copying can take place except in accordance with such conditions which may require consent of that party and for which the Reinsured shall apply to that party for the benefit of the Reinsurer.
+(b) A Reinsurer who submits a request for inspection in accordance with this Clause thereby agrees that all information and documents obtained by a duly authorised representative shall be for the exclusive and confidential use of that Reinsurer and for its internal business operations and their legal advisor, retrocessionaires. third party service providers and auditors and any other party as may be required by statutory, legal or regulatory authority and shall not be copied or otherwise released or disclosed to any other party whatsoever without the written consent of the Reinsured.
+5. The Reinsurer hereby assumes full responsibility for the observance of all provisions of this Clause by its directors, officers and employees.
+iSchedule of Subjectivities Page 3
+:
+:
+:
+EXTRA CONTRACTUAL OBLIGATIONS INCLUSION CLAUSE
+This Contract shall protect the Reinsured, up to the Limits of this Contract, for Extra Contractual Obligations
+(a) awarded against the Reinsured or
+(b) incurred by the Reinsured where they have paid their share of a "extra contractual obligation" awarded against one or more of their co-insurers.
+Extra Contractual Obligations are defined as those liabilities not covered under any other provision of this Contract and which arise from the handling of any claim not limited to the following: failure by the Reinsured to settle within the policy limit, or by reason of alleged or actual negligence, fraud or bad faith in rejecting an offer of settlement or in the preparation of the defence or in the trial of any action against its insured or reinsured or in the preparation or prosecution of an appeal consequent upon such action. The date on which any extra contractual obligation is incurred by the Reinsured shall be deemed. in all circumstances, to be the date of the original accident, casualty, disaster or loss occurrence.
+This Contract shall also extend to cover all loss from extra contractual obligations howsoever arising where the loss is incurred by the Reinsured as a result of their participation in any insurance or reinsurance which provides cover for such loss, it being understood and agreed that such loss results from a contractual liability incurred by the Reinsured.
+There shall be no liability under this Contract in respect of any assumption of liability by way of participation in any mutual scheme designed specifically to cover extra contractual obligations.
+However, this Article shall not apply where the loss has been incurred due to the fraud of a member of the Board of Directors or a Corporate Officer of the Reinsured acting individually or collectively or in collusion with any individual or corporation or any other organisation or party involved in the presentation, defence or settlement of any claim covered hereunder.
+EXCESS OF ORIGINAL POLICY LIMITS CLAUSE
+This Contract shall protect the Reinsured, up to the Limits of this Contract, in connection with any loss in excess of the limit of its Original policy, such loss in excess of the limit having been incurred because of failure by the Reinsured to settle within the policy limit or by reason of alleged or actual negligence, fraud or bad faith in rejecting an offer of settlement or in the preparation of the defence or in the trial of any action against its insured or reinsured or in the preparation or prosecution of an appeal consequent upon such action.
+However, this Article shall not apply where the loss has been incurred due to the fraud of a member of the Board of Directors or a Corporate Officer of the Reinsured acting individually or collectively or in collusion with any individual or corporation or any other organisation or party involved in the presentation, defence or settlement of any claim covered hereunder. For the purposes of this Article, the word "loss" shall mean any amounts for which the Reinsured would have been contractually liable to pay had it not been for the limit of the original policy.
+iSchedule of Subjectivities Page 4
+:
+:
+:
+CLAIMS COOPERATION CLAUSE
+1. Claims shall be settled by the Reinsured.
+2. As regards the settlement of any claims or loss to be notified immediately, it is a condition precedent to the Reinsurer's liability that, upon the Reinsurer's request, the Reinsured shall cooperate with the Reinsurer or any other person designated by the Reinsurer, in a timely manner.
+CLAIMS NOTIFlCATION CLAUSE
+1. It is a condition precedent to the Reinsurer's liability that the Reinsured shall give immediate notice of any claim or loss where its estimated amount exceeds or may possibly exceed the amount of USD 100,000 (for 100% of the Contract).
+2. Notice shall include information about facts, claim or loss assessment and estimated amount of loss. After such notice the Reinsured shall keep the Reinsurer informed about the development of any such claim or loss.
+FOLLOW THE FORTUNES CLAUSE
+Subject to the terms and conditions of this Contract, all cessions hereunder shall be subject to the same terms, warranties, valuations, periods, clauses and conditions and the like, as the original policies and/or contracts as underwritten by the Reinsured.
+All loss settlements, including without prejudice and compromise settlements, but excluding ex- gratia settlements, shall be unconditionally binding on the Reinsurers, subject to the terms and conditions of this Contract.
+iSchedule of Subjectivities Page 5
+:
+:
+:
+INFORMATION
+THIS INFORMATION SECTION LISTS INFORMATION MADE AVAILABLE TO REINSURERS FOR ASSESSMENT OF THE RISK. IT DOES NOT INCLUDE CONTRACTUAL TERMS AND CONDITIONS OF COVER.
+Information held in the records of
+Markel Livestock Consortium NFUM 2017 Avian Influenza Information Pack and subsequent information from seen and noted by all reinsurers hereon.
+A bulking lineslip will be placed for RAD 3 months 1.4.2017 with a 100% ENPI of GBP 200,000 for this period. A binding authority is being prepared to take effect from 1.7.2017
+2017 Leader Estimated Gross Net Written Premium Income (for 100%): GBP 1,000,000*
+* are of the opinion that as rates and demand for the product increase this 2017 EPI figure may be substantially higher.
+The Reinsurers acknowledge that the figures contained in the information are current at the date {s) stated therein and may increase or decrease at a later date. Neither the Reinsured nor will be required to provide updated figures or advise changes in respect of this information unless requested by the Reinsurer prior to the Reinsurer contracting to participate in this Contract or required by the terms and conditions of this Contract.
+HJG / 29/03/2017 Information Page 1
+:
+:
+:
+SECURITY DETAILS
+REINSURERS LIABILITY Reinsurers Liability Clause LMA3333
+Reinsurer's liability several not joint.
+The liability of a Reinsurer under this Agreement is several and not joint with other Reinsurers party to this Agreement. A Reinsurer is liable only for the proportion of liability it has underwritten. A Reinsurer is not jointly liable for the proportion of liability underwritten by any other Reinsurer. Nor is a Reinsurer otherwise responsible for any liability of any other Reinsurer that may underwrite this Agreement.
+The proportion of liability under this Agreement underwritten by a Reinsurer (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of the syndicate taken together) is shown next to its stamp. This is subject always to the provision concerning "signing" below.
+In the case of a Lloyd's syndicate, each member of the syndicate (rather than the syndicate itself) is a Reinsurer. Each member has underwritten a proportion of the total shown for the syndicate (that total itself being the total of the proportions underwritten by all the members of the syndicate taken together). The liability of each member of the syndicate is several and not joint with other members. A member is liable only for that member's proportion. A member is not jointly liable for any other member's proportion. Nor is any member otherwise responsible for any liability of any other Reinsurer that may underwrite this Agreement. The business address of each member is Lloyd's, One Lime Street, London EC3M 7HA. The identity of each member of a Lloyd's syndicate and their respective proportion may be obtained by writing to Market Services, Lloyd's, at the above address.
+Proportion of liability
+Unless there is "signing" (see below), the proportion of liability under this Agreement underwritten by each Reinsurer (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of the syndicate taken together) is shown next to its stamp and is referred to as its "written line".
+Where this Agreement permits, written lines, or certain written lines, may be adjusted ("signed"). In that case a schedule is to be appended to this Agreement to show the definitive proportion of liability under this Agreement underwritten by each Reinsurer (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of the syndicate taken together). A definitive proportion (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of a Lloyd's syndicate taken together) is referred to as a "signed Security Details Page 1
+:
+:
+:
+line". The signed lines shown in the schedule will prevail over the written lines unless a proven error in calculation has occurred.
+Although reference is made at various points in this clause to "this Agreement" in the singular, where the circumstances so require this should be read as a reference to Agreements in the plural.
+ORDER HEREON
+75% of Reinsured's 50% co-insurance share of business defined in the INTEREST CLAUSE
+BASIS OF WRITTEN LINES
+Percentage of Whole
+BASIS OF SIGNED LINES
+SIGNING PROVISIONS
+In the event that the written lines hereon exceed 100% of the order, any lines written "to stand" will be allocated in full and all other lines will be signed down in equal proportions so that the aggregate signed lines are equal to 100% of the order without further agreement of any of the Reinsurers.
+However:
+a) in the event that the placement of the order is not completed by the commencement date of the period of this Agreement then all lines written by that date will be signed in full;
+b) the Reinsured may elect for the disproportionate signing of Reinsurers' lines, without further specific agreement of Reinsurers, providing that any such variation is made prior to the commencement date of the period of this Agreement, and that lines written "to stand" may not be varied without the documented agreement of those Reinsurers;
+c) the signed lines resulting from the application of the above provisions can be varied, before or after the commencement date of the period of this Agreement, by the documented agreement of the Reinsured and all Reinsurers whose lines are to be varied. The variation to the Agreements will take effect only when all such Reinsurers have agreed, with the resulting variation in signed lines commencing from the date set out in that Agreement.
+LINE CONDITIONS
+None unless specified individually by Reinsurers hereon under their written participations.
+Security Details Page 2
+:
+:
+:
+MODE OF EXECUTION This Agreement and any changes to it may be executed by:
+(a) electronic signature technology employing computer software and a digital signature or digitiser pen pad to capture a person's handwritten signature in such a manner that the signature is unique to the person signing, is under the sole control of the person signing, is capable of verification to authenticate the signature and is linked to the document signed in such a manner that if the data is changed, such signature is invalidated;
+(b) a unique authorisation provided via a secure electronic trading platform
+(c) a timed and dated authorisation provided via an electronic message/system;
+(d) an exchange of facsimile/scanned copies showing the original written ink signature of paper documents;
+(e) an original written ink signature of paper documents (or a true representation of a signature, such as a rubber stamp).;
+The use of any one or a combination of these methods of execution shall constitute a legally binding and valid signing of this Agreement. This Agreement may be executed in one or more of the above counterparts, each of which, when duly executed, shall be deemed an original.
+Security Details Page 3
+:
+:
+:
+SECURITY DETAILS
+WRITTEN LINES
+B.I.P.A.R. Statement
+In a co-reinsurance placement, following reinsurers may, but are not obliged to, follow the premium charged by the lead reinsurer.
+Reinsurers may not seek to guarantee for themselves terms as favourable as those which others subsequently achieve during the placement.
+Reinsurer and Reference:
+Written line(s): Quota Share:
+% Ref.:
+Surplus:
+% Ref.:
+Final signed line(s): Quota Share:
+Surplus:
+%
+Line Condition(s):
+Signed in this day of 20
+Security Details Page
+:
+:
+:
+SECURITY DETAILS
+WRITTEN LINES
+B.I.P.A.R. Statement
+In a co-reinsurance placement, following reinsurers may, but are not obliged to, follow the premium charged by the lead reinsurer.
+Reinsurers may not seek to guarantee for themselves terms as favourable as those which others subsequently achieve during the placement.
+Reinsurer and Reference:
+Written line(s): Quota Share:
+% Ref.:
+Surplus:
+% Ref.:
+Final signed line(s): Quota Share:
+Surplus:
+%
+Line Condition(s):
+Signed in this day of 20
+Security Details Page
+:
+:
+:
+SECURITY DETAILS
+WRITTEN LINES
+B.I.P.A.R. Statement
+In a co-reinsurance placement, following reinsurers may, but are not obliged to, follow the premium charged by the lead reinsurer.
+Reinsurers may not seek to guarantee for themselves terms as favourable as those which others subsequently achieve during the placement.
+Reinsurer and Reference:
+Written line(s): Quota Share:
+% Ref.:
+Surplus:
+% Ref.:
+Final signed line(s): Quota Share:
+Surplus:
+%
+Line Condition(s):
+Signed in this day of 20
+Security Details Page
+:
+:
+:
+CONTRACT ADMINISTRATION AND ADVISORY SECTIONS
+SLIP LEADER BASIS OF AGREEMENT TO CONTRACT
+Subscription Agreement Page 1
+SUBSCRIPTION: AGREEMENT: CHANGES: Any future alterations shall be agreed by each Reinsurer in respect of their own participation hereon other than risks accepted pursuant to Special Acceptance Provision (if any).
+Subject to the foregoing:
+a. In respect of each Reinsurer which at any time has the ability to send and receive ACORD messages:
+i. Any contract change will be submitted by for agreement via an "ACORD message";
+ii. any contract change which requires notification will be notified by via an "ACORD message";
+iii. It is understood and agreed that whilst any contract change may be negotiated and agreed in any legally effective manner (and will be binding at that stage), such agreement of any contract change will be confirmed by each such Reinsurer via an appropriate "ACORD message". For the avoidance of any doubt, no further duty of disclosure arises in relation to any such confirmation.
+b. In respect of each Reinsurer who does not have the ability to send and receive ACORD messages:
+i. It is understood and agreed that whilst any contract change may be negotiated and agreed in any legally effective manner (and will be binding at that stage), any such contract change will be submitted/notified by electronically via email or other electronic means;
+ii. Such binding agreement of any contract change will be confirmed by each such Reinsurer via email or other electronic means. For the avoidance of any doubt, no further duty of disclosure arises in relation to any such confirmation.
+Subscription Agreement Page 2
+:
+:
+:
+BASIS OF CLAIMS AGREEMENT
+Llo yd 's Re ins urer s:
+Claims to be managed in accordance with The Lloyd's Claims Scheme (Combined), or as amended or any successor thereto.
+IUA Company Reinsurers:
+Claims to be managed in accordance with IUA (or successor organisations) Claims Agreement practices.
+Non-Bureaux Reinsurers:
+All claims shall be agreed by each Reinsurer according to their own practices.
+CLAIMS AGREEMENT PARTIES
+Llo yd 's Re ins urer s:
+All claims to be agreed by the Leading Lloyd's syndicate (and, where required by the applicable Claims Scheme, the second Lloyd's syndicate) and Xchanging Claims Services where there is more than one participating Lloyd's managing agent.
+Lloyd's Leader:
+The second Lloyd's syndicate is:
+IUA Company and Non-Bureaux Reinsurers
+All claims to be agreed by each Reinsurer in respect of their own participation.
+CLAIMS ADMINISTRATION
+Llo yd 's Re ins urer s:
+As detailed above.
+IUA Company Reinsurers:
+As detailed above.
+Non-Bureaux Reinsurers:
+Each Reinsurer agrees to receive all claims via Broker visit, email, repositories, facsimile or letter.
+Subscription Agreement Page 3
+:
+:
+:
+RULES AND EXTENT OF ANY OTHER DELEGATED CLAIMS AUTHORITY
+None, unless otherwise specified.
+SETTLEMENT DUE DATE
+BUREAUX ARRANGEMENTS
+Pro-Rata Accounts:
+Bureaux are authorised to take down accounts without Reinsured's documentation.
+If the Settlement Due Date falls on a Saturday, a Sunday or a Bank Holiday, it is agreed that the Settlement Due Date shall be changed to the first following working day.
+XIS are authorised to:
+- issue For Declaration Only (FDO) signings to allow prompt policy signing.
+- sign policies in multiple copies.
+Currency:
+All settlements (premiums and claims) to be converted to or paid in Pounds Sterling
+LLO YD 'S REINSURERS ONLY:
+Canadian Dollar/EURO Claims:
+Canadian Dollar/EURO Claims shall be payable by Lloyd's Reinsurers in United States Dollars/CURRENCY, the intermediary buying Canadian Dollars/EUROS and collecting the United States Dollar/CURRENCY equivalent. However, this condition shall not apply if Reinsurers have received Canadian Dollar/EURO Premium in respect of this Agreement.
+IUA COMPANY REINSURERS:
+XIS Currency Settlements Clause:
+All financial transactions due under this Agreement between the XIS member(s) and shall be settled in the same currency as indicated in this slip.
+Subscription Agreement Page 4
+:
+:
+:
+However, in the event of:
+1) one or more XIS members requesting an alternative settlement currency, at the time of writing their line, or, 2) where the currency(ies) indicated on this slip is not a currency in which the XIS settle, then such settlement currency shall be Pounds Sterling and/or United States Dollars and/or Euros.
+NON-BUREAUX ARRANGEMENTS None.
+Subscription Agreement Page 5
+:
+:
+:
+FISCAL AND REGULATORY
+TAXES PAYABLE BY REINSURER(S) As stated under the heading "Taxes payable by Reinsurer(s) and Administered by the Reinsured or their Agent".
+COUNTRY OF ORIGIN England. However, this does not limit or restrict to business originating from this country.
+OVERSEAS BROKER Direct Reinsured.
+US CLASSIFICATION Non-Regulated.
+ALLOCATION OF PREMIUM TO CODING Not applicable
+ALLOCATION OF PREMIUM TO YEAR OF ACCOUNT Not applicable
+REGULATORY CLIENT CLASSIFICATION Reinsurance.
+Fiscal and Regulatory Page
+:
+:
+:
+BROKER REMUNERATION AND DEDUCTIONS
+FEE PAYABLE BY REINSURED / CLIENT? No
+TOTAL BROKERAGE 2.5% levied on Original Net Premium
+OTHER DEDUCTIONS FROM PREMIUM None.
+HJG / 29/03/2017 Broker Remuneration and Deductions Page
+Agreement Number:
+Reinsured:
+Type of Agreement: Livestock Quota Share Reinsurance Agreement.
+Period: Continuous Agreement commencing 1 April 2017
+PREVIOUS REF. CLIENT REF.
+RELATED SLIPS
+SPECIAL INSTRUCTIONS
+ACCOUNT EXECUTIVE EXTN.
+SIGNED DATE
+ND 2 PAIR OF EYES SIGNED DATE
+LONDON TECHNICIAN EXTN.
+WORDING: LLOYDS ILU LIRMA COMPANY PARTICIPATION: PARTICIPATION: PARTICIPATION: PARTICIPATION:
+Slip Policy % % % %
