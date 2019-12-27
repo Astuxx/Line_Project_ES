@@ -94,7 +94,7 @@ public class Prova {
         String R7 = "[\\,\\]]$"; //single
         String R8 = "[\\-?]$";
 
-        String R9 = "^[a-z]\\."; //points listed
+        String R9 = "^[a-z]+\\."; //points listed
         String R10 = "^[0-9]+\\. [a-z,A-Z]"; //points listed
         String R11 = "^[a-z]+\\)";  //points listed
         String R15 = "^\\([a-z]+\\)"; //points listed
