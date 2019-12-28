@@ -25,9 +25,9 @@ public class Prova {
 
             line = br.readLine();
              
-            while (line == null) {
+            /*while (line == null) {
                 line = br.readLine();
-            }
+            }*/
             
             while (line != null) {
                 line = line.replaceFirst("^  *", "");
@@ -152,6 +152,7 @@ public class Prova {
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
         int size = lines.length;
+        System.out.println(lines[size - 1]);
 
         Integer[] check = new Integer[size]; 
         /*
@@ -288,26 +289,30 @@ public class Prova {
             }
         }*/
 
-        String ret = lines[0]; //String to return
+        StringBuilder ret = new StringBuilder();
+        ret.append(lines[0]);
 
         for (int i = 1; i<size; i++) {
             if(check[i]==1) {
-                ret = ret + " " +  lines[i];
+                ret.append(" ").append(lines[i]);
             }
             else if(check[i]==2) {
-                ret = ret + lines[i];
+                ret.append(lines[i]);
             }
             else {
-                ret = ret + "\n" + lines[i];
+                //ret = ret + "\n" + lines[i];
+                ret.append("\n").append(lines[i]);
             }
         }
         //print in a file
+
+        System.out.println("");
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
-            writer.write(ret);
+            writer.write(ret.toString());
         }
          //catch eventually error generate
-         catch(FileNotFoundException ex) {
+        catch(FileNotFoundException ex) {
             System.out.println(
                 "Unable to open file '" + "Prova_out.txt" + "'");
         }
@@ -316,6 +321,6 @@ public class Prova {
                 "Error reading file '" + "Prova_out.txt" + "'");
         }
 
-        return ret;
+        return ret.toString();
     }
 }
