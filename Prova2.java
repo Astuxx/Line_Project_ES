@@ -292,6 +292,7 @@ public class Prova2 {
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
             writer.write(ret);
+            writer.close();
         }
          //catch eventually error generate
          catch(FileNotFoundException ex) {
