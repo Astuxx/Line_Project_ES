@@ -310,6 +310,9 @@ public class Prova {
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
             writer.write(ret.toString());
+            writer.close();
+            //writer.write(x);
+
         }
          //catch eventually error generate
         catch(FileNotFoundException ex) {
@@ -320,7 +323,7 @@ public class Prova {
             System.out.println(
                 "Error reading file '" + "Prova_out.txt" + "'");
         }
-
+        
         return ret.toString();
     }
 }
