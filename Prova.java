@@ -289,7 +289,7 @@ public class Prova {
             }
         }*/
 
-        StringBuilder ret = new StringBuilder();
+        String ret = new String();
         ret.append(lines[0]);
 
         for (int i = 1; i<size; i++) {
@@ -305,11 +305,11 @@ public class Prova {
             }
         }
         //print in a file
-
+        
         System.out.println("");
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter("Prova_out.txt"));
-            writer.write(ret.toString());
+            writer.write(ret);
             writer.close();
             //writer.write(x);
 
