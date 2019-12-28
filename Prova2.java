@@ -208,6 +208,18 @@ public class Prova2 {
 
         //single regex
         for (int i = 0; i<size-1; i++) {
+
+            //System.out.println("ciao");
+            Matcher p = Pattern.compile("^[A-Z,a-z]+ [A-Z,a-z]+$").matcher(lines[i+1]); //find regex(part 1) in line i
+            Matcher q = Pattern.compile("^[A-Z,a-z]+$").matcher(lines[i+1]); //find regex(part 1) in line i
+            Matcher r = Pattern.compile("^[A-Z,a-z]+ [A-Z,a-z]+$").matcher(lines[i]);
+            Matcher s = Pattern.compile("^[A-Z,a-z]+$").matcher(lines[i]);
+            if ( (r.find() && ( p.find() || q.find() ))  || (s.find() && (p.find() || q.find())) ) {
+                System.out.println("ciao");
+                System.out.println(lines[i+1]);
+                check[i+1] = 1;
+            }
+
             if (check[i] != -1) {
                 //Pattern single
                 Matcher z = RegexSingle.get(0).matcher(lines[i]); //Regex R7
@@ -250,7 +262,6 @@ public class Prova2 {
                     check[i+1] = 1;
                 }
             }
-
         }//end for single regex
 
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
@@ -274,6 +285,17 @@ public class Prova2 {
                 }
             }
         } 
+
+        for (int i = 0; i<size; i++) { //controllo stringhe marcate con 0 e -1
+            if(check[i]==0){
+                System.out.println("LINEA MARCATA CON 0, riga numero       "+i+" "+lines[i]+"\n");
+            }
+        }
+        for (int i = 0; i<size; i++) {
+            if(check[i]==-1){
+                System.out.println("LINEA MARCATA CON -1, riga numero      "+i+" "+lines[i]+"\n");
+            }
+        }
 
         String ret = lines[0]; //String to return
 
