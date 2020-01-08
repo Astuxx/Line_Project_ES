@@ -262,6 +262,9 @@ public class Prova2 {
                     check[i+1] = 1;
                 }
             }
+            if (lines[i].charAt(0)== '"') {
+                check[i] = 1;
+            }
         }//end for single regex
 
         //Prima di tirar su le righe, controllo se altre possono essere tirate su!
