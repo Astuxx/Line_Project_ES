@@ -8,6 +8,11 @@ import java.io.File;
 import java.io.IOException;
 import java.util.regex.*;
 
+//for json
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
+
 public class Prova2 {
     public static void main(String Args[]) {
 
@@ -61,6 +66,8 @@ public class Prova2 {
         CompleteString = TextCleaning(CompleteString);
         //System.out.println(CompleteString);
         CompleteString = matchString(CompleteString);
+
+        CallJSon(CompleteString);
         //System.out.println(CompleteString);
        
         //volendo si può fare l'eliminazione degli spazi con ^ e $ però la regex deve essere multi-line
@@ -69,6 +76,21 @@ public class Prova2 {
         //System.out.println(CompleteString);
     }
 
+    public static void CallJSon(Sting x) {
+
+        //Create the request body
+        JSONObject obj = new JSONObject(); //Create a Json object 
+
+        obj.put("jsonrpc", "2.0");
+        obj.put("method", "analyzetext");
+        obj.put("id", "1");
+
+        JSONObject obj2 = new JSONObject();//Creata a new Json object to add at the first object 
+        obj2.put("package", LPK_URI);
+        obj2.put("data", x); //add the string of text
+
+        obj.put("params", obj2);
+    }
     public static String TextCleaning (String x ) {
 
         x = x.replaceAll("[ \t]+"," ");//delete tabulations, \t
