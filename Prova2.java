@@ -8,10 +8,13 @@ import java.io.File;
 import java.io.IOException;
 import java.util.regex.*;
 
-//for json
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
+import java.net.*;
 
+//for json
+//import org.json.simple.JSONArray;
+//import org.json.simple.JSONObject;
+//import org.json.simple.*;
+import com.github.cliftonlabs.json_simple;
 
 public class Prova2 {
     public static void main(String Args[]) {
@@ -76,20 +79,67 @@ public class Prova2 {
         //System.out.println(CompleteString);
     }
 
-    public static void CallJSon(Sting x) {
+    public static void CallJSon(String x) {
 
         //Create the request body
-        JSONObject obj = new JSONObject(); //Create a Json object 
+        Jsonbject obj = new JsonObject(); //Create a Json object 
 
         obj.put("jsonrpc", "2.0");
         obj.put("method", "analyzetext");
         obj.put("id", "1");
 
-        JSONObject obj2 = new JSONObject();//Creata a new Json object to add at the first object 
-        obj2.put("package", LPK_URI);
+        JsonObject obj2 = new JsonObject();//Creata a new Json object to add at the first object 
+        obj2.put("package", "base_eng");
         obj2.put("data", x); //add the string of text
 
         obj.put("params", obj2);
+
+        URL url = new URL ("http://157.27.193.120:6090/essex/json-rpc");
+        HttpURLConnection con = (HttpURLConnection)url.openConnection();
+        con.setRequestMethod("POST");
+        con.setRequestProperty("Content-Type", "application/json; utf-8");
+        con.setRequestProperty("Accept", "application/json");
+        con.setDoOutput(true);
+
+        try(OutputStream os = con.getOutputStream()) {
+            byte[] input = obj.getBytes("utf-8");
+            os.write(input, 0, input.length);           
+        }
+
+        try(BufferedReader br = new BufferedReader(
+        new InputStreamReader(con.getInputStream(), "utf-8"))) {
+            StringBuilder response = new StringBuilder();
+            String responseLine = null;
+            while ((responseLine = br.readLine()) != null) {
+                response.append(responseLine.trim());
+        }
+        
+        //System.out.println(response.toString());
+
+        try {
+            BufferedWriter writer = new BufferedWriter(new FileWriter("response.json"));
+            writer.write(response.toString());
+            writer.close();
+        }
+         //catch eventually error generate
+         catch(FileNotFoundException ex) {
+            System.out.println(
+                "Unable to open file '" + "response.json" + "'");
+        }
+        catch(IOException ex) {
+            System.out.println(
+                "Error reading file '" + "response.json" + "'");
+        }
+
+
+
+
+
+
+}
+
+
+
     }
     public static String TextCleaning (String x ) {
 
