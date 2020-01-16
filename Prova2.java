@@ -352,6 +352,7 @@ public class Prova2 extends Component {
         String R11 = "^[a-z]+\\)";  //points listed
         String R15 = "^\\([a-z]+\\)"; //points listed
         String R18 = "\\:$";
+        String R21 = "^[0-9][\\.,0-9]+ [a-z,A-Z]";//points listed (ex. number.number.number)
 
         String R12 ="([a-z,A-Z])(\\-)([ ,\n])([a-z,A-Z])"; //word- word --> word-word
         String R13 = "^(Page)( )([0-9]+)";
@@ -401,6 +402,7 @@ public class Prova2 extends Component {
         RegexSingleNegative.add(Pattern.compile(R13));
         RegexSingleNegative.add(Pattern.compile(R15));
         //RegexSingleNegative.add(Pattern.compile(R18));
+        RegexSingleNegative.add(Pattern.compile(R21));
 
         //int count = 0;
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
@@ -424,8 +426,9 @@ public class Prova2 extends Component {
             Matcher t = RegexSingleNegative.get(2).matcher(lines[i]);
             Matcher u = RegexSingleNegative.get(3).matcher(lines[i]);
             Matcher z = RegexSingleNegative.get(4).matcher(lines[i]);
+            Matcher w = RegexSingleNegative.get(5).matcher(lines[i]);
             //Matcher a = RegexSingleNegative.get(5).matcher(lines[i]);
-            if (r.find() || s.find() || t.find() || u.find() || z.find() ) {
+            if (r.find() || s.find() || t.find() || u.find() || z.find() || w.find() ) {
                 check[i] = -1; //
             }
 
