@@ -155,8 +155,6 @@ public class LineFunction {
 
         //single regex
         for (int i = 0; i<size-1; i++) {
-
-            //System.out.println("ciao");
             Matcher p = Pattern.compile("^[A-Z,a-z]+ [A-Z,a-z]+$").matcher(lines[i+1]); //find regex(part 1) in line i
             Matcher q = Pattern.compile("^[A-Z,a-z]+$").matcher(lines[i+1]); //find regex(part 1) in line i+1
             Matcher r = Pattern.compile("^[A-Z,a-z]+ [A-Z,a-z]+$").matcher(lines[i]);
