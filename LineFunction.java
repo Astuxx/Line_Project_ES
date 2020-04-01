@@ -23,50 +23,49 @@ public class LineFunction {
     public static String matchString (String x) throws IOException { //use of the regex to go up
         // the target and high frequency lines in the texts
 
-        //regex for a good end line
-        String R1 = "([a-z]+)$";//R1 AND R2
-        String R2 = "^([a-z]+)";
-        String R3 = "\\[0-9]+$"; //R3 AND R4
-        String R4 = "^[A-Z,a-z]{2,100}";
-        String R5 = "[a-z]$"; // R5 and R6
-        String R6 = "^\\b+";
+        //ReGeXSingle
+        String R1 = "[\\,\\]]$"; //single
+        String R2 = "[\\-?]$";
+        String R3 = "^\\([a-z]+";
+        String R4 = "^\\b[A-Z](\\w+)";
+        String R5 = "^[a-z]+"; //riga inizia con parola minuscola
+        String R6 = "^\\([A-Z,a-z]+ ";
 
-        String R7 = "[\\,\\]]$"; //single
-        String R8 = "[\\-?]$";
+        //ReGeXSingleNegative
+        String R7 = "^[a-z]\\."; //points listed
+        String R8 = "^[0-9]+\\. [a-z,A-Z]"; //points listed
+        String R9 = "^[a-z]+\\)";  //points listed
+        String R10 = "^(Page)( )([0-9]+)";
+        String R11 = "^\\([a-z]+\\)"; //points listed
+        String R12 = "^[0-9][\\.,0-9]+ [a-z,A-Z]";//points listed (ex. number.number.number)
 
-        String R9 = "^[a-z]\\."; //points listed
-        String R10 = "^[0-9]+\\. [a-z,A-Z]"; //points listed
-        String R11 = "^[a-z]+\\)";  //points listed
-        String R15 = "^\\([a-z]+\\)"; //points listed
-        String R18 = "\\:$";
-        String R21 = "^[0-9][\\.,0-9]+ [a-z,A-Z]";//points listed (ex. number.number.number)
+        //RegexDouble
+        String R13 = "([a-z]+)$";//R13 AND R14
+        String R14 = "^([a-z]+)";
+        String R15 = "\\[0-9]+$"; //R15 AND R16
+        String R16 = "^[A-Z,a-z]{2,100}";
+        String R17 = "[a-z]$"; // R17 and R18
+        String R18 = "^\\b+";
 
-        String R12 ="([a-z,A-Z])(\\-)([ ,\n])([a-z,A-Z])"; //word- word --> word-word
-        String R13 = "^(Page)( )([0-9]+)";
-        String R14 = "^\\([a-z]+";
-        String R16 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
-        String R17 = "^\\b[A-Z](\\w+)";
+        //String R18 = "\\:$";
+        //(String R12 ="([a-z,A-Z])(\\-)([ ,\n])([a-z,A-Z])"; //word- word --> word-word
+        //String R16 = "\\b[A-Z](\\w+)$"; //last word of a line ends with a Uppercase word
         //String R18 = "^\\([a-z]+";
-        String R19 = "^[a-z]+"; //riga inizia con parola minuscola
-        String R20 = "^\\([A-Z,a-z]+ ";
-
         //String R21 = "[0-9]+$";
         //String R22 = "^\\b[A-Z][a-z]+";
-
         /*String R23 = "\\([\\w ]+$";
         String R24 = "^[\\w ]+\\)";
-
         String R25 = "\\b[A-Z]{2,100}$";
         String R26 = "^\\b[A-Z]{2,100}";*/
 
         //create ad array with double regex
         ArrayList<Pattern> RegexDouble = new ArrayList<Pattern>();
-        RegexDouble.add(Pattern.compile(R1));
-        RegexDouble.add(Pattern.compile(R2));
-        RegexDouble.add(Pattern.compile(R3));
-        RegexDouble.add(Pattern.compile(R4));
-        RegexDouble.add(Pattern.compile(R5));
-        RegexDouble.add(Pattern.compile(R6));
+        RegexDouble.add(Pattern.compile(R13));
+        RegexDouble.add(Pattern.compile(R14));
+        RegexDouble.add(Pattern.compile(R15));
+        RegexDouble.add(Pattern.compile(R16));
+        RegexDouble.add(Pattern.compile(R17));
+        RegexDouble.add(Pattern.compile(R18));
         //RegexDouble.add(Pattern.compile(R21));
         //RegexDouble.add(Pattern.compile(R22));
         /*RegexDouble.add(Pattern.compile(R23));
@@ -76,22 +75,22 @@ public class LineFunction {
 
         //create ad array with single regex
         ArrayList<Pattern> RegexSingle = new ArrayList<Pattern>();
-        RegexSingle.add(Pattern.compile(R7));
-        RegexSingle.add(Pattern.compile(R8));
-        RegexSingle.add(Pattern.compile(R14));
-        RegexSingle.add(Pattern.compile(R17));
-        RegexSingle.add(Pattern.compile(R19));
-        RegexSingle.add(Pattern.compile(R20));
+        RegexSingle.add(Pattern.compile(R1));
+        RegexSingle.add(Pattern.compile(R2));
+        RegexSingle.add(Pattern.compile(R3));
+        RegexSingle.add(Pattern.compile(R4));
+        RegexSingle.add(Pattern.compile(R5));
+        RegexSingle.add(Pattern.compile(R6));
 
         //regex for lines that should not be pulled up
         ArrayList<Pattern> RegexSingleNegative = new ArrayList<Pattern>();
+        RegexSingleNegative.add(Pattern.compile(R7));
+        RegexSingleNegative.add(Pattern.compile(R8));
         RegexSingleNegative.add(Pattern.compile(R9));
         RegexSingleNegative.add(Pattern.compile(R10));
         RegexSingleNegative.add(Pattern.compile(R11));
-        RegexSingleNegative.add(Pattern.compile(R13));
-        RegexSingleNegative.add(Pattern.compile(R15));
         //RegexSingleNegative.add(Pattern.compile(R18));
-        RegexSingleNegative.add(Pattern.compile(R21));
+        RegexSingleNegative.add(Pattern.compile(R12));
 
         String lines[] = x.split("\\n"); //split line and save the single string without '\n'
         int size = lines.length;
