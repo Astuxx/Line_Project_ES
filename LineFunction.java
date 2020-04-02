@@ -45,7 +45,7 @@ public class LineFunction {
         String R15 = "\\[0-9]+$"; //R15 AND R16
         String R16 = "^[A-Z,a-z]{2,100}";
         String R17 = "[a-z]$"; // R17 and R18
-        String R18 = "^\\b+";
+        String R18 = "^\\d+";
 
         //String R18 = "\\:$";
         //(String R12 ="([a-z,A-Z])(\\-)([ ,\n])([a-z,A-Z])"; //word- word --> word-word
